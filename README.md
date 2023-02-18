@@ -46,7 +46,7 @@
 
 | 認定日     | 認定資格名                                    |
 | :--------- | :-------------------------------------------- |
-| 2022.12.08 | Cloud Digital Leader |
+| 2022.12.08 | [Cloud Digital Leader](https://www.credential.net/31616809-11ad-41e9-b6fe-863fe521ee9e) |
 
 ### AWS認定資格
 
