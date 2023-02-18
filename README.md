@@ -3,6 +3,7 @@
 
 - [プロフィール](#プロフィール)
   - [基本情報](#基本情報)
+    - [Microsoft Azure認定資格](#microsoft-azure認定資格)
     - [Google Cloud認定資格](#google-cloud認定資格)
     - [AWS認定資格](#aws認定資格)
     - [その他の認定資格](#その他の認定資格)
@@ -34,6 +35,12 @@
 | Twitter | [@ymd65536](https://twitter.com/ymd65536) |
 | Qiita   | [ymd65536](https://qiita.com/ymd65536)    |
 | zenn    | [ymd65536](https://zenn.dev/ymd65536)     |
+
+### Microsoft Azure認定資格
+
+| 認定日     | 認定資格名                                    |
+| :--------- | :-------------------------------------------- |
+| 2023.02.18 | Microsoft Azure Fundamentals(AZ900)|
 
 ### Google Cloud認定資格
 
