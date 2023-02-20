@@ -40,7 +40,7 @@
 
 | 認定日     | 認定資格名                                    |
 | :--------- | :-------------------------------------------- |
-| 2023.02.18 | Microsoft Azure Fundamentals(AZ900)|
+| 2023.02.18 | [Microsoft Azure Fundamentals(AZ900)](https://www.credly.com/badges/b6029775-d567-4464-94b7-a37ff42a5a68/public_url)|
 
 ### Google Cloud認定資格
 
