@@ -78,6 +78,7 @@
 | 2022.02.04 | [AWS認定資格実力チェックLINEbotを作るハンズオン【Cloud Tech × LINEDC】 - YouTube](https://www.youtube.com/watch?v=nQIDD5TtD4o)                                            |
 | 2022.02.08 | [【切り抜き】LINE Developer Community 招待LT - 【とりあえずハンズオン】AWS×LINEで実践！AWS利用料返信Botをつくろう - YouTube](https://www.youtube.com/watch?v=PJhL41zbGjA) |
 | 2022.06.29 | [(司会進行)LINEDC Monthly LT #3 -【LINEと繋がるプラットフォーム集合〜サーバレス特集】 - YouTube](https://www.youtube.com/watch?v=fVJnnJQ3afI) |
+| 2023.03.31 | [クラウド監視・運用保守の品質がさらに進化。AMS 適用やインシデント対応品質を高める「運用分析プラットフォーム」を短期間で構築](https://www.iret.co.jp/works/126.html) |
 
 ### 執筆歴
 
