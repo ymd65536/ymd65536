@@ -79,6 +79,7 @@
 | 2022.02.08 | [【切り抜き】LINE Developer Community 招待LT - 【とりあえずハンズオン】AWS×LINEで実践！AWS利用料返信Botをつくろう - YouTube](https://www.youtube.com/watch?v=PJhL41zbGjA) |
 | 2022.06.29 | [(司会進行)LINEDC Monthly LT #3 -【LINEと繋がるプラットフォーム集合〜サーバレス特集】 - YouTube](https://www.youtube.com/watch?v=fVJnnJQ3afI) |
 | 2023.03.31 | [クラウド監視・運用保守の品質がさらに進化。AMS 適用やインシデント対応品質を高める「運用分析プラットフォーム」を短期間で構築](https://www.iret.co.jp/works/126.html) |
+| 2023.03.31 | [Kento.Yamadaさん 〜通信キャリアからクラウドインテグレーターへ〜](https://podcasters.spotify.com/pod/show/5rh9uag8ah/episodes/Kento-Yamada-e22vd6v) |
 
 ### 執筆歴
 
