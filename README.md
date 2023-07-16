@@ -87,10 +87,12 @@
 
 | 年月日       | 内容                                                                                                                                                                                                          |
 | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2020 年 5 月 | [エンジニア認定基礎試験合格体験記 一般社団法人 Python エンジニア育成推進協会](https://www.pythonic-exam.com/archives/1453)                                                                                    |
-| 2022 年 1 月 | [AWSエンジニア入門講座――学習ロードマップで体系的に学ぶ](https://www.amazon.co.jp/dp/B09PYMQZD4/ref=cm_sw_r_tw_dp_Y89YQ76N5C6TMFEJKNWG)|
-| 2022 年 8 月 | [AWS認定資格 ソリューションアーキテクトアソシエイトの教科書: 合格へ導く虎の巻 Kindle版](https://www.amazon.co.jp/dp/B0BCPNZ9GJ/ref=cm_sw_r_tw_dp_W6F2DZMND41R6CN1J412)|
+| 2023 年 7 月 | [LookerをGitHubと連携してみた - iret.media](https://iret.media/74782)|
+| 2023 年 6 月 | [LookerとAmazon Athenaを接続してみた - iret.media](https://iret.media/74677)|
 | 2023 年 3 月 | [IAM Identity Centerを使ってboto3 の検証環境を構築する - iret.media](https://iret.media/70939)|
+| 2022 年 8 月 | [AWS認定資格 ソリューションアーキテクトアソシエイトの教科書: 合格へ導く虎の巻 Kindle版](https://www.amazon.co.jp/dp/B0BCPNZ9GJ/ref=cm_sw_r_tw_dp_W6F2DZMND41R6CN1J412)|
+| 2022 年 1 月 | [AWSエンジニア入門講座――学習ロードマップで体系的に学ぶ](https://www.amazon.co.jp/dp/B09PYMQZD4/ref=cm_sw_r_tw_dp_Y89YQ76N5C6TMFEJKNWG)|
+| 2020 年 5 月 | [エンジニア認定基礎試験合格体験記 一般社団法人 Python エンジニア育成推進協会](https://www.pythonic-exam.com/archives/1453)                                                                                    |
 
 ### 受賞歴
 
