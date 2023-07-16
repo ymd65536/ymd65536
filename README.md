@@ -8,6 +8,7 @@
     - [AWS認定資格](#aws認定資格)
     - [その他の認定資格](#その他の認定資格)
     - [外部発信](#外部発信)
+    - [書籍](#書籍)
     - [執筆歴](#執筆歴)
     - [受賞歴](#受賞歴)
   - [現在のポジション](#現在のポジション)
@@ -83,6 +84,13 @@
 | 2023.03.31 | [クラウド監視・運用保守の品質がさらに進化。AMS 適用やインシデント対応品質を高める「運用分析プラットフォーム」を短期間で構築](https://www.iret.co.jp/works/126.html) |
 | 2023.04.27 | [Kento.Yamadaさん 〜通信キャリアからクラウドインテグレーターへ〜](https://podcasters.spotify.com/pod/show/5rh9uag8ah/episodes/Kento-Yamada-e22vd6v) |
 
+### 書籍
+
+| 年月日       | 内容                                                                                                                                                                                                          |
+| :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022 年 8 月 | [AWS認定資格 ソリューションアーキテクトアソシエイトの教科書: 合格へ導く虎の巻 Kindle版](https://www.amazon.co.jp/dp/B0BCPNZ9GJ/ref=cm_sw_r_tw_dp_W6F2DZMND41R6CN1J412)|
+| 2022 年 1 月 | [AWSエンジニア入門講座――学習ロードマップで体系的に学ぶ](https://www.amazon.co.jp/dp/B09PYMQZD4/ref=cm_sw_r_tw_dp_Y89YQ76N5C6TMFEJKNWG)|
+
 ### 執筆歴
 
 | 年月日       | 内容                                                                                                                                                                                                          |
@@ -90,8 +98,6 @@
 | 2023 年 7 月 | [LookerをGitHubと連携してみた - iret.media](https://iret.media/74782)|
 | 2023 年 6 月 | [LookerとAmazon Athenaを接続してみた - iret.media](https://iret.media/74677)|
 | 2023 年 3 月 | [IAM Identity Centerを使ってboto3 の検証環境を構築する - iret.media](https://iret.media/70939)|
-| 2022 年 8 月 | [AWS認定資格 ソリューションアーキテクトアソシエイトの教科書: 合格へ導く虎の巻 Kindle版](https://www.amazon.co.jp/dp/B0BCPNZ9GJ/ref=cm_sw_r_tw_dp_W6F2DZMND41R6CN1J412)|
-| 2022 年 1 月 | [AWSエンジニア入門講座――学習ロードマップで体系的に学ぶ](https://www.amazon.co.jp/dp/B09PYMQZD4/ref=cm_sw_r_tw_dp_Y89YQ76N5C6TMFEJKNWG)|
 | 2020 年 5 月 | [エンジニア認定基礎試験合格体験記 一般社団法人 Python エンジニア育成推進協会](https://www.pythonic-exam.com/archives/1453)                                                                                    |
 
 ### 受賞歴
