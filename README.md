@@ -50,6 +50,7 @@
 | :--------- | :-------------------------------------------- |
 | 2022.12.08 | [Cloud Digital Leader](https://www.credential.net/31616809-11ad-41e9-b6fe-863fe521ee9e) |
 | 2023.06.21 | [Associate Cloud Engineer](https://www.credential.net/31616809-11ad-41e9-b6fe-863fe521ee9e) |
+| 2023.08.03 | [Professional Cloud Developer]() |
 
 ### AWS認定資格
 
