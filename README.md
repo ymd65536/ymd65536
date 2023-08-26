@@ -96,6 +96,7 @@
 | 年月日       | 内容                                                                                                                                                                                                          |
 | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 2023 年 8 月 | [PaLMが日本語応答に対応！PaLMのAPIをJupyter Notebookから実行するハンズオン！](https://iret.media/78361)|
+| 2023 年 7 月 | [用語を整理しながら学ぶLooker - iret.media](https://iret.media/76108)|
 | 2023 年 7 月 | [LookerをGitHubと連携してみた - iret.media](https://iret.media/74782)|
 | 2023 年 6 月 | [LookerとAmazon Athenaを接続してみた - iret.media](https://iret.media/74677)|
 | 2023 年 3 月 | [IAM Identity Centerを使ってboto3 の検証環境を構築する - iret.media](https://iret.media/70939)|
