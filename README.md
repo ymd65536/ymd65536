@@ -77,7 +77,6 @@
 | 年月日     | 内容                                                                                                                                                                      |
 | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 2023.08.15 | [【社内イベント 開催レポート】Google Cloud認定資格 Associate Cloud Engineer対策講座](https://iret.media/76774) |
-| 2023.08.07 | [(※共同著者) PagerDuty Summit Tokyo 2023レポート](https://iret.media/76538) |
 | 2023.04.27 | [Kento.Yamadaさん 〜通信キャリアからクラウドインテグレーターへ〜](https://podcasters.spotify.com/pod/show/5rh9uag8ah/episodes/Kento-Yamada-e22vd6v) |
 | 2023.03.31 | [クラウド監視・運用保守の品質がさらに進化。AMS 適用やインシデント対応品質を高める「運用分析プラットフォーム」を短期間で構築](https://www.iret.co.jp/works/126.html) |
 | 2022.06.29 | [(司会進行)LINEDC Monthly LT #3 -【LINEと繋がるプラットフォーム集合〜サーバレス特集】 - YouTube](https://www.youtube.com/watch?v=fVJnnJQ3afI) |
@@ -99,6 +98,7 @@
 | 年月日       | 内容                                                                                                                                                                                                          |
 | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 2023 年 8 月 | [PaLMが日本語応答に対応！PaLMのAPIをJupyter Notebookから実行するハンズオン！](https://iret.media/78361)|
+| 2023 年 8 月 | [(※共同著者) PagerDuty Summit Tokyo 2023レポート](https://iret.media/76538) |
 | 2023 年 7 月 | [用語を整理しながら学ぶLooker - iret.media](https://iret.media/76108)|
 | 2023 年 7 月 | [LookerをGitHubと連携してみた - iret.media](https://iret.media/74782)|
 | 2023 年 6 月 | [LookerとAmazon Athenaを接続してみた - iret.media](https://iret.media/74677)|
