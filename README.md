@@ -80,6 +80,7 @@
 | 2023.04.27 | [Kento.Yamadaさん 〜通信キャリアからクラウドインテグレーターへ〜](https://podcasters.spotify.com/pod/show/5rh9uag8ah/episodes/Kento-Yamada-e22vd6v) |
 | 2023.03.31 | [クラウド監視・運用保守の品質がさらに進化。AMS 適用やインシデント対応品質を高める「運用分析プラットフォーム」を短期間で構築](https://www.iret.co.jp/works/126.html) |
 | 2022.06.29 | [(司会進行)LINEDC Monthly LT #3 -【LINEと繋がるプラットフォーム集合〜サーバレス特集】 - YouTube](https://www.youtube.com/watch?v=fVJnnJQ3afI) |
+| 2022.03.16 | [（一部登場）“年収200万のブラックSIer”から”GMO主任エンジニア”に。くろかわこうへい主宰の『CloudTech』から自走できるAWSエンジニアが生まれるワケ](https://and-engineer.com/articles/YhdlgBMAACAAgDqf) |
 | 2022.02.08 | [【切り抜き】LINE Developer Community 招待LT - 【とりあえずハンズオン】AWS×LINEで実践！AWS利用料返信Botをつくろう - YouTube](https://www.youtube.com/watch?v=PJhL41zbGjA) |
 | 2022.02.04 | [AWS認定資格実力チェックLINEbotを作るハンズオン【Cloud Tech × LINEDC】 - YouTube](https://www.youtube.com/watch?v=nQIDD5TtD4o)                                            |
 | 2022.01.17 | [LINE Developer Community - 【好評企画！】Qiita/Zenn 人気記事執筆者が語るLINE APIの魅力【招待LT会】 - YouTube](https://www.youtube.com/watch?v=45lPn92vHao&t=1156s)       |
