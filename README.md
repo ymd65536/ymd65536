@@ -104,13 +104,7 @@
 | 2023 年 7 月 | [LookerをGitHubと連携してみた - iret.media](https://iret.media/74782)|
 | 2023 年 6 月 | [LookerとAmazon Athenaを接続してみた - iret.media](https://iret.media/74677)|
 | 2023 年 3 月 | [IAM Identity Centerを使ってboto3 の検証環境を構築する - iret.media](https://iret.media/70939)|
-| 2020 年 5 月 | [エンジニア認定基礎試験合格体験記 一般社団法人 Python エンジニア育成推進協会](https://www.pythonic-exam.com/archives/1453)                                                                                    |
-
-### 受賞歴
-
-|年|内容|
-|:---|:---|
-|2018年頃|ベストエンジニア賞を受賞(エボルバ社内)|
+| 2020 年 5 月 | [エンジニア認定基礎試験合格体験記 一般社団法人 Python エンジニア育成推進協会](https://www.pythonic-exam.com/archives/1453)                                                                                    
 
 ## 現在のポジション
 
