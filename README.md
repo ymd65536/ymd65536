@@ -47,6 +47,7 @@
 
 | 認定日     | 認定資格名                                    |
 | :--------- | :-------------------------------------------- |
+| 2023.09.12 | [Professional Cloud Architect]() |
 | 2023.08.03 | [Professional Cloud Developer](https://google.accredible.com/6707d6fc-fd85-4a3d-ae31-7313fa8d8f08) |
 | 2023.06.21 | [Associate Cloud Engineer](https://www.credential.net/31616809-11ad-41e9-b6fe-863fe521ee9e) |
 | 2022.12.08 | [Cloud Digital Leader](https://www.credential.net/31616809-11ad-41e9-b6fe-863fe521ee9e) |
