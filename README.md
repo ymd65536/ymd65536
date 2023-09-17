@@ -76,6 +76,7 @@
 
 | 年月日     | 内容                                                                                                                                                                      |
 | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2023.09.16 | [Japan Azure User Group 13周年イベント](https://jazug.connpass.com/event/293744/) |
 | 2023.09.09 | [転職相談フェア『クラウド万博2023』](https://cloudpack.jp/event/cloudpack-expo-2023.html) |
 | 2023.08.15 | [【社内イベント 開催レポート】Google Cloud認定資格 Associate Cloud Engineer対策講座](https://iret.media/76774) |
 | 2023.06.27 | [NRUG (New Relic User Group) SRE支部 Vol.3 俺達のSREとNew Relicを読んでみた](https://nrug-sre.connpass.com/event/285748/) |
