@@ -97,9 +97,9 @@
 
 | 年月日       | 内容                                                                                                                                                                                                          |
 | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2023 年 9 月 | [CodeシリーズでハッピーなCI/CDを構築しよう【AWSハンズオン虎の巻シリーズ】: 知識がなくても手を動かしながらCI/CDをAWS上に実装できる一冊！ Kindle版](https://amzn.asia/d/16cRw4P)|
-| 2022 年 8 月 | [AWS認定資格 ソリューションアーキテクトアソシエイトの教科書: 合格へ導く虎の巻 Kindle版](https://www.amazon.co.jp/dp/B0BCPNZ9GJ/ref=cm_sw_r_tw_dp_W6F2DZMND41R6CN1J412)|
-| 2022 年 1 月 | [AWSエンジニア入門講座――学習ロードマップで体系的に学ぶ](https://www.amazon.co.jp/dp/B09PYMQZD4/ref=cm_sw_r_tw_dp_Y89YQ76N5C6TMFEJKNWG)|
+| 2023.09.02 | [CodeシリーズでハッピーなCI/CDを構築しよう【AWSハンズオン虎の巻シリーズ】: 知識がなくても手を動かしながらCI/CDをAWS上に実装できる一冊！ Kindle版](https://amzn.asia/d/16cRw4P)|
+| 2022.08.31 | [AWS認定資格 ソリューションアーキテクトアソシエイトの教科書: 合格へ導く虎の巻 Kindle版](https://www.amazon.co.jp/dp/B0BCPNZ9GJ/ref=cm_sw_r_tw_dp_W6F2DZMND41R6CN1J412)|
+| 2022.01.14 | [AWSエンジニア入門講座――学習ロードマップで体系的に学ぶ](https://www.amazon.co.jp/dp/B09PYMQZD4/ref=cm_sw_r_tw_dp_Y89YQ76N5C6TMFEJKNWG)|
 
 ### 執筆歴
 
