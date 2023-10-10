@@ -105,15 +105,15 @@
 
 | 年月日       | 内容                                                                                                                                                                                                          |
 | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|2023年 10月 3日|[Amazon BedrockでLINE botを作ってみた！](https://iret.media/83056)|
-| 2023 年 8 月 | [用語を整理しながら学ぶLooker – ダッシュボード編](https://iret.media/78955)|
-| 2023 年 8 月 | [PaLMが日本語応答に対応！PaLMのAPIをJupyter Notebookから実行するハンズオン！](https://iret.media/78361)|
-| 2023 年 8 月 | [(※共同著者) PagerDuty Summit Tokyo 2023レポート](https://iret.media/76538) |
-| 2023 年 7 月 | [用語を整理しながら学ぶLooker - iret.media](https://iret.media/76108)|
-| 2023 年 7 月 | [LookerをGitHubと連携してみた - iret.media](https://iret.media/74782)|
-| 2023 年 6 月 | [LookerとAmazon Athenaを接続してみた - iret.media](https://iret.media/74677)|
-| 2023 年 3 月 | [IAM Identity Centerを使ってboto3 の検証環境を構築する - iret.media](https://iret.media/70939)|
-| 2020 年 5 月 | [エンジニア認定基礎試験合格体験記 一般社団法人 Python エンジニア育成推進協会](https://www.pythonic-exam.com/archives/1453) |
+| 2023.10.03 |[Amazon BedrockでLINE botを作ってみた！](https://iret.media/83056)|
+| 2023.08.31 | [用語を整理しながら学ぶLooker – ダッシュボード編](https://iret.media/78955)|
+| 2023.08.22 | [PaLMが日本語応答に対応！PaLMのAPIをJupyter Notebookから実行するハンズオン！](https://iret.media/78361)|
+| 2023.08.07 | [(※共同著者) PagerDuty Summit Tokyo 2023レポート](https://iret.media/76538) |
+| 2023.07.29 | [用語を整理しながら学ぶLooker - iret.media](https://iret.media/76108)|
+| 2023.07.06 | [LookerをGitHubと連携してみた - iret.media](https://iret.media/74782)|
+| 2023.06.29 | [LookerとAmazon Athenaを接続してみた - iret.media](https://iret.media/74677)|
+| 2023.03.19 | [IAM Identity Centerを使ってboto3 の検証環境を構築する - iret.media](https://iret.media/70939)|
+| 2020.05.25 | [エンジニア認定基礎試験合格体験記 一般社団法人 Python エンジニア育成推進協会](https://www.pythonic-exam.com/archives/1453) |
 
 ## 現在のポジション
 
