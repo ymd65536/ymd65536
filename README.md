@@ -78,11 +78,11 @@
 | 年月日     | 内容                                                                                                                                                                      |
 | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 2023.09.22 | [（登壇）　インフラエンジニアBooks#37 - 30分でわかる「AWSエンジニア入門講座」 - YouTube](https://www.youtube.com/live/xn7MtnnJ1f8?feature=shared&t=1231) |
-| 2023.09.16 | （ショートセッション）　[Japan Azure User Group 13周年イベント](https://www.youtube.com/live/OJ_4UnhtJzI?feature=shared&t=14461) |
+| 2023.09.16 | [（ショートセッション）　　Japan Azure User Group 13周年イベント](https://www.youtube.com/live/OJ_4UnhtJzI?feature=shared&t=14461) |
 | 2023.09.09 | [（登壇）　転職相談フェア『クラウド万博2023』](https://cloudpack.jp/event/cloudpack-expo-2023.html) |
-| 2023.08.15 | （パネルディスカッション）　[【社内イベント 開催レポート】Google Cloud認定資格 Associate Cloud Engineer対策講座](https://iret.media/76774) |
+| 2023.08.15 | [（パネルディスカッション）　【社内イベント 開催レポート】Google Cloud認定資格 Associate Cloud Engineer対策講座](https://iret.media/76774) |
 | 2023.06.27 | [（登壇）　NRUG (New Relic User Group) SRE支部 Vol.3 俺達のSREとNew Relicを読んでみた](https://nrug-sre.connpass.com/event/285748/) |
-| 2023.06.23 | （ハンズオン）　[Momentoの管理インターフェイス周りを調べてみた。(Momento CLIをハンズオン)](https://speakerdeck.com/ymd65536/momentonoguan-li-intahueisuzhou-riwodiao-betemita-momento-cliwohanzuon) |
+| 2023.06.23 | [（ハンズオン）　Momentoの管理インターフェイス周りを調べてみた。(Momento CLIをハンズオン)](https://speakerdeck.com/ymd65536/momentonoguan-li-intahueisuzhou-riwodiao-betemita-momento-cliwohanzuon) |
 | 2023.04.27 | [（出演）　Kento.Yamadaさん 〜通信キャリアからクラウドインテグレーターへ〜](https://podcasters.spotify.com/pod/show/5rh9uag8ah/episodes/Kento-Yamada-e22vd6v) |
 | 2023.03.31 | [（事例公開）　クラウド監視・運用保守の品質がさらに進化。AMS 適用やインシデント対応品質を高める「運用分析プラットフォーム」を短期間で構築](https://www.iret.co.jp/works/126.html) |
 | 2022.06.29 | [(司会進行＆登壇）LINEDC Monthly LT #3 -【LINEと繋がるプラットフォーム集合〜サーバレス特集】 - YouTube](https://www.youtube.com/watch?v=fVJnnJQ3afI) |
