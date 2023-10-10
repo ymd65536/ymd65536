@@ -77,21 +77,21 @@
 
 | 年月日     | 内容                                                                                                                                                                      |
 | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2023.09.22 | [インフラエンジニアBooks#37 - 30分でわかる「AWSエンジニア入門講座」 - YouTube](https://www.youtube.com/live/xn7MtnnJ1f8?feature=shared&t=1231) |
-| 2023.09.16 | [Japan Azure User Group 13周年イベント](https://www.youtube.com/live/OJ_4UnhtJzI?feature=shared&t=14461) |
-| 2023.09.09 | [転職相談フェア『クラウド万博2023』](https://cloudpack.jp/event/cloudpack-expo-2023.html) |
-| 2023.08.15 | [【社内イベント 開催レポート】Google Cloud認定資格 Associate Cloud Engineer対策講座](https://iret.media/76774) |
-| 2023.06.27 | [NRUG (New Relic User Group) SRE支部 Vol.3 俺達のSREとNew Relicを読んでみた](https://nrug-sre.connpass.com/event/285748/) |
-| 2023.06.23 | [Momentoの管理インターフェイス周りを調べてみた。(Momento CLIをハンズオン)](https://speakerdeck.com/ymd65536/momentonoguan-li-intahueisuzhou-riwodiao-betemita-momento-cliwohanzuon) |
-| 2023.04.27 | [Kento.Yamadaさん 〜通信キャリアからクラウドインテグレーターへ〜](https://podcasters.spotify.com/pod/show/5rh9uag8ah/episodes/Kento-Yamada-e22vd6v) |
-| 2023.03.31 | [クラウド監視・運用保守の品質がさらに進化。AMS 適用やインシデント対応品質を高める「運用分析プラットフォーム」を短期間で構築](https://www.iret.co.jp/works/126.html) |
-| 2022.06.29 | [(司会進行)LINEDC Monthly LT #3 -【LINEと繋がるプラットフォーム集合〜サーバレス特集】 - YouTube](https://www.youtube.com/watch?v=fVJnnJQ3afI) |
+| 2023.09.22 | [（登壇）　インフラエンジニアBooks#37 - 30分でわかる「AWSエンジニア入門講座」 - YouTube](https://www.youtube.com/live/xn7MtnnJ1f8?feature=shared&t=1231) |
+| 2023.09.16 | （ショートセッション）　[Japan Azure User Group 13周年イベント](https://www.youtube.com/live/OJ_4UnhtJzI?feature=shared&t=14461) |
+| 2023.09.09 | [（登壇）　転職相談フェア『クラウド万博2023』](https://cloudpack.jp/event/cloudpack-expo-2023.html) |
+| 2023.08.15 | （パネルディスカッション）　[【社内イベント 開催レポート】Google Cloud認定資格 Associate Cloud Engineer対策講座](https://iret.media/76774) |
+| 2023.06.27 | [（登壇）　NRUG (New Relic User Group) SRE支部 Vol.3 俺達のSREとNew Relicを読んでみた](https://nrug-sre.connpass.com/event/285748/) |
+| 2023.06.23 | （ハンズオン）　[Momentoの管理インターフェイス周りを調べてみた。(Momento CLIをハンズオン)](https://speakerdeck.com/ymd65536/momentonoguan-li-intahueisuzhou-riwodiao-betemita-momento-cliwohanzuon) |
+| 2023.04.27 | [（出演）　Kento.Yamadaさん 〜通信キャリアからクラウドインテグレーターへ〜](https://podcasters.spotify.com/pod/show/5rh9uag8ah/episodes/Kento-Yamada-e22vd6v) |
+| 2023.03.31 | [（事例公開）　クラウド監視・運用保守の品質がさらに進化。AMS 適用やインシデント対応品質を高める「運用分析プラットフォーム」を短期間で構築](https://www.iret.co.jp/works/126.html) |
+| 2022.06.29 | [(司会進行＆登壇）LINEDC Monthly LT #3 -【LINEと繋がるプラットフォーム集合〜サーバレス特集】 - YouTube](https://www.youtube.com/watch?v=fVJnnJQ3afI) |
 | 2022.03.16 | [（一部登場）“年収200万のブラックSIer”から”GMO主任エンジニア”に。くろかわこうへい主宰の『CloudTech』から自走できるAWSエンジニアが生まれるワケ](https://and-engineer.com/articles/YhdlgBMAACAAgDqf) |
-| 2022.02.08 | [【切り抜き】LINE Developer Community 招待LT - 【とりあえずハンズオン】AWS×LINEで実践！AWS利用料返信Botをつくろう - YouTube](https://www.youtube.com/watch?v=PJhL41zbGjA) |
-| 2022.02.04 | [AWS認定資格実力チェックLINEbotを作るハンズオン【Cloud Tech × LINEDC】 - YouTube](https://www.youtube.com/watch?v=nQIDD5TtD4o)                                            |
-| 2022.01.17 | [LINE Developer Community - 【好評企画！】Qiita/Zenn 人気記事執筆者が語るLINE APIの魅力【招待LT会】 - YouTube](https://www.youtube.com/watch?v=45lPn92vHao&t=1156s)       |
-| 2021.09.27 | [AWS×LINEで実践！LambdaからLINEに通知しよう！【LINE Notifyハンズオン】- YouTube](https://www.youtube.com/watch?v=dB43AOW9WFE)                                             |
-| 2021.07.16 | [AWS×LINE で実践！LINE で AWS 利用料金が分かる bot を自作しよう！ - Youtube](https://www.youtube.com/watch?v=w8o5uI2ONGw)                                                 |
+| 2022.02.08 | [（登壇）　【切り抜き】LINE Developer Community 招待LT - 【とりあえずハンズオン】AWS×LINEで実践！AWS利用料返信Botをつくろう - YouTube](https://www.youtube.com/watch?v=PJhL41zbGjA) |
+| 2022.02.04 | [（登壇）　AWS認定資格実力チェックLINEbotを作るハンズオン【Cloud Tech × LINEDC】 - YouTube](https://www.youtube.com/watch?v=nQIDD5TtD4o)                                            |
+| 2022.01.17 | [（登壇）　LINE Developer Community - 【好評企画！】Qiita/Zenn 人気記事執筆者が語るLINE APIの魅力【招待LT会】 - YouTube](https://www.youtube.com/watch?v=45lPn92vHao&t=1156s)       |
+| 2021.09.27 | [（登壇）　AWS×LINEで実践！LambdaからLINEに通知しよう！【LINE Notifyハンズオン】- YouTube](https://www.youtube.com/watch?v=dB43AOW9WFE)                                             |
+| 2021.07.16 | [（登壇）　AWS×LINE で実践！LINE で AWS 利用料金が分かる bot を自作しよう！ - Youtube](https://www.youtube.com/watch?v=w8o5uI2ONGw)                                                 |
 
 ### 書籍
 
