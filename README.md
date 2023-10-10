@@ -105,11 +105,11 @@
 
 | 年月日       | 内容                                                                                                                                                                                                          |
 | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2023.10.06 |[クラウド実務未経験からアイレットで働き始めての一年を振り返ってみた](https://iret.media/82112)|
+| 2023.10.06 |[クラウド実務未経験からアイレットで働き始めての一年を振り返ってみた - iret.media](https://iret.media/82112)|
 | 2023.10.03 |[Amazon BedrockでLINE botを作ってみた！](https://iret.media/83056)|
-| 2023.08.31 | [用語を整理しながら学ぶLooker – ダッシュボード編](https://iret.media/78955)|
-| 2023.08.22 | [PaLMが日本語応答に対応！PaLMのAPIをJupyter Notebookから実行するハンズオン！](https://iret.media/78361)|
-| 2023.08.07 | [(※共同著者) PagerDuty Summit Tokyo 2023レポート](https://iret.media/76538) |
+| 2023.08.31 | [用語を整理しながら学ぶLooker – ダッシュボード編 - iret.media](https://iret.media/78955)|
+| 2023.08.22 | [PaLMが日本語応答に対応！PaLMのAPIをJupyter Notebookから実行するハンズオン！ - iret.media](https://iret.media/78361)|
+| 2023.08.07 | [(※共同著者) PagerDuty Summit Tokyo 2023レポート - iret.media](https://iret.media/76538) |
 | 2023.07.29 | [用語を整理しながら学ぶLooker - iret.media](https://iret.media/76108)|
 | 2023.07.06 | [LookerをGitHubと連携してみた - iret.media](https://iret.media/74782)|
 | 2023.06.29 | [LookerとAmazon Athenaを接続してみた - iret.media](https://iret.media/74677)|
