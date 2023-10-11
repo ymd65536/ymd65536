@@ -78,7 +78,7 @@
 | 年月日     | 内容                                                                                                                                                                      |
 | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 2023.09.22 | [（登壇）　インフラエンジニアBooks#37 - 30分でわかる「AWSエンジニア入門講座」 - YouTube](https://www.youtube.com/live/xn7MtnnJ1f8?feature=shared&t=1231) |
-| 2023.09.16 | [（ショートセッション）　　Japan Azure User Group 13周年イベント](https://www.youtube.com/live/OJ_4UnhtJzI?feature=shared&t=14461) |
+| 2023.09.16 | [（ショートセッション） Japan Azure User Group 13周年イベント](https://www.youtube.com/live/OJ_4UnhtJzI?feature=shared&t=14461) |
 | 2023.09.09 | [（登壇）　転職相談フェア『クラウド万博2023』](https://cloudpack.jp/event/cloudpack-expo-2023.html) |
 | 2023.08.15 | [（パネルディスカッション）　【社内イベント 開催レポート】Google Cloud認定資格 Associate Cloud Engineer対策講座](https://iret.media/76774) |
 | 2023.08.05 | [（登壇）　AWS資格12冠でいざ転職！オンプレはもう嫌だ！＆「心技体」はエンジニアにとって大切こと【CloudTech-LT会】ゆうすけさん、Kento.Yamadaさん – YouTube](https://www.youtube.com/watch?v=Q1GBKierk3U) |
