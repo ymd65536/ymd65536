@@ -118,6 +118,8 @@
 | 2023.10.06 |[クラウド実務未経験からアイレットで働き始めての一年を振り返ってみた - iret.media](https://iret.media/82112)|
 | 2023.10.05 |[【社内イベント開催レポート】 Google Cloud に関する取り組みを共有し合おう 秋のライトニングトーク大会 - iret.media](https://iret.media/83290)|
 | 2023.10.03 |[Amazon BedrockでLINE botを作ってみた！](https://iret.media/83056)|
+| 2023.09.17 |[Lookerを使い始めてから浮かぶ疑問点を整理してみた](https://iret.media/80588)|
+| 2023.09.16 |[用語を整理しながら学ぶLooker – アラート編](https://iret.media/80383)|
 | 2023.08.31 | [用語を整理しながら学ぶLooker – ダッシュボード編 - iret.media](https://iret.media/78955)|
 | 2023.08.22 | [PaLMが日本語応答に対応！PaLMのAPIをJupyter Notebookから実行するハンズオン！ - iret.media](https://iret.media/78361)|
 | 2023.08.07 | [(※共同著者) PagerDuty Summit Tokyo 2023レポート - iret.media](https://iret.media/76538) |
