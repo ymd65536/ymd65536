@@ -112,6 +112,9 @@
 
 | 年月日       | 内容                                                                                                                                                                                                          |
 | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2023.11.21 |[[Google Cloud Next Tokyo ’23] 最新 Google Cloud CI/CD を利用したソフトウェア デリバリーの要約 - iret.media](https://iret.media/86337)|
+| 2023.11.17 |[[Google Cloud Next Tokyo ’23] Google Cloud Tech Acceleration Programとは - iret.media](https://iret.media/86018)|
+| 2023.11.17 |[[Google Cloud Next Tokyo ’23 キーワード解説] DevSecOpsとは - iret.media](https://iret.media/85312)|
 | 2023.10.06 |[クラウド実務未経験からアイレットで働き始めての一年を振り返ってみた - iret.media](https://iret.media/82112)|
 | 2023.10.05 |[【社内イベント開催レポート】 Google Cloud に関する取り組みを共有し合おう 秋のライトニングトーク大会 - iret.media](https://iret.media/83290)|
 | 2023.10.03 |[Amazon BedrockでLINE botを作ってみた！](https://iret.media/83056)|
