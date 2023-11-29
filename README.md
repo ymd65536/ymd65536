@@ -77,7 +77,7 @@
 
 | 年月日     | 内容                                                                                                                                                                      |
 | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2023.11.29 | [（登壇）](LACO Meet up #13『 私の〇〇挑戦記 LT大会 』) |
+| 2023.11.29 | （登壇）LACO Meet up #13『 私の〇〇挑戦記 LT大会 』 |
 | 2023.11.28 | [（登壇）第45回 Tokyo Jazug Night 40min session](https://www.youtube.com/live/T-FnzjIVQ1w?feature=shared&t=3912) |
 | 2023.10.28 | [（登壇）.NETラボ 勉強会 2023年10月](https://dotnetlab.connpass.com/event/296773/) |
 | 2023.10.11 | [（ハンズオン）Google製LLM「PaLM2」と対話できるLINE Botを爆速開発ハンズオン - YouTube](https://www.youtube.com/watch?v=RihQX1STpJg) |
