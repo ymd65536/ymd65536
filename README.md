@@ -47,7 +47,7 @@
 
 | 認定日     | 認定資格名                                    |
 | :--------- | :-------------------------------------------- |
-| 2024.01.22 | [Professional Cloud DevOps]() |
+| 2024.01.22 | [Professional Cloud DevOps](https://google.accredible.com/75652b4c-407c-4763-8dc2-8961a3586690) |
 | 2023.09.21 | [Professional Data Engineer](https://google.accredible.com/7712e81e-a181-48e0-8af3-dd24014f21ad) |
 | 2023.09.12 | [Professional Cloud Architect](https://google.accredible.com/e308a5bc-1741-45d7-9ef8-865b3a008426) |
 | 2023.08.03 | [Professional Cloud Developer](https://google.accredible.com/6707d6fc-fd85-4a3d-ae31-7313fa8d8f08) |
