@@ -78,7 +78,7 @@
 
 | 年月日     | 内容                                                                                                                                                                      |
 | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2024.01.27 | [（登壇）.NETラボ 勉強会 2024年01月 Microsoft Playwrightで始めるブラウザテスト](https://dotnetlab.connpass.com/event/296773/) |
+| 2024.01.27 | [（登壇）.NETラボ 勉強会 2024年01月 Microsoft Playwrightで始めるブラウザテスト](https://dotnetlab.connpass.com/event/305578/) |
 | 2023.12.21 | [（登壇）第123回 雲勉 Lookerによる運用分析](https://youtu.be/BNxtT2biRm4) |
 | 2023.11.29 | （登壇）LACO Meet up #13『 私の〇〇挑戦記 LT大会 』 |
 | 2023.11.28 | [（登壇）第45回 Tokyo Jazug Night 40min session](https://www.youtube.com/live/T-FnzjIVQ1w?feature=shared&t=3912) |
