@@ -3,6 +3,7 @@
 
 - [プロフィール](#プロフィール)
   - [基本情報](#基本情報)
+    - [受賞歴](#受賞歴)
     - [Microsoft Azure認定資格](#microsoft-azure認定資格)
     - [Google Cloud認定資格](#google-cloud認定資格)
     - [AWS認定資格](#aws認定資格)
@@ -35,6 +36,12 @@
 | Twitter | [@ymd65536](https://twitter.com/ymd65536) |
 | Qiita   | [ymd65536](https://qiita.com/ymd65536)    |
 | zenn    | [ymd65536](https://zenn.dev/ymd65536)     |
+
+### 受賞歴
+
+| 受賞日     | 受賞名                                    |
+| :--------- | :---------------------------------------- |
+| 2024.02.16 | [Google Cloud Partner Tech Blog Challenge 2023 Cloud AI/ML部門](https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-tech-blog-challenge-2023-winners) |
 
 ### Microsoft Azure認定資格
 
@@ -115,6 +122,7 @@
 
 | 年月日       | 内容                                                                                                                                                                                                          |
 | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2024.02.16 |[BigQueryをLooker Studioで可視化し、Vertex AIで要約検索を実装してみた - iret.media](https://iret.media/93232)|
 | 2023.11.21 |[[Google Cloud Next Tokyo ’23] 最新 Google Cloud CI/CD を利用したソフトウェア デリバリーの要約 - iret.media](https://iret.media/86337)|
 | 2023.11.17 |[[Google Cloud Next Tokyo ’23] Google Cloud Tech Acceleration Programとは - iret.media](https://iret.media/86018)|
 | 2023.11.17 |[[Google Cloud Next Tokyo ’23 キーワード解説] DevSecOpsとは - iret.media](https://iret.media/85312)|
@@ -368,21 +376,21 @@ GitHub上における言語の割合は以下の通りです。
 - サービスのローンチが遅れている為、そのヘルプに入ること
 - セキュリティインシデントの調査を実行すること
 - クラウド環境におけるセキュリティログの調査
-  - マイニングツール(XMRig)によるマイニング被害の分析作業
+  - マイニングツール（XMRig）によるマイニング被害の分析作業
 - JupyterHub環境の構築
-  - Fargate Spawner を利用した柔軟性の高い JupyterHub 環境の検証、設計、構築
-  - Docker Spawner(ARM64のDockerイメージ)を利用した JupyterHub 環境の検証、設計、構築
-  - Amazon WorkSpaces用 Radius サーバの設計、構築
+  - Fargate Spawnerを利用した柔軟性の高いJupyterHub環境の検証、設計、構築
+  - Docker Spawner（ARM64のDockerイメージ）を利用したJupyterHub環境の検証、設計、構築
+  - Amazon WorkSpaces用Radiusサーバの設計、構築
 - 社内の技術的な質問対応および教育
   - オブジェクト指向プログラミングの指導
   - 社内社員の要望と相談受付
     - 実現したいことをまとめて、手段や実現方法の概略を提供するなどのアドバイザのような役割
-  - Dockerfile の 作成指導
-  - AWSサービス の 解説指導
+  - Dockerfileの作成指導
+  - AWSサービスの解説指導
   - インフラ構築の要件定義・提案・設計・レビュー対応
 - データ分析基盤の構築
-  - Amazon Sagemaker Studio のセットアップ
-  - Glue および　Glue DataBrewによるETL
+  - Amazon Sagemaker Studioのセットアップ
+  - Glueおよび　Glue DataBrewによるETL
   - Amazon AppFlowによるAWSとSalesforceの連携
 
 ### 某社教育サービスの制作協力(2022年3月)
@@ -407,7 +415,7 @@ GitHub上における言語の割合は以下の通りです。
 
 - [LegacyBrowser](https://github.com/ymd65536/LegacyBrowser/releases/tag/Browser)  
 WebBrowserコントロールベース、IE互換のレガシーブラウザです。  
-Microsoft Edge などのモダンブラウザを一部の社内システムで利用できないケースで利用できます。  
+Microsoft Edgeなどのモダンブラウザを一部の社内システムで利用できないケースで利用できます。  
 また、既存のVBA資産を活かしつつ、社内システムも利用できるようにする為に開発しました。  
 
 Windowsフォーム上でWebBrowserを利用している為、C# によるDOM操作が可能  
