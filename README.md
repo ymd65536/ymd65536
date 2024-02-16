@@ -3,6 +3,7 @@
 
 - [プロフィール](#プロフィール)
   - [基本情報](#基本情報)
+    - [受賞歴](#受賞歴)
     - [Microsoft Azure認定資格](#microsoft-azure認定資格)
     - [Google Cloud認定資格](#google-cloud認定資格)
     - [AWS認定資格](#aws認定資格)
@@ -35,6 +36,12 @@
 | Twitter | [@ymd65536](https://twitter.com/ymd65536) |
 | Qiita   | [ymd65536](https://qiita.com/ymd65536)    |
 | zenn    | [ymd65536](https://zenn.dev/ymd65536)     |
+
+### 受賞歴
+
+| 受賞日     | 受賞名                                    |
+| :--------- | :---------------------------------------- |
+| 2024.02.16 | [Google Cloud Partner Tech Blog Challenge 2023 Cloud AI/ML部門](https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-tech-blog-challenge-2023-winners) |
 
 ### Microsoft Azure認定資格
 
