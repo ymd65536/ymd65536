@@ -125,6 +125,7 @@
 
 | 年月日       | 内容                                                                                                                                                                                                          |
 | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2024.02.29 |[Gemini Pro VisionでGCS内の画像に秘匿情報が写っていないかスキャンしてみた - iret.media](https://iret.media/94023)|
 | 2024.02.16 |[BigQueryをLooker Studioで可視化し、Vertex AIで要約検索を実装してみた - iret.media](https://iret.media/93232)|
 | 2023.11.21 |[[Google Cloud Next Tokyo ’23] 最新 Google Cloud CI/CD を利用したソフトウェア デリバリーの要約 - iret.media](https://iret.media/86337)|
 | 2023.11.17 |[[Google Cloud Next Tokyo ’23] Google Cloud Tech Acceleration Programとは - iret.media](https://iret.media/86018)|
