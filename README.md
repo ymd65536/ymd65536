@@ -41,7 +41,7 @@
 
 | 受賞日     | 受賞名                                    |
 | :--------- | :---------------------------------------- |
-| 2024.03.04 | LAPRAS OUTPUT AWARD(受賞予定) |
+| 2024.03.04 | [LAPRAS OUTPUT AWARD 202401](https://note.lapras.com/interview/lapras-output-award-202401_kento-yamada/) |
 | 2024.02.16 | [Google Cloud Partner Tech Blog Challenge 2023 Cloud AI/ML部門](https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-tech-blog-challenge-2023-winners) |
 
 ### Microsoft Azure認定資格
