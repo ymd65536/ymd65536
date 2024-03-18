@@ -48,6 +48,7 @@
 
 | 認定日     | 認定資格名                                    |
 | :--------- | :-------------------------------------------- |
+| 2024.03.17 | [Microsoft Azure AI Fundamentals(AI900)]()|
 | 2023.05.20 | [Microsoft Azure Data Fundamentals(DP900)](https://www.credly.com/badges/d2e76ce0-7e5c-4b2c-8a95-516a44a7ac8e/public_url)|
 | 2023.02.18 | [Microsoft Azure Fundamentals(AZ900)](https://www.credly.com/badges/b6029775-d567-4464-94b7-a37ff42a5a68/public_url)|
 
