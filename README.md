@@ -68,6 +68,7 @@
 
 | 認定日     | AWS認定資格名                                    |
 | :--------- | :-------------------------------------------- |
+| 2024.04.08 | [AWS Certified Cloud Practitioner](https://www.credly.com/badges/58605a66-dcb8-4a39-8314-102f4e03ad92/public_url) |
 | 2024.03.11 | [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/1c11a67f-d94c-49e3-9d1a-8e76054e3b8c/public_url) |
 | 2023.02.06 | [AWS Certified Security - Specialty (SCS-C01)](https://www.credly.com/badges/e17d69ba-0b2a-4b03-adbc-ebde60fc2e00/public_url) |
 | 2022.11.14 | [AWS Certified Developer – Associate](https://www.credly.com/badges/d43ea005-60aa-4c4d-9c3b-c60128245add/public_url) |
