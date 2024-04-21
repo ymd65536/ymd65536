@@ -37,7 +37,8 @@
 | Qiita   | [ymd65536](https://qiita.com/ymd65536)    |
 | zenn    | [ymd65536](https://zenn.dev/ymd65536)     |
 |はてなブログ|[やまだのBlog](https://ymd65536.hatenablog.com/)|
-|note|[Kento.Yamada](https://note.com/ymd65536)|
+|note|[ymd65536](https://note.com/ymd65536)|
+|Speaker Deck|[ymd65536](https://speakerdeck.com/ymd65536)|
 
 ### 受賞歴
 
