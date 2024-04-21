@@ -90,6 +90,7 @@
 
 | 年月日     | 内容                                                                                                                                                                      |
 | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2024.04.21 | [（登壇）Global Azure 2024 [Room C+D] - YouTube](https://www.youtube.com/live/X-EHrCQVShk?feature=shared&t=2168) |
 | 2024.04.11 | [（登壇）第132回 雲勉 春の生成AI祭り - YouTube](https://youtu.be/Ok0-qoNmBWQ?feature=shared) |
 | 2024.02.24 | [（登壇）.NETラボ 勉強会 2024年02月 - AOAI, AD, ME, .NETなど -](https://dotnetlab.connpass.com/event/309012/) |
 | 2024.01.27 | [（登壇）.NETラボ 勉強会 2024年01月 Microsoft Playwrightで始めるブラウザテスト](https://dotnetlab.connpass.com/event/305578/) |
@@ -108,9 +109,7 @@
 | 2023.06.23 | [（ハンズオン）Momentoの管理インターフェイス周りを調べてみた。(Momento CLIをハンズオン)](https://speakerdeck.com/ymd65536/momentonoguan-li-intahueisuzhou-riwodiao-betemita-momento-cliwohanzuon) |
 | 2023.05.30 | [（登壇）AWS Summit Tokyo 2023 re:cap](https://iret.media/75352) |
 | 2023.04.27 | [（出演）Kento.Yamadaさん 〜通信キャリアからクラウドインテグレーターへ〜](https://podcasters.spotify.com/pod/show/5rh9uag8ah/episodes/Kento-Yamada-e22vd6v) |
-| 2023.03.31 | [（事例公開）クラウド監視・運用保守の品質がさらに進化。AMS 適用やインシデント対応品質を高める「運用分析プラットフォーム」を短期間で構築](https://www.iret.co.jp/works/126.html) |
 | 2022.06.29 | [(司会進行＆登壇）LINEDC Monthly LT #3 -【LINEと繋がるプラットフォーム集合〜サーバレス特集】 - YouTube](https://www.youtube.com/watch?v=fVJnnJQ3afI) |
-| 2022.03.16 | [（一部登場）“年収200万のブラックSIer”から”GMO主任エンジニア”に。くろかわこうへい主宰の『CloudTech』から自走できるAWSエンジニアが生まれるワケ](https://and-engineer.com/articles/YhdlgBMAACAAgDqf) |
 | 2022.02.08 | [（登壇）【切り抜き】LINE Developer Community 招待LT - 【とりあえずハンズオン】AWS×LINEで実践！AWS利用料返信Botをつくろう - YouTube](https://www.youtube.com/watch?v=PJhL41zbGjA) |
 | 2022.02.04 | [（登壇）AWS認定資格実力チェックLINEbotを作るハンズオン【Cloud Tech × LINEDC】 - YouTube](https://www.youtube.com/watch?v=nQIDD5TtD4o)                                            |
 | 2022.01.17 | [（登壇）LINE Developer Community - 【好評企画！】Qiita/Zenn 人気記事執筆者が語るLINE APIの魅力【招待LT会】 - YouTube](https://www.youtube.com/watch?v=45lPn92vHao&t=1156s)       |
