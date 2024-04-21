@@ -36,6 +36,7 @@
 | Twitter | [@ymd65536](https://twitter.com/ymd65536) |
 | Qiita   | [ymd65536](https://qiita.com/ymd65536)    |
 | zenn    | [ymd65536](https://zenn.dev/ymd65536)     |
+|YouTube|[Kento.Yamada](https://www.youtube.com/channel/UCAvF68W9-pBcME8uGHFKuLg)|
 |はてなブログ|[やまだのBlog](https://ymd65536.hatenablog.com/)|
 |note|[ymd65536](https://note.com/ymd65536)|
 |Speaker Deck|[ymd65536](https://speakerdeck.com/ymd65536)|
