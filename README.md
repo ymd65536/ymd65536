@@ -148,6 +148,14 @@
 | 2023.03.19 | [IAM Identity Centerを使ってboto3 の検証環境を構築する - iret.media](https://iret.media/70939)|
 | 2020.05.25 | [エンジニア認定基礎試験合格体験記 一般社団法人 Python エンジニア育成推進協会](https://www.pythonic-exam.com/archives/1453) |
 
+## その他関連記事
+
+| 年月日| 内容|
+|:---|:---|
+| 2024.04.08 | [Microsoft MVP を受賞しました](https://cloudpack.jp/info/20240408-3.html) |
+| 2023.03.31 | [（事例公開）クラウド監視・運用保守の品質がさらに進化。AMS 適用やインシデント対応品質を高める「運用分析プラットフォーム」を短期間で構築](https://www.iret.co.jp/works/126.html) |
+| 2022.03.16 | [（一部登場）“年収200万のブラックSIer”から”GMO主任エンジニア”に。くろかわこうへい主宰の『CloudTech』から自走できるAWSエンジニアが生まれるワケ](https://and-engineer.com/articles/YhdlgBMAACAAgDqf) |
+
 ## 現在のポジション
 
 一般/Webアプリケーションエンジニア
