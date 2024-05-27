@@ -126,6 +126,7 @@
 
 | 年月日       | 内容                                                                                                                                                                                                          |
 | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2024.05.26 | [技術書典16 PagerDuty FANBOOK Vol.1（第3章担当）](https://techbookfest.org/product/fdr8Dy1kLRUbaBRgeqK0wF?productVariantID=viHF6KDk2ZVHWVJmtZcfzN)|
 | 2024.03.29 | [AWS認定 高度なネットワーキングー専門知識(ANS-C01)完全対応テキスト](https://amzn.asia/d/9VPNsUU)|
 | 2023.09.02 | [CodeシリーズでハッピーなCI/CDを構築しよう【AWSハンズオン虎の巻シリーズ】: 知識がなくても手を動かしながらCI/CDをAWS上に実装できる一冊！ Kindle版](https://amzn.asia/d/16cRw4P)|
 | 2022.08.31 | [AWS認定資格 ソリューションアーキテクトアソシエイトの教科書: 合格へ導く虎の巻 Kindle版](https://www.amazon.co.jp/dp/B0BCPNZ9GJ/ref=cm_sw_r_tw_dp_W6F2DZMND41R6CN1J412)|
