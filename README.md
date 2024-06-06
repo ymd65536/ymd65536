@@ -96,6 +96,7 @@
 | 年月日     | 内容                                                                                                                                                                      |
 | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 2024.05.25 | [（登壇）.NETラボ 勉強会 2024年5月 newMVP祭り](https://www.youtube.com/live/QSkH5ev5LLE?t=8760s)|
+| 2024.04.23 | [（登壇） [RAG]Google Cloud×Gemini×LINEハンズオン【BOT AWARDS2024】 - YouTube](https://www.youtube.com/live/liy_cHXf5qg?feature=shared) |
 | 2024.04.21 | [（登壇）Global Azure 2024 Room C+D - YouTube](https://www.youtube.com/live/X-EHrCQVShk?feature=shared&t=2168) |
 | 2024.04.11 | [（登壇）第132回 雲勉 春の生成AI祭り - YouTube](https://youtu.be/Ok0-qoNmBWQ?feature=shared) |
 | 2024.02.24 | [（登壇）.NETラボ 勉強会 2024年02月 - AOAI, AD, ME, .NETなど -](https://dotnetlab.connpass.com/event/309012/) |
