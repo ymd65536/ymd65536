@@ -98,9 +98,9 @@
 | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 2024.06.26 | [（登壇） 書籍「Amazon Bedrock 生成AIアプリ開発入門」出版イベント](https://kddi-agile.connpass.com/event/321902/)|
 | 2024.06.25 | [（運営） .NET の日 ～.NET コミュニティ合同イベント～](https://dotnet-communities.connpass.com/event/318191/)|
-| 2024.06.22 | (運営と登壇)[.NETラボ 勉強会 2024年6月](https://dotnetlab.connpass.com/event/320403/)|
+| 2024.06.22 | [(運営と登壇) .NETラボ 勉強会 2024年6月](https://dotnetlab.connpass.com/event/320403/)|
 | 2024.06.12 | [（登壇） Platform Engineering Meetup Online #2](https://platformengineering.connpass.com/event/320559/)|
-| 2024.05.27 | (書籍紹介)[PagerDuty Japan Community Meetup Vol.3](https://pagerduty.connpass.com/event/318379/)|
+| 2024.05.27 | [(書籍紹介) PagerDuty Japan Community Meetup Vol.3](https://pagerduty.connpass.com/event/318379/)|
 | 2024.05.25 | [（登壇）.NETラボ 勉強会 2024年5月 newMVP祭り](https://www.youtube.com/live/QSkH5ev5LLE?t=8760s)|
 | 2024.04.23 | [（登壇） [RAG]Google Cloud×Gemini×LINEハンズオン【BOT AWARDS2024】 - YouTube](https://www.youtube.com/live/liy_cHXf5qg?feature=shared) |
 | 2024.04.21 | [（登壇）Global Azure 2024 Room C+D - YouTube](https://www.youtube.com/live/X-EHrCQVShk?feature=shared&t=2168) |
