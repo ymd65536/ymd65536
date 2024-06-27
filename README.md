@@ -95,6 +95,8 @@
 
 | 年月日     | 内容                                                                                                                                                                      |
 | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2024.06.26 | [（登壇） 書籍「Amazon Bedrock 生成AIアプリ開発入門」出版イベント](https://kddi-agile.connpass.com/event/321902/)|
+| 2024.06.25 | [（運営） .NET の日 ～.NET コミュニティ合同イベント～](https://dotnet-communities.connpass.com/event/318191/)|
 | 2024.06.12 | [（登壇） Platform Engineering Meetup Online #2](https://platformengineering.connpass.com/event/320559/)|
 | 2024.05.25 | [（登壇）.NETラボ 勉強会 2024年5月 newMVP祭り](https://www.youtube.com/live/QSkH5ev5LLE?t=8760s)|
 | 2024.04.23 | [（登壇） [RAG]Google Cloud×Gemini×LINEハンズオン【BOT AWARDS2024】 - YouTube](https://www.youtube.com/live/liy_cHXf5qg?feature=shared) |
@@ -138,6 +140,8 @@
 
 | 年月日       | 内容                                                                                                                                                                                                          |
 | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2024.06.21 |[Looker API Getting Started - iret.media](https://iret.media/104556)|
+| 2024.06.21 |[Lookerスケジューラを利用してMSPの運用状況をレポートとして配信する - iret.media](https://iret.media/104553)|
 | 2024.02.29 |[Gemini Pro VisionでGCS内の画像に秘匿情報が写っていないかスキャンしてみた - iret.media](https://iret.media/94023)|
 | 2024.02.16 |[BigQueryをLooker Studioで可視化し、Vertex AIで要約検索を実装してみた - iret.media](https://iret.media/93232)|
 | 2023.11.21 |[[Google Cloud Next Tokyo ’23] 最新 Google Cloud CI/CD を利用したソフトウェア デリバリーの要約 - iret.media](https://iret.media/86337)|
