@@ -165,7 +165,9 @@
 
 | 年月日| 内容|
 |:---|:---|
+| 2024.06.13 |[Google Cloud パートナー によるテクニカル ブログ チャレンジ 2024 の開催](https://cloud.google.com/blog/ja/topics/partners/technical-blog-posts-by-google-cloud-partners-2024)|
 | 2024.04.08 | [Microsoft MVP を受賞しました](https://cloudpack.jp/info/20240408-3.html) |
+| 2024.03.19 | [LINE Developer Communityでご活躍中の山田さん(@ymd65536)がGoogle Cloud Partner Tech Blog Challengeで受賞されました](https://note.com/linedc/n/n5c9c877338f4) |
 | 2023.03.31 | [（事例公開）クラウド監視・運用保守の品質がさらに進化。AMS 適用やインシデント対応品質を高める「運用分析プラットフォーム」を短期間で構築](https://www.iret.co.jp/works/126.html) |
 | 2022.03.16 | [（一部登場）“年収200万のブラックSIer”から”GMO主任エンジニア”に。くろかわこうへい主宰の『CloudTech』から自走できるAWSエンジニアが生まれるワケ](https://and-engineer.com/articles/YhdlgBMAACAAgDqf) |
 
