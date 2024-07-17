@@ -46,7 +46,8 @@
 
 | 受賞日     | 受賞名                                    |
 | :--------- | :---------------------------------------- |
-|2024.04.01|[Microsoft MVP for Developer Technologies](https://mvp.microsoft.com/en-US/MVP/profile/3cfc1499-97c3-49f5-9114-1e8ce97d883d)|
+| 2024.07.17 | [LINE API Expert](https://developers.line.biz/ja/community/api-experts/jp-kento-yamada/) |
+| 2024.04.01 | [Microsoft MVP for Developer Technologies](https://mvp.microsoft.com/en-US/MVP/profile/3cfc1499-97c3-49f5-9114-1e8ce97d883d)|
 | 2024.03.04 | [LAPRAS OUTPUT AWARD 202401](https://note.lapras.com/interview/lapras-output-award-202401_kento-yamada/) |
 | 2024.02.16 | [Google Cloud Partner Tech Blog Challenge 2023 Cloud AI/ML部門](https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-tech-blog-challenge-2023-winners) |
 
