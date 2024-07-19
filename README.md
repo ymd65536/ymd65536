@@ -171,6 +171,7 @@
 
 | 年月日| 内容|
 |:---|:---|
+| 2024.07.18 | [LINE API Expert に認定されました](https://cloudpack.jp/info/20240718.html)|
 | 2024.06.13 |[Google Cloud パートナー によるテクニカル ブログ チャレンジ 2024 の開催](https://cloud.google.com/blog/ja/topics/partners/technical-blog-posts-by-google-cloud-partners-2024)|
 | 2024.04.08 | [Microsoft MVP を受賞しました](https://cloudpack.jp/info/20240408-3.html) |
 | 2024.03.19 | [LINE Developer Communityでご活躍中の山田さん(@ymd65536)がGoogle Cloud Partner Tech Blog Challengeで受賞されました](https://note.com/linedc/n/n5c9c877338f4) |
