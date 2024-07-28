@@ -97,6 +97,8 @@
 
 | 年月日     | 内容                                                                                                                                                                      |
 | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2024.07.27 | [（運営と登壇）.NETラボ 勉強会 2024年7月](https://dotnetlab.connpass.com/event/323373/)|
+| 2024.07.25 | [（運営）Azure OpenAI Service Dev Day](https://azureai.connpass.com/event/319491/)|
 | 2024.07.04 | [（登壇）第138回 雲勉 Google Cloudではじめるプラットフォームエンジニアリング](https://youtu.be/dCpElhPi1gI?feature=shared)|
 | 2024.06.26 | [（登壇） 書籍「Amazon Bedrock 生成AIアプリ開発入門」出版イベント](https://kddi-agile.connpass.com/event/321902/)|
 | 2024.06.25 | [（運営） .NET の日 ～.NET コミュニティ合同イベント～](https://dotnet-communities.connpass.com/event/318191/)|
@@ -145,6 +147,8 @@
 
 | 年月日       | 内容                                                                                                                                                                                                          |
 | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2024.07.25 |[Lookerの派生テーブルをLookMLで作成するコツ](https://iret.media/108705)|
+| 2024.07.24 |[LookerスケジューラをGoogle Apps Scriptで設定する方法](https://iret.media/108782)|
 | 2024.06.28 |[Google Apps Script(GAS)でLooker APIの実行結果をSlackに通知してみた](https://iret.media/104541)|
 | 2024.06.21 |[Looker API Getting Started - iret.media](https://iret.media/104556)|
 | 2024.06.21 |[Lookerスケジューラを利用してMSPの運用状況をレポートとして配信する - iret.media](https://iret.media/104553)|
@@ -172,6 +176,7 @@
 | 年月日| 内容|
 |:---|:---|
 | 2024.07.18 | [LINE API Expert に認定されました](https://cloudpack.jp/info/20240718.html)|
+| 2024.07.17 | [LINE API Expert 新メンバー をお知らせします(2024年7月)](https://note.com/linedc/n/n3a74523ef292?sub_rt=share_pb) |
 | 2024.06.13 |[Google Cloud パートナー によるテクニカル ブログ チャレンジ 2024 の開催](https://cloud.google.com/blog/ja/topics/partners/technical-blog-posts-by-google-cloud-partners-2024)|
 | 2024.04.08 | [Microsoft MVP を受賞しました](https://cloudpack.jp/info/20240408-3.html) |
 | 2024.03.19 | [LINE Developer Communityでご活躍中の山田さん(@ymd65536)がGoogle Cloud Partner Tech Blog Challengeで受賞されました](https://note.com/linedc/n/n5c9c877338f4) |
