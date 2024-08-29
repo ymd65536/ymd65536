@@ -97,9 +97,11 @@
 
 | 年月日     | 内容                                                                                                                                                                      |
 | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2024.08.28 | [（登壇）【Google Cloudパートナー企業登壇】LINEBot開発の環境構築ベストプラクティス](https://linedevelopercommunity.connpass.com/event/328079/)|
+| 2024.08.24 | [（運営）.NETラボ 勉強会 2024年8月](https://dotnetlab.connpass.com/event/326381/)|
+| 2024.08.23 | [（登壇）『第1回 Google Cloud 社内勉強会』レポート](https://iret.media/116728)|
+| 2024.08.15 | [（登壇）「【iret presents】Google Cloud Next Tokyo ’24 Recap」開催レポート・アーカイブ配信のお知らせ](https://iret.media/115453)|
 | 2024.08.02 | [（登壇）Google Cloud Next Tokyo Jagu'e'rブース登壇、15時30分〜]()|
-| 2024.07.27 | [（運営と登壇）.NETラボ 勉強会 2024年7月](https://dotnetlab.connpass.com/event/323373/)|
-
 | 2024.07.27 | [（運営と登壇）.NETラボ 勉強会 2024年7月](https://dotnetlab.connpass.com/event/323373/)|
 | 2024.07.25 | [（運営）Azure OpenAI Service Dev Day](https://azureai.connpass.com/event/319491/)|
 | 2024.07.04 | [（登壇）第138回 雲勉 Google Cloudではじめるプラットフォームエンジニアリング](https://youtu.be/dCpElhPi1gI?feature=shared)|
