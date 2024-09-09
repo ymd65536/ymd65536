@@ -74,6 +74,7 @@
 
 | 認定日     | AWS認定資格名                                    |
 | :--------- | :-------------------------------------------- |
+| 2024.09.09 | [AWS Certified Machine Learning – Specialty](https://www.credly.com/badges/c48c1b7b-85e6-4413-a065-061ab2ec9181/public_url)|
 | 2024.05.02 | [AWS Certified SysOps Administrator - Associate](https://www.credly.com/badges/e7a6e6c5-2b98-4d6f-9948-4a020b84258c/public_url)|
 | 2024.04.08 | [AWS Certified Cloud Practitioner](https://www.credly.com/badges/58605a66-dcb8-4a39-8314-102f4e03ad92/public_url) |
 | 2024.03.11 | [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/1c11a67f-d94c-49e3-9d1a-8e76054e3b8c/public_url) |
