@@ -99,6 +99,7 @@
 
 | 年月日     | 内容                                                                                                                                                                      |
 | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2024.09.21 | [（運営）ServerlessDays Tokyo 2024](https://serverless.connpass.com/event/325659/)|
 | 2024.08.28 | [（登壇）【Google Cloudパートナー企業登壇】LINEBot開発の環境構築ベストプラクティス](https://linedevelopercommunity.connpass.com/event/328079/)|
 | 2024.08.24 | [（運営）.NETラボ 勉強会 2024年8月](https://dotnetlab.connpass.com/event/326381/)|
 | 2024.08.23 | [（登壇）『第1回 Google Cloud 社内勉強会』レポート](https://iret.media/116728)|
@@ -183,6 +184,7 @@
 
 | 年月日| 内容|
 |:---|:---|
+| 2024.09.24 | [2024 Breakthrough Partner of the Year – Japan 受賞! アイレットにいたから分かったGoogle Cloudの「ここがイイ!」](https://news.mynavi.jp/techplus/kikaku/20240924-3026731/) |
 | 2024.07.18 | [LINE API Expert に認定されました](https://cloudpack.jp/info/20240718.html)|
 | 2024.07.17 | [LINE API Expert 新メンバー をお知らせします(2024年7月)](https://note.com/linedc/n/n3a74523ef292?sub_rt=share_pb) |
 | 2024.06.13 |[Google Cloud パートナー によるテクニカル ブログ チャレンジ 2024 の開催](https://cloud.google.com/blog/ja/topics/partners/technical-blog-posts-by-google-cloud-partners-2024)|
