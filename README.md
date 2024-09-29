@@ -114,7 +114,7 @@
 | 2024.06.12 | [（登壇） Platform Engineering Meetup Online #2](https://platformengineering.connpass.com/event/320559/)|
 | 2024.05.27 | [(書籍紹介) PagerDuty Japan Community Meetup Vol.3](https://pagerduty.connpass.com/event/318379/)|
 | 2024.05.25 | [（登壇）.NETラボ 勉強会 2024年5月 newMVP祭り](https://www.youtube.com/live/QSkH5ev5LLE?t=8760s)|
-| 2024.04.25 | [アイレットのGoogle Cloud に関する取り組みを共有し合おう！春の LT 祭](https://iret.media/111722)|
+| 2024.04.25 | [（登壇）アイレットのGoogle Cloud に関する取り組みを共有し合おう！春の LT 祭](https://iret.media/111722)|
 | 2024.04.23 | [（登壇） [RAG]Google Cloud×Gemini×LINEハンズオン【BOT AWARDS2024】 - YouTube](https://www.youtube.com/live/liy_cHXf5qg?feature=shared) |
 | 2024.04.21 | [（登壇）Global Azure 2024 Room C+D - YouTube](https://www.youtube.com/live/X-EHrCQVShk?feature=shared&t=2168) |
 | 2024.04.11 | [（登壇）第132回 雲勉 春の生成AI祭り - YouTube](https://youtu.be/Ok0-qoNmBWQ?feature=shared) |
@@ -126,7 +126,7 @@
 | 2023.11.02 | [（登壇）第118回 雲勉 AWS・Google Cloud 生成AI特集](https://youtu.be/msXem-glHpo?feature=shared) |
 | 2023.10.28 | [（登壇）.NETラボ 勉強会 2023年10月 Azure Developer CLI の振り返りとDeep Dive](https://dotnetlab.connpass.com/event/296773/) |
 | 2023.10.11 | [（ハンズオン）Google製LLM「PaLM2」と対話できるLINE Botを爆速開発ハンズオン - YouTube](https://www.youtube.com/watch?v=RihQX1STpJg) |
-| 2023.09.27 | [Google Cloud に関する取り組みを共有し合おう 秋のライトニングトーク大会](https://iret.media/83290)|
+| 2023.09.27 | [（登壇）Google Cloud に関する取り組みを共有し合おう 秋のライトニングトーク大会](https://iret.media/83290)|
 | 2023.09.22 | [（登壇）インフラエンジニアBooks#37 - 30分でわかる「AWSエンジニア入門講座」 - YouTube](https://www.youtube.com/live/xn7MtnnJ1f8?feature=shared&t=1231) |
 | 2023.09.16 | [（ショートセッション）Japan Azure User Group 13周年イベント](https://www.youtube.com/live/OJ_4UnhtJzI?feature=shared&t=14461) |
 | 2023.09.09 | [（登壇）　転職相談フェア『クラウド万博2023』](https://cloudpack.jp/event/cloudpack-expo-2023.html) |
