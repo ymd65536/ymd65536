@@ -102,6 +102,7 @@
 | 2024.10.05 | [（登壇）Japan Azure User Group 14周年イベント](https://speakerdeck.com/ymd65536/net-aspirenokuraudodui-ying-jian-zheng-azuretota-huan-jing-denoshi-jian)|
 | 2024.09.28 | [(運営と登壇) .NETラボ 勉強会 2024年9月](https://dotnetlab.connpass.com/event/329105/)|
 | 2024.09.21 | [（運営）ServerlessDays Tokyo 2024](https://serverless.connpass.com/event/325659/)|
+| 2024.09.18 | [Google Cloudに関する取り組みを共有し合おう！秋のLT大会]()|
 | 2024.08.28 | [（登壇）【Google Cloudパートナー企業登壇】LINEBot開発の環境構築ベストプラクティス](https://linedevelopercommunity.connpass.com/event/328079/)|
 | 2024.08.24 | [（運営）.NETラボ 勉強会 2024年8月](https://dotnetlab.connpass.com/event/326381/)|
 | 2024.08.23 | [（登壇）『第1回 Google Cloud 社内勉強会』レポート](https://iret.media/116728)|
