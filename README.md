@@ -102,7 +102,6 @@
 | 2024.10.05 | [（登壇）Japan Azure User Group 14周年イベント](https://speakerdeck.com/ymd65536/net-aspirenokuraudodui-ying-jian-zheng-azuretota-huan-jing-denoshi-jian)|
 | 2024.09.28 | [(運営と登壇) .NETラボ 勉強会 2024年9月](https://dotnetlab.connpass.com/event/329105/)|
 | 2024.09.21 | [（運営）ServerlessDays Tokyo 2024](https://serverless.connpass.com/event/325659/)|
-| 2024.09.18 | [Google Cloudに関する取り組みを共有し合おう！秋のLT大会]()|
 | 2024.08.28 | [（登壇）【Google Cloudパートナー企業登壇】LINEBot開発の環境構築ベストプラクティス](https://linedevelopercommunity.connpass.com/event/328079/)|
 | 2024.08.24 | [（運営）.NETラボ 勉強会 2024年8月](https://dotnetlab.connpass.com/event/326381/)|
 | 2024.08.23 | [（登壇）『第1回 Google Cloud 社内勉強会』レポート](https://iret.media/116728)|
@@ -129,7 +128,6 @@
 | 2023.11.02 | [（登壇）第118回 雲勉 AWS・Google Cloud 生成AI特集](https://youtu.be/msXem-glHpo?feature=shared) |
 | 2023.10.28 | [（登壇）.NETラボ 勉強会 2023年10月 Azure Developer CLI の振り返りとDeep Dive](https://dotnetlab.connpass.com/event/296773/) |
 | 2023.10.11 | [（ハンズオン）Google製LLM「PaLM2」と対話できるLINE Botを爆速開発ハンズオン - YouTube](https://www.youtube.com/watch?v=RihQX1STpJg) |
-| 2023.09.27 | [（登壇）Google Cloud に関する取り組みを共有し合おう 秋のライトニングトーク大会](https://iret.media/83290)|
 | 2023.09.22 | [（登壇）インフラエンジニアBooks#37 - 30分でわかる「AWSエンジニア入門講座」 - YouTube](https://www.youtube.com/live/xn7MtnnJ1f8?feature=shared&t=1231) |
 | 2023.09.16 | [（ショートセッション）Japan Azure User Group 13周年イベント](https://www.youtube.com/live/OJ_4UnhtJzI?feature=shared&t=14461) |
 | 2023.09.09 | [（登壇）　転職相談フェア『クラウド万博2023』](https://cloudpack.jp/event/cloudpack-expo-2023.html) |
@@ -189,11 +187,13 @@
 
 | 年月日| 内容|
 |:---|:---|
+| 2023.09.27 | [（登壇）Google Cloud に関する取り組みを共有し合おう 秋のライトニングトーク大会](https://iret.media/83290)|
 | 2024.09.26 | [Google Cloud パートナー によるテクニカル ブログ チャレンジ Next Tokyo '24 関連記事のご紹介](https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-technical-blog-challenge-next-tokyo-24-related-articles?hl=ja)|
 | 2024.09.24 | [2024 Breakthrough Partner of the Year – Japan 受賞! アイレットにいたから分かったGoogle Cloudの「ここがイイ!」](https://news.mynavi.jp/techplus/kikaku/20240924-3026731/) |
+| 2024.09.18 | [Google Cloudに関する取り組みを共有し合おう！秋のLT大会]()|
 | 2024.07.18 | [LINE API Expert に認定されました](https://cloudpack.jp/info/20240718.html)|
 | 2024.07.17 | [LINE API Expert 新メンバー をお知らせします(2024年7月)](https://note.com/linedc/n/n3a74523ef292?sub_rt=share_pb) |
-| 2024.06.13 |[Google Cloud パートナー によるテクニカル ブログ チャレンジ 2024 の開催](https://cloud.google.com/blog/ja/topics/partners/technical-blog-posts-by-google-cloud-partners-2024)|
+| 2024.06.13 |[（登壇）Google Cloud パートナー によるテクニカル ブログ チャレンジ 2024 の開催](https://cloud.google.com/blog/ja/topics/partners/technical-blog-posts-by-google-cloud-partners-2024)|
 | 2024.04.08 | [Microsoft MVP を受賞しました](https://cloudpack.jp/info/20240408-3.html) |
 | 2024.03.19 | [LINE Developer Communityでご活躍中の山田さん(@ymd65536)がGoogle Cloud Partner Tech Blog Challengeで受賞されました](https://note.com/linedc/n/n5c9c877338f4) |
 | 2023.03.31 | [（事例公開）クラウド監視・運用保守の品質がさらに進化。AMS 適用やインシデント対応品質を高める「運用分析プラットフォーム」を短期間で構築](https://www.iret.co.jp/works/126.html) |
