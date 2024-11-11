@@ -99,6 +99,8 @@
 
 | 年月日     | 内容                                                                                                                                                                      |
 | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2024.11.06 | [(登壇) C#および.NETに対する誤解をひも解くPart2（JetBrains編）](https://speakerdeck.com/ymd65536/lt-c-number-oyobi-dot-netnidui-suruwu-jie-wohimojie-kupart2)|
+| 2024.11.06 | [(登壇) GitHub CopilotにC#のHelloWorldを書いてもらうと](https://speakerdeck.com/ymd65536/lt-github-copilotnic-number-nohelloworldwoshu-itemorauto)|
 | 2024.10.26 | [(運営と登壇) .NETラボ 勉強会 2024年10月](https://dotnetlab.connpass.com/event/333111/)|
 | 2024.10.05 | [（登壇）Japan Azure User Group 14周年イベント](https://speakerdeck.com/ymd65536/net-aspirenokuraudodui-ying-jian-zheng-azuretota-huan-jing-denoshi-jian)|
 | 2024.09.28 | [(運営と登壇) .NETラボ 勉強会 2024年9月](https://dotnetlab.connpass.com/event/329105/)|
