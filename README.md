@@ -190,6 +190,7 @@
 
 | 年月日| 内容|
 |:---|:---|
+| 2024.11.19 | [cloudpackにおけるLookerの活用事例](https://findy-tools.io/products/looker/7/305) |
 | 2024.09.30 | [「天下一 AWS BuilderCards杯 in 大阪オフィス」を開催してみた！](https://iret.media/115635) |
 | 2024.09.26 | [Google Cloud パートナー によるテクニカル ブログ チャレンジ Next Tokyo '24 関連記事のご紹介](https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-technical-blog-challenge-next-tokyo-24-related-articles?hl=ja)|
 | 2024.09.24 | [2024 Breakthrough Partner of the Year – Japan 受賞! アイレットにいたから分かったGoogle Cloudの「ここがイイ!」](https://news.mynavi.jp/techplus/kikaku/20240924-3026731/) |
