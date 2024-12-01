@@ -149,10 +149,11 @@
 | 2021.09.27 | [（登壇）AWS×LINEで実践！LambdaからLINEに通知しよう！【LINE Notifyハンズオン】- YouTube](https://www.youtube.com/watch?v=dB43AOW9WFE)                                             |
 | 2021.07.16 | [（登壇）AWS×LINE で実践！LINE で AWS 利用料金が分かる bot を自作しよう！ - Youtube](https://www.youtube.com/watch?v=w8o5uI2ONGw)                                                 |
 
-### 書籍
+### 関連書籍
 
 | 年月日       | 内容                                                                                                                                                                                                          |
 | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2024.12.02 | [コンピュータシステムの理論と実装 第2版 ―モダンなコンピュータの作り方（一部の査読を担当）](https://amzn.asia/d/5GRXTmQ)|
 | 2024.05.26 | [技術書典16 PagerDuty FANBOOK Vol.1（第3章担当）](https://techbookfest.org/product/fdr8Dy1kLRUbaBRgeqK0wF?productVariantID=viHF6KDk2ZVHWVJmtZcfzN)|
 | 2024.03.29 | [AWS認定 高度なネットワーキングー専門知識(ANS-C01)完全対応テキスト](https://amzn.asia/d/9VPNsUU)|
 | 2023.09.02 | [CodeシリーズでハッピーなCI/CDを構築しよう【AWSハンズオン虎の巻シリーズ】: 知識がなくても手を動かしながらCI/CDをAWS上に実装できる一冊！ Kindle版](https://amzn.asia/d/16cRw4P)|
