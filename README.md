@@ -193,6 +193,7 @@
 
 | 年月日| 内容|
 |:---|:---|
+| 2024.12.11 | [Learn and Connect as a Community at Microsoft Developer Day in Tokyo](https://techcommunity.microsoft.com/blog/mvpawardprogramblog/learn-and-connect-as-a-community-at-microsoft-developer-day-in-tokyo/4355857?wt.mc_id=MVP_357747) |
 | 2024.12.05 | [Partner Top Engineer 2025：人材育成分科会より 26 名が選出！](https://jaguer.jp/digitalcloud-topengineer2025/) |
 | 2024.11.19 | [cloudpackにおけるLookerの活用事例](https://findy-tools.io/products/looker/7/305) |
 | 2024.09.30 | [「天下一 AWS BuilderCards杯 in 大阪オフィス」を開催してみた！](https://iret.media/115635) |
