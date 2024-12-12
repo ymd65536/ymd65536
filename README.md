@@ -84,6 +84,12 @@
 | 2022.11.14 | [AWS Certified Developer – Associate](https://www.credly.com/badges/d43ea005-60aa-4c4d-9c3b-c60128245add/public_url) |
 | 2021.03.13 | [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/e9664f78-a8e9-4338-b12a-fc83b1447740/public_url) |
 
+### Skill Badge
+
+| 認定日     | 取得資格名                                    |
+| :--------- | :-------------------------------------------- |
+| 2024.10.24 | [Build and Deploy a Generative AI Solution Using a RAG Framework Skill Badge](https://www.credly.com/badges/ba1db1ee-3c54-44c5-932d-d759dd50874e/public_url)|
+
 ### その他の認定資格
 
 | 認定日     | 取得資格名                                    |
