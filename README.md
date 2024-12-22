@@ -7,10 +7,15 @@
     - [Microsoft Azure認定資格](#microsoft-azure認定資格)
     - [Google Cloud認定資格](#google-cloud認定資格)
     - [AWS認定資格](#aws認定資格)
+    - [Skill Badge](#skill-badge)
     - [その他の認定資格](#その他の認定資格)
     - [外部発信](#外部発信)
-    - [書籍](#書籍)
+      - [2024年の外部発信](#2024年の外部発信)
+      - [2023年の外部発信](#2023年の外部発信)
+      - [2023年以前の外部発信](#2023年以前の外部発信)
+    - [関連書籍](#関連書籍)
     - [執筆歴](#執筆歴)
+  - [その他関連記事](#その他関連記事)
   - [現在のポジション](#現在のポジション)
   - [活かせる経験スキル](#活かせる経験スキル)
   - [現在目指している方向性・キャリアビジョン(2022年08月)](#現在目指している方向性キャリアビジョン2022年08月)
@@ -104,58 +109,70 @@
 
 ### 外部発信
 
-| 年月日     | 内容                                                                                                                                                                      |
-| :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2024.12.21 | [(運営と登壇).NET Conf 2024 .NETラボ 勉強会 2024年12月](https://dotnetlab.connpass.com/event/333400/)|
-| 2024.12.11 | [(運営)【Microsoft MVP監修】LINEミニアプリ×生成AI でミニゲーム開発ハンズオン](https://linedevelopercommunity.connpass.com/event/338061/)|
-| 2024.11.23 | [(運営と登壇) .NETラボ 勉強会 2024年11月](https://dotnetlab.connpass.com/event/334612/)|
-| 2024.11.06 | [(登壇) Microsoft Developer Day 懇親会LT C#および.NETに対する誤解をひも解くPart2（JetBrains編）](https://speakerdeck.com/ymd65536/lt-c-number-oyobi-dot-netnidui-suruwu-jie-wohimojie-kupart2)|
-| 2024.11.06 | [(登壇)  Microsoft Developer Day 懇親会LT GitHub CopilotにC#のHelloWorldを書いてもらうと](https://speakerdeck.com/ymd65536/lt-github-copilotnic-number-nohelloworldwoshu-itemorauto)|
-| 2024.10.26 | [(運営と登壇) .NETラボ 勉強会 2024年10月](https://dotnetlab.connpass.com/event/333111/)|
-| 2024.10.05 | [（登壇）Japan Azure User Group 14周年イベント](https://speakerdeck.com/ymd65536/net-aspirenokuraudodui-ying-jian-zheng-azuretota-huan-jing-denoshi-jian)|
-| 2024.09.28 | [(運営と登壇) .NETラボ 勉強会 2024年9月](https://dotnetlab.connpass.com/event/329105/)|
-| 2024.09.21 | [（運営）ServerlessDays Tokyo 2024](https://serverless.connpass.com/event/325659/)|
-| 2024.08.28 | [（登壇）【Google Cloudパートナー企業登壇】LINEBot開発の環境構築ベストプラクティス](https://linedevelopercommunity.connpass.com/event/328079/)|
-| 2024.08.24 | [（運営）.NETラボ 勉強会 2024年8月](https://dotnetlab.connpass.com/event/326381/)|
-| 2024.08.23 | [（登壇）『第1回 Google Cloud 社内勉強会』レポート](https://iret.media/116728)|
-| 2024.08.15 | [（登壇）「【iret presents】Google Cloud Next Tokyo ’24 Recap」開催レポート・アーカイブ配信のお知らせ](https://iret.media/115453)|
-| 2024.08.02 | [（登壇）Google Cloud Next Tokyo Jagu'e'rブース登壇、15時30分〜]()|
-| 2024.07.27 | [（運営と登壇）.NETラボ 勉強会 2024年7月](https://dotnetlab.connpass.com/event/323373/)|
-| 2024.07.25 | [（運営）Azure OpenAI Service Dev Day](https://azureai.connpass.com/event/319491/)|
-| 2024.07.04 | [（登壇）第138回 雲勉 Google Cloudではじめるプラットフォームエンジニアリング](https://youtu.be/dCpElhPi1gI?feature=shared)|
-| 2024.06.26 | [（登壇） 書籍「Amazon Bedrock 生成AIアプリ開発入門」出版イベント](https://kddi-agile.connpass.com/event/321902/)|
-| 2024.06.25 | [（運営） .NET の日 ～.NET コミュニティ合同イベント～](https://dotnet-communities.connpass.com/event/318191/)|
-| 2024.06.22 | [(運営と登壇) .NETラボ 勉強会 2024年6月](https://dotnetlab.connpass.com/event/320403/)|
-| 2024.06.12 | [（登壇） Platform Engineering Meetup Online #2](https://platformengineering.connpass.com/event/320559/)|
-| 2024.05.27 | [(書籍紹介) PagerDuty Japan Community Meetup Vol.3](https://pagerduty.connpass.com/event/318379/)|
-| 2024.05.25 | [（登壇）.NETラボ 勉強会 2024年5月 newMVP祭り](https://www.youtube.com/live/QSkH5ev5LLE?t=8760s)|
-| 2024.04.25 | [（登壇）アイレットのGoogle Cloud に関する取り組みを共有し合おう！春の LT 祭](https://iret.media/111722)|
-| 2024.04.23 | [（登壇） [RAG]Google Cloud×Gemini×LINEハンズオン【BOT AWARDS2024】 - YouTube](https://www.youtube.com/live/liy_cHXf5qg?feature=shared) |
-| 2024.04.21 | [（登壇）Global Azure 2024 Room C+D - YouTube](https://www.youtube.com/live/X-EHrCQVShk?feature=shared&t=2168) |
-| 2024.04.11 | [（登壇）第132回 雲勉 春の生成AI祭り - YouTube](https://youtu.be/Ok0-qoNmBWQ?feature=shared) |
-| 2024.02.24 | [（登壇）.NETラボ 勉強会 2024年02月 - AOAI, AD, ME, .NETなど -](https://dotnetlab.connpass.com/event/309012/) |
-| 2024.01.27 | [（登壇）.NETラボ 勉強会 2024年01月 Microsoft Playwrightで始めるブラウザテスト](https://dotnetlab.connpass.com/event/305578/) |
-| 2023.12.21 | [（登壇）第123回 雲勉 Lookerによる運用分析](https://youtu.be/BNxtT2biRm4) |
-| 2023.11.29 | [（登壇）LACO Meet up #13『 私の〇〇挑戦記 LT大会 』](https://jaguer.jp/laco20231129/) |
-| 2023.11.28 | [（登壇）第45回 Tokyo Jazug Night 40min session](https://www.youtube.com/live/T-FnzjIVQ1w?feature=shared&t=3912) |
-| 2023.11.02 | [（登壇）第118回 雲勉 AWS・Google Cloud 生成AI特集](https://youtu.be/msXem-glHpo?feature=shared) |
-| 2023.10.28 | [（登壇）.NETラボ 勉強会 2023年10月 Azure Developer CLI の振り返りとDeep Dive](https://dotnetlab.connpass.com/event/296773/) |
-| 2023.10.11 | [（ハンズオン）Google製LLM「PaLM2」と対話できるLINE Botを爆速開発ハンズオン - YouTube](https://www.youtube.com/watch?v=RihQX1STpJg) |
-| 2023.09.22 | [（登壇）インフラエンジニアBooks#37 - 30分でわかる「AWSエンジニア入門講座」 - YouTube](https://www.youtube.com/live/xn7MtnnJ1f8?feature=shared&t=1231) |
-| 2023.09.16 | [（ショートセッション）Japan Azure User Group 13周年イベント](https://www.youtube.com/live/OJ_4UnhtJzI?feature=shared&t=14461) |
+#### 2024年の外部発信
+
+| 年月日     | 内容|資料|
+| :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |:---|
+| 2024.12.21 | [(運営と登壇).NET Conf 2024 .NETラボ 勉強会 2024年12月](https://dotnetlab.connpass.com/event/333400/)|[各クラウドサービスにおける.NETの対応と見解](https://speakerdeck.com/ymd65536/ge-kuraudosabisuniokeru-dot-netnodui-ying-tojian-jie)|
+| 2024.12.11 | [(運営)【Microsoft MVP監修】LINEミニアプリ×生成AI でミニゲーム開発ハンズオン](https://linedevelopercommunity.connpass.com/event/338061/)|なし|
+| 2024.11.23 | [(運営と登壇) .NETラボ 勉強会 2024年11月](https://dotnetlab.connpass.com/event/334612/)|[クラウドインフラ構築における.NETとその他IaCの比較](https://speakerdeck.com/ymd65536/kuraudoinhuragou-zhu-niokeru-dot-nettosonota-iacnobi-jiao)|
+| 2024.11.06 | [(登壇) Microsoft Developer Day 懇親会LT C#および.NETに対する誤解をひも解くPart2（JetBrains編）](https://speakerdeck.com/ymd65536/lt-c-number-oyobi-dot-netnidui-suruwu-jie-wohimojie-kupart2)|[C#および.NETに対する誤解をひも解くPart2（JetBrains編）](https://speakerdeck.com/ymd65536/lt-c-number-oyobi-dot-netnidui-suruwu-jie-wohimojie-kupart2)|
+| 2024.11.06 | [(登壇)  Microsoft Developer Day 懇親会LT GitHub CopilotにC#のHelloWorldを書いてもらうと](https://speakerdeck.com/ymd65536/lt-github-copilotnic-number-nohelloworldwoshu-itemorauto)|[Microsoft Developer Day 懇親会LT GitHub CopilotにC#のHelloWorldを書いてもらうと](https://speakerdeck.com/ymd65536/lt-github-copilotnic-number-nohelloworldwoshu-itemorauto)|
+| 2024.10.26 | [(運営と登壇) .NETラボ 勉強会 2024年10月](https://dotnetlab.connpass.com/event/333111/)|[Dev ContainersとGitHub Codespacesの素敵な関係](https://speakerdeck.com/ymd65536/dev-containerstogithub-codespacesnosu-di-naguan-xi)|
+| 2024.10.05 | [（登壇）Japan Azure User Group 14周年イベント](https://jazug.connpass.com/event/327273/)|[.NET Aspireのクラウド対応検証: Azureと他環境での実践](https://speakerdeck.com/ymd65536/net-aspirenokuraudodui-ying-jian-zheng-azuretota-huan-jing-denoshi-jian)|
+| 2024.09.28 | [(運営と登壇) .NETラボ 勉強会 2024年9月](https://dotnetlab.connpass.com/event/329105/)|[C#および.NETに対する誤解をひも解く](https://speakerdeck.com/ymd65536/c-number-oyobi-dot-netnidui-suruwu-jie-wohimojie-ku)|
+| 2024.09.21 | [（運営）ServerlessDays Tokyo 2024](https://serverless.connpass.com/event/325659/)|なし|
+| 2024.08.28 | [（登壇）【Google Cloudパートナー企業登壇】LINEBot開発の環境構築ベストプラクティス](https://linedevelopercommunity.connpass.com/event/328079/)|[LINEBot開発の環境構築ベストプラクティス](https://speakerdeck.com/ymd65536/google-cloudpatonaqi-ye-deng-tan-linebotkai-fa-nohuan-jing-gou-zhu-besutopurakuteisu-f272fc7d-d494-47e0-b55d-48ab265681cc)|
+| 2024.08.24 | [（運営）.NETラボ 勉強会 2024年8月](https://dotnetlab.connpass.com/event/326381/)|なし|
+| 2024.08.23 | [（登壇）『第1回 Google Cloud 社内勉強会』レポート](https://iret.media/116728)|なし|
+| 2024.08.15 | [（登壇）「【iret presents】Google Cloud Next Tokyo ’24 Recap」開催レポート・アーカイブ配信のお知らせ](https://iret.media/115453)|なし|
+| 2024.08.02 | [（登壇）Google Cloud Next Tokyo Jagu'e'rブース登壇、15時30分〜]()|なし|
+| 2024.07.27 | [（運営と登壇）.NETラボ 勉強会 2024年7月](https://dotnetlab.connpass.com/event/323373/)|[Microsoft Playwright Testing 再入門](https://speakerdeck.com/ymd65536/microsoft-playwright-testing-zai-ru-men)|
+| 2024.07.25 | [（運営）Azure OpenAI Service Dev Day](https://azureai.connpass.com/event/319491/)|なし|
+| 2024.07.04 | [（登壇）第138回 雲勉 Google Cloudではじめるプラットフォームエンジニアリング](https://youtu.be/dCpElhPi1gI?feature=shared)|[Google Cloudではじめるプラットフォームエンジニアリング - YouTube](https://youtu.be/dCpElhPi1gI?feature=shared)|
+| 2024.06.26 | [（登壇） 書籍「Amazon Bedrock 生成AIアプリ開発入門」出版イベント](https://kddi-agile.connpass.com/event/321902/)|[宇宙一早くAmazon Bedrock 生成AIアプリ開発入門の献本が届いたので 感想をしみじみ語る](https://speakerdeck.com/ymd65536/yu-zhou-zao-kuamazon-bedrock-sheng-cheng-aiapurikai-fa-ru-men-noxian-ben-gajie-itanode-gan-xiang-wosimizimiyu-ru)|
+| 2024.06.25 | [（運営） .NET の日 ～.NET コミュニティ合同イベント～](https://dotnet-communities.connpass.com/event/318191/)|なし|
+| 2024.06.22 | [(運営と登壇) .NETラボ 勉強会 2024年6月](https://dotnetlab.connpass.com/event/320403/)|[newMVPが気になるトピック（Claude、Playwright、ASP.NET）](https://speakerdeck.com/ymd65536/newmvpgaqi-ninarutopituku)|
+| 2024.06.12 | [（登壇） Platform Engineering Meetup Online #2](https://platformengineering.connpass.com/event/320559/)|[Google Cloudで始めるプラットフォームエンジニアリング](https://speakerdeck.com/ymd65536/google-clouddeshi-merupuratutohuomuenziniaringu)|
+| 2024.05.27 | [(書籍紹介) PagerDuty Japan Community Meetup Vol.3](https://pagerduty.connpass.com/event/318379/)|なし|
+| 2024.05.25 | [（登壇）.NETラボ 勉強会 2024年5月 newMVP祭り](https://www.youtube.com/live/QSkH5ev5LLE?t=8760s)|[マルチクラウドで認証したい ～CloudRunと.NET8 Blazor ServerでAzure Open AIをセキュアに呼び出す～](https://speakerdeck.com/ymd65536/marutikuraudoderen-zheng-sitai-cloudrunto-dot-net8-blazor-serverdeazure-open-aiwosekiyuanihu-bichu-su)|
+| 2024.04.25 | [（登壇）アイレットのGoogle Cloud に関する取り組みを共有し合おう！春の LT 祭](https://iret.media/111722)|なし|
+| 2024.04.23 | [（登壇） [RAG]Google Cloud×Gemini×LINEハンズオン【BOT AWARDS2024】 - YouTube](https://www.youtube.com/live/liy_cHXf5qg?feature=shared) |[最近読んだ本を教えてくれるLINE botをGemini Proを使って作成してみた](https://zenn.dev/ymd65536/articles/recently_read_books_bot)|
+| 2024.04.21 | [（登壇）Global Azure 2024 Room C+D - YouTube](https://www.youtube.com/live/X-EHrCQVShk?feature=shared&t=2168) |[MicrosoftのPlatform Engineeringガイドを読んで実際になにかやってみた](https://speakerdeck.com/ymd65536/platform-engineeringgaidowodu-ndeshi-ji-ninanikayatutemita)|
+| 2024.04.11 | [（登壇）第132回 雲勉 春の生成AI祭り - YouTube](https://youtu.be/Ok0-qoNmBWQ?feature=shared) |なし|
+| 2024.02.24 | [（登壇）.NETラボ 勉強会 2024年02月 - AOAI, AD, ME, .NETなど -](https://dotnetlab.connpass.com/event/309012/) |[Azure以外のクラウドではじめるdotNET](https://speakerdeck.com/ymd65536/azureyi-wai-nokurautotehasimeru-dot-net)|
+| 2024.01.27 | [（登壇）.NETラボ 勉強会 2024年01月](https://dotnetlab.connpass.com/event/305578/) |[Microsoft Playwrightで始めるブラウザテスト](https://speakerdeck.com/ymd65536/microsoft-playwrightdeshi-meruburauzatesuto)|
+
+#### 2023年の外部発信
+
+| 年月日| 内容|資料|
+| :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |:---|
+| 2023.12.21 | [（登壇）第123回 雲勉 Lookerによる運用分析](https://youtu.be/BNxtT2biRm4) ||
+| 2023.11.29 | [（登壇）LACO Meet up #13『 私の〇〇挑戦記 LT大会 』](https://jaguer.jp/laco20231129/) ||
+| 2023.11.28 | [（登壇）第45回 Tokyo Jazug Night 40min session](https://www.youtube.com/live/T-FnzjIVQ1w?feature=shared&t=3912) ||
+| 2023.11.02 | [（登壇）第118回 雲勉 AWS・Google Cloud 生成AI特集](https://youtu.be/msXem-glHpo?feature=shared) ||
+| 2023.10.28 | [（登壇）.NETラボ 勉強会 2023年10月 Azure Developer CLI の振り返りとDeep Dive](https://dotnetlab.connpass.com/event/296773/) ||
+| 2023.10.11 | [（ハンズオン）Google製LLM「PaLM2」と対話できるLINE Botを爆速開発ハンズオン - YouTube](https://www.youtube.com/watch?v=RihQX1STpJg) ||
+| 2023.09.22 | [（登壇）インフラエンジニアBooks#37 - 30分でわかる「AWSエンジニア入門講座」 - YouTube](https://www.youtube.com/live/xn7MtnnJ1f8?feature=shared&t=1231) ||
+| 2023.09.16 | [（ショートセッション）Japan Azure User Group 13周年イベント](https://www.youtube.com/live/OJ_4UnhtJzI?feature=shared&t=14461) ||
 | 2023.09.09 | [（登壇）　転職相談フェア『クラウド万博2023』](https://cloudpack.jp/event/cloudpack-expo-2023.html) |
-| 2023.08.15 | [（パネルディスカッション）【社内イベント 開催レポート】Google Cloud認定資格 Associate Cloud Engineer対策講座](https://iret.media/76774) |
-| 2023.08.05 | [（登壇）AWS資格12冠でいざ転職！オンプレはもう嫌だ！＆「心技体」はエンジニアにとって大切こと【CloudTech-LT会】ゆうすけさん、Kento.Yamadaさん – YouTube](https://www.youtube.com/watch?v=Q1GBKierk3U) |
-| 2023.06.27 | [（登壇）NRUG (New Relic User Group) SRE支部 Vol.3 俺達のSREとNew Relicを読んでみた](https://nrug-sre.connpass.com/event/285748/) |
-| 2023.06.23 | [（ハンズオン）Momentoの管理インターフェイス周りを調べてみた。(Momento CLIをハンズオン)](https://speakerdeck.com/ymd65536/momentonoguan-li-intahueisuzhou-riwodiao-betemita-momento-cliwohanzuon) |
-| 2023.05.30 | [（登壇）AWS Summit Tokyo 2023 re:cap](https://iret.media/75352) |
-| 2023.04.27 | [（出演）Kento.Yamadaさん 〜通信キャリアからクラウドインテグレーターへ〜](https://podcasters.spotify.com/pod/show/5rh9uag8ah/episodes/Kento-Yamada-e22vd6v) |
-| 2022.06.29 | [(司会進行＆登壇）LINEDC Monthly LT #3 -【LINEと繋がるプラットフォーム集合〜サーバレス特集】 - YouTube](https://www.youtube.com/watch?v=fVJnnJQ3afI) |
-| 2022.02.08 | [（登壇）【切り抜き】LINE Developer Community 招待LT - 【とりあえずハンズオン】AWS×LINEで実践！AWS利用料返信Botをつくろう - YouTube](https://www.youtube.com/watch?v=PJhL41zbGjA) |
-| 2022.02.04 | [（登壇）AWS認定資格実力チェックLINEbotを作るハンズオン【Cloud Tech × LINEDC】 - YouTube](https://www.youtube.com/watch?v=nQIDD5TtD4o)                                            |
-| 2022.01.17 | [（登壇）LINE Developer Community - 【好評企画！】Qiita/Zenn 人気記事執筆者が語るLINE APIの魅力【招待LT会】 - YouTube](https://www.youtube.com/watch?v=45lPn92vHao&t=1156s)       |
-| 2021.09.27 | [（登壇）AWS×LINEで実践！LambdaからLINEに通知しよう！【LINE Notifyハンズオン】- YouTube](https://www.youtube.com/watch?v=dB43AOW9WFE)                                             |
-| 2021.07.16 | [（登壇）AWS×LINE で実践！LINE で AWS 利用料金が分かる bot を自作しよう！ - Youtube](https://www.youtube.com/watch?v=w8o5uI2ONGw)                                                 |
+| 2023.08.15 | [（パネルディスカッション）【社内イベント 開催レポート】Google Cloud認定資格 Associate Cloud Engineer対策講座](https://iret.media/76774) ||
+| 2023.08.05 | [（登壇）AWS資格12冠でいざ転職！オンプレはもう嫌だ！＆「心技体」はエンジニアにとって大切こと【CloudTech-LT会】ゆうすけさん、Kento.Yamadaさん – YouTube](https://www.youtube.com/watch?v=Q1GBKierk3U) ||
+| 2023.06.27 | [（登壇）NRUG (New Relic User Group) SRE支部 Vol.3 俺達のSREとNew Relicを読んでみた](https://nrug-sre.connpass.com/event/285748/) ||
+| 2023.06.23 | [（ハンズオン）Momentoの管理インターフェイス周りを調べてみた。(Momento CLIをハンズオン)](https://speakerdeck.com/ymd65536/momentonoguan-li-intahueisuzhou-riwodiao-betemita-momento-cliwohanzuon) ||
+| 2023.05.30 | [（登壇）AWS Summit Tokyo 2023 re:cap](https://iret.media/75352) ||
+| 2023.04.27 | [（出演）Kento.Yamadaさん 〜通信キャリアからクラウドインテグレーターへ〜](https://podcasters.spotify.com/pod/show/5rh9uag8ah/episodes/Kento-Yamada-e22vd6v) ||
+
+#### 2023年以前の外部発信
+
+| 年月日     | 内容                                                                                                                                                                      |資料|
+| :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |:---|
+| 2022.06.29 | [(司会進行＆登壇）LINEDC Monthly LT #3 -【LINEと繋がるプラットフォーム集合〜サーバレス特集】 - YouTube](https://www.youtube.com/watch?v=fVJnnJQ3afI) ||
+| 2022.02.08 | [（登壇）【切り抜き】LINE Developer Community 招待LT - 【とりあえずハンズオン】AWS×LINEで実践！AWS利用料返信Botをつくろう - YouTube](https://www.youtube.com/watch?v=PJhL41zbGjA) ||
+| 2022.02.04 | [（登壇）AWS認定資格実力チェックLINEbotを作るハンズオン【Cloud Tech × LINEDC】 - YouTube](https://www.youtube.com/watch?v=nQIDD5TtD4o)                                            ||
+| 2022.01.17 | [（登壇）LINE Developer Community - 【好評企画！】Qiita/Zenn 人気記事執筆者が語るLINE APIの魅力【招待LT会】 - YouTube](https://www.youtube.com/watch?v=45lPn92vHao&t=1156s)       ||
+| 2021.09.27 | [（登壇）AWS×LINEで実践！LambdaからLINEに通知しよう！【LINE Notifyハンズオン】- YouTube](https://www.youtube.com/watch?v=dB43AOW9WFE)                                             ||
+| 2021.07.16 | [（登壇）AWS×LINE で実践！LINE で AWS 利用料金が分かる bot を自作しよう！ - Youtube](https://www.youtube.com/watch?v=w8o5uI2ONGw)                                                 ||
 
 ### 関連書籍
 
