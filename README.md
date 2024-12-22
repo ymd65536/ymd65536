@@ -117,16 +117,16 @@
 | 2024.12.11 | [(運営)【Microsoft MVP監修】LINEミニアプリ×生成AI でミニゲーム開発ハンズオン](https://linedevelopercommunity.connpass.com/event/338061/)|なし|
 | 2024.11.23 | [(運営と登壇) .NETラボ 勉強会 2024年11月](https://dotnetlab.connpass.com/event/334612/)|[クラウドインフラ構築における.NETとその他IaCの比較](https://speakerdeck.com/ymd65536/kuraudoinhuragou-zhu-niokeru-dot-nettosonota-iacnobi-jiao)|
 | 2024.11.06 | [(登壇) Microsoft Developer Day 懇親会LT C#および.NETに対する誤解をひも解くPart2（JetBrains編）](https://speakerdeck.com/ymd65536/lt-c-number-oyobi-dot-netnidui-suruwu-jie-wohimojie-kupart2)|[C#および.NETに対する誤解をひも解くPart2（JetBrains編）](https://speakerdeck.com/ymd65536/lt-c-number-oyobi-dot-netnidui-suruwu-jie-wohimojie-kupart2)|
-| 2024.11.06 | [(登壇)  Microsoft Developer Day 懇親会LT GitHub CopilotにC#のHelloWorldを書いてもらうと](https://speakerdeck.com/ymd65536/lt-github-copilotnic-number-nohelloworldwoshu-itemorauto)|[Microsoft Developer Day 懇親会LT GitHub CopilotにC#のHelloWorldを書いてもらうと](https://speakerdeck.com/ymd65536/lt-github-copilotnic-number-nohelloworldwoshu-itemorauto)|
+| 2024.11.06 | [(登壇)  Microsoft Developer Day 懇親会LT](https://speakerdeck.com/ymd65536/lt-github-copilotnic-number-nohelloworldwoshu-itemorauto)|[Microsoft Developer Day 懇親会LT](https://speakerdeck.com/ymd65536/lt-github-copilotnic-number-nohelloworldwoshu-itemorauto)|
 | 2024.10.26 | [(運営と登壇) .NETラボ 勉強会 2024年10月](https://dotnetlab.connpass.com/event/333111/)|[Dev ContainersとGitHub Codespacesの素敵な関係](https://speakerdeck.com/ymd65536/dev-containerstogithub-codespacesnosu-di-naguan-xi)|
 | 2024.10.05 | [（登壇）Japan Azure User Group 14周年イベント](https://jazug.connpass.com/event/327273/)|[.NET Aspireのクラウド対応検証: Azureと他環境での実践](https://speakerdeck.com/ymd65536/net-aspirenokuraudodui-ying-jian-zheng-azuretota-huan-jing-denoshi-jian)|
 | 2024.09.28 | [(運営と登壇) .NETラボ 勉強会 2024年9月](https://dotnetlab.connpass.com/event/329105/)|[C#および.NETに対する誤解をひも解く](https://speakerdeck.com/ymd65536/c-number-oyobi-dot-netnidui-suruwu-jie-wohimojie-ku)|
 | 2024.09.21 | [（運営）ServerlessDays Tokyo 2024](https://serverless.connpass.com/event/325659/)|なし|
 | 2024.08.28 | [（登壇）【Google Cloudパートナー企業登壇】LINEBot開発の環境構築ベストプラクティス](https://linedevelopercommunity.connpass.com/event/328079/)|[LINEBot開発の環境構築ベストプラクティス](https://speakerdeck.com/ymd65536/google-cloudpatonaqi-ye-deng-tan-linebotkai-fa-nohuan-jing-gou-zhu-besutopurakuteisu-f272fc7d-d494-47e0-b55d-48ab265681cc)|
 | 2024.08.24 | [（運営）.NETラボ 勉強会 2024年8月](https://dotnetlab.connpass.com/event/326381/)|なし|
-| 2024.08.23 | [（登壇）『第1回 Google Cloud 社内勉強会』レポート](https://iret.media/116728)|なし|
-| 2024.08.15 | [（登壇）「【iret presents】Google Cloud Next Tokyo ’24 Recap」開催レポート・アーカイブ配信のお知らせ](https://iret.media/115453)|なし|
-| 2024.08.02 | [（登壇）Google Cloud Next Tokyo Jagu'e'rブース登壇、15時30分〜]()|なし|
+| 2024.08.23 | [（登壇）『第1回 Google Cloud 社内勉強会』レポート](https://iret.media/116728)|後ほど掲載|
+| 2024.08.15 | [（登壇）「【iret presents】Google Cloud Next Tokyo ’24 Recap」開催レポート・アーカイブ配信のお知らせ](https://iret.media/115453)|後ほど掲載|
+| 2024.08.02 | （登壇）Google Cloud Next Tokyo Jagu'e'rブース登壇、15時30分〜|なし|
 | 2024.07.27 | [（運営と登壇）.NETラボ 勉強会 2024年7月](https://dotnetlab.connpass.com/event/323373/)|[Microsoft Playwright Testing 再入門](https://speakerdeck.com/ymd65536/microsoft-playwright-testing-zai-ru-men)|
 | 2024.07.25 | [（運営）Azure OpenAI Service Dev Day](https://azureai.connpass.com/event/319491/)|なし|
 | 2024.07.04 | [（登壇）第138回 雲勉 Google Cloudではじめるプラットフォームエンジニアリング](https://youtu.be/dCpElhPi1gI?feature=shared)|[Google Cloudではじめるプラットフォームエンジニアリング - YouTube](https://youtu.be/dCpElhPi1gI?feature=shared)|
@@ -134,12 +134,12 @@
 | 2024.06.25 | [（運営） .NET の日 ～.NET コミュニティ合同イベント～](https://dotnet-communities.connpass.com/event/318191/)|なし|
 | 2024.06.22 | [(運営と登壇) .NETラボ 勉強会 2024年6月](https://dotnetlab.connpass.com/event/320403/)|[newMVPが気になるトピック（Claude、Playwright、ASP.NET）](https://speakerdeck.com/ymd65536/newmvpgaqi-ninarutopituku)|
 | 2024.06.12 | [（登壇） Platform Engineering Meetup Online #2](https://platformengineering.connpass.com/event/320559/)|[Google Cloudで始めるプラットフォームエンジニアリング](https://speakerdeck.com/ymd65536/google-clouddeshi-merupuratutohuomuenziniaringu)|
-| 2024.05.27 | [(書籍紹介) PagerDuty Japan Community Meetup Vol.3](https://pagerduty.connpass.com/event/318379/)|なし|
+| 2024.05.27 | [(書籍紹介) PagerDuty Japan Community Meetup Vol.3](https://pagerduty.connpass.com/event/318379/)|[技術書典16](https://techbookfest.org/product/fdr8Dy1kLRUbaBRgeqK0wF?productVariantID=viHF6KDk2ZVHWVJmtZcfzN)|
 | 2024.05.25 | [（登壇）.NETラボ 勉強会 2024年5月 newMVP祭り](https://www.youtube.com/live/QSkH5ev5LLE?t=8760s)|[マルチクラウドで認証したい ～CloudRunと.NET8 Blazor ServerでAzure Open AIをセキュアに呼び出す～](https://speakerdeck.com/ymd65536/marutikuraudoderen-zheng-sitai-cloudrunto-dot-net8-blazor-serverdeazure-open-aiwosekiyuanihu-bichu-su)|
-| 2024.04.25 | [（登壇）アイレットのGoogle Cloud に関する取り組みを共有し合おう！春の LT 祭](https://iret.media/111722)|なし|
+| 2024.04.25 | [（登壇）アイレットのGoogle Cloud に関する取り組みを共有し合おう！春の LT 祭](https://iret.media/111722)|後ほど掲載|
 | 2024.04.23 | [（登壇） [RAG]Google Cloud×Gemini×LINEハンズオン【BOT AWARDS2024】 - YouTube](https://www.youtube.com/live/liy_cHXf5qg?feature=shared) |[最近読んだ本を教えてくれるLINE botをGemini Proを使って作成してみた](https://zenn.dev/ymd65536/articles/recently_read_books_bot)|
 | 2024.04.21 | [（登壇）Global Azure 2024 Room C+D - YouTube](https://www.youtube.com/live/X-EHrCQVShk?feature=shared&t=2168) |[MicrosoftのPlatform Engineeringガイドを読んで実際になにかやってみた](https://speakerdeck.com/ymd65536/platform-engineeringgaidowodu-ndeshi-ji-ninanikayatutemita)|
-| 2024.04.11 | [（登壇）第132回 雲勉 春の生成AI祭り - YouTube](https://youtu.be/Ok0-qoNmBWQ?feature=shared) |なし|
+| 2024.04.11 | [（登壇）第132回 雲勉 春の生成AI祭り - YouTube](https://youtu.be/Ok0-qoNmBWQ?feature=shared) |後ほど掲載|
 | 2024.02.24 | [（登壇）.NETラボ 勉強会 2024年02月 - AOAI, AD, ME, .NETなど -](https://dotnetlab.connpass.com/event/309012/) |[Azure以外のクラウドではじめるdotNET](https://speakerdeck.com/ymd65536/azureyi-wai-nokurautotehasimeru-dot-net)|
 | 2024.01.27 | [（登壇）.NETラボ 勉強会 2024年01月](https://dotnetlab.connpass.com/event/305578/) |[Microsoft Playwrightで始めるブラウザテスト](https://speakerdeck.com/ymd65536/microsoft-playwrightdeshi-meruburauzatesuto)|
 
