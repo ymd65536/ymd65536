@@ -225,6 +225,7 @@
 | 2024.09.26 | [Google Cloud パートナー によるテクニカル ブログ チャレンジ Next Tokyo '24 関連記事のご紹介](https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-technical-blog-challenge-next-tokyo-24-related-articles?hl=ja)|
 | 2024.09.24 | [2024 Breakthrough Partner of the Year – Japan 受賞! アイレットにいたから分かったGoogle Cloudの「ここがイイ!」](https://news.mynavi.jp/techplus/kikaku/20240924-3026731/) |
 | 2024.09.18 | [Google Cloudに関する取り組みを共有し合おう！秋のLT大会]()|
+| 2024.08.06 |[Google Cloud 関連の社内勉強会を一挙ご紹介！ 〜エンジニアの技術的なスキルアップ機会が盛り沢山〜](https://iret.media/111722)|
 | 2024.07.18 | [LINE API Expert に認定されました](https://cloudpack.jp/info/20240718.html)|
 | 2024.07.17 | [LINE API Expert 新メンバー をお知らせします(2024年7月)](https://note.com/linedc/n/n3a74523ef292?sub_rt=share_pb) |
 | 2024.06.13 |[（登壇）Google Cloud パートナー によるテクニカル ブログ チャレンジ 2024 の開催](https://cloud.google.com/blog/ja/topics/partners/technical-blog-posts-by-google-cloud-partners-2024)|
