@@ -221,6 +221,7 @@
 | 2024.12.11 | [Learn and Connect as a Community at Microsoft Developer Day in Tokyo](https://techcommunity.microsoft.com/blog/mvpawardprogramblog/learn-and-connect-as-a-community-at-microsoft-developer-day-in-tokyo/4355857?wt.mc_id=MVP_357747) |
 | 2024.12.05 | [Partner Top Engineer 2025：人材育成分科会より 26 名が選出！](https://jaguer.jp/digitalcloud-topengineer2025/) |
 | 2024.11.19 | [cloudpackにおけるLookerの活用事例](https://findy-tools.io/products/looker/7/305) |
+| 2024.11.06 | [Learn and Connect as a Community at Microsoft Developer Day in Tokyo](https://techcommunity.microsoft.com/blog/mvpawardprogramblog/learn-and-connect-as-a-community-at-microsoft-developer-day-in-tokyo/4355857) |
 | 2024.09.30 | [「天下一 AWS BuilderCards杯 in 大阪オフィス」を開催してみた！](https://iret.media/115635) |
 | 2024.09.26 | [Google Cloud パートナー によるテクニカル ブログ チャレンジ Next Tokyo '24 関連記事のご紹介](https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-technical-blog-challenge-next-tokyo-24-related-articles?hl=ja)|
 | 2024.09.24 | [2024 Breakthrough Partner of the Year – Japan 受賞! アイレットにいたから分かったGoogle Cloudの「ここがイイ!」](https://news.mynavi.jp/techplus/kikaku/20240924-3026731/) |
