@@ -109,11 +109,18 @@
 
 ### 外部発信
 
+#### 2025年の外部発信
+
+| 年月日     | 内容|資料|
+| :--------- | :------ |:---|
+| 2025.01.09 | [(登壇)Reactなんでも発表会
+](https://connpass.com/event/340079/)|[Lookerは可視化だけじゃない。UIコンポーネントもあるんだ！](https://speakerdeck.com/ymd65536/lookerhake-shi-hua-dakeziyanai-uikonponentomoarunda)|
+
 #### 2024年の外部発信
 
 | 年月日     | 内容|資料|
 | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |:---|
-| 2024.12.21 | [(運営と登壇).NET Conf 2024 .NETラボ 勉強会 2024年12月](https://dotnetlab.connpass.com/event/333400/)|[各クラウドサービスにおける.NETの対応と見解](https://speakerdeck.com/ymd65536/ge-kuraudosabisuniokeru-dot-netnodui-ying-tojian-jie)|
+| 2024.12.21 | [(登壇).NET Conf 2024 .NETラボ 勉強会 2024年12月](https://dotnetlab.connpass.com/event/333400/)|[各クラウドサービスにおける.NETの対応と見解](https://speakerdeck.com/ymd65536/ge-kuraudosabisuniokeru-dot-netnodui-ying-tojian-jie)|
 | 2024.12.11 | [(運営)【Microsoft MVP監修】LINEミニアプリ×生成AI でミニゲーム開発ハンズオン](https://linedevelopercommunity.connpass.com/event/338061/)|なし|
 | 2024.11.23 | [(運営と登壇) .NETラボ 勉強会 2024年11月](https://dotnetlab.connpass.com/event/334612/)|[クラウドインフラ構築における.NETとその他IaCの比較](https://speakerdeck.com/ymd65536/kuraudoinhuragou-zhu-niokeru-dot-nettosonota-iacnobi-jiao)|
 | 2024.11.06 | [(登壇) Microsoft Developer Day 懇親会LT](https://speakerdeck.com/ymd65536/lt-c-number-oyobi-dot-netnidui-suruwu-jie-wohimojie-kupart2)|[C#および.NETに対する誤解をひも解くPart2（JetBrains編）](https://speakerdeck.com/ymd65536/lt-c-number-oyobi-dot-netnidui-suruwu-jie-wohimojie-kupart2)|
