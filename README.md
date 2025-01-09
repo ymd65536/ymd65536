@@ -113,8 +113,7 @@
 
 | 年月日     | 内容|資料|
 | :--------- | :------ |:---|
-| 2025.01.09 | [(登壇)Reactなんでも発表会
-](https://connpass.com/event/340079/)|[Lookerは可視化だけじゃない。UIコンポーネントもあるんだ！](https://speakerdeck.com/ymd65536/lookerhake-shi-hua-dakeziyanai-uikonponentomoarunda)|
+| 2025.01.09 | [(登壇)Reactなんでも発表会](https://connpass.com/event/340079/)|[Lookerは可視化だけじゃない。UIコンポーネントもあるんだ！](https://speakerdeck.com/ymd65536/lookerhake-shi-hua-dakeziyanai-uikonponentomoarunda)|
 
 #### 2024年の外部発信
 
