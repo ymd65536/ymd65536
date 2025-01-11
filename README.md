@@ -145,7 +145,7 @@
 | 2024.04.25 | [（登壇）アイレットのGoogle Cloud に関する取り組みを共有し合おう！春の LT 祭](https://iret.media/111722)|後ほど掲載|
 | 2024.04.23 | [（登壇） [RAG]Google Cloud×Gemini×LINEハンズオン【BOT AWARDS2024】 - YouTube](https://www.youtube.com/live/liy_cHXf5qg?feature=shared) |[最近読んだ本を教えてくれるLINE botをGemini Proを使って作成してみた](https://zenn.dev/ymd65536/articles/recently_read_books_bot)|
 | 2024.04.21 | [（登壇）Global Azure 2024 Room C+D - YouTube](https://www.youtube.com/live/X-EHrCQVShk?feature=shared&t=2168) |[MicrosoftのPlatform Engineeringガイドを読んで実際になにかやってみた](https://speakerdeck.com/ymd65536/platform-engineeringgaidowodu-ndeshi-ji-ninanikayatutemita)|
-| 2024.04.11 | [（登壇）第132回 雲勉 春の生成AI祭り - YouTube](https://youtu.be/Ok0-qoNmBWQ?feature=shared) |後ほど掲載|
+| 2024.04.11 | [（登壇）第132回 雲勉 春の生成AI祭り - YouTube](https://youtu.be/Ok0-qoNmBWQ?feature=shared) |[第132回 雲勉 春の生成AI祭り](https://speakerdeck.com/iret/di-132hui-yun-mian-onrain-chun-nosheng-cheng-aiji-ri)|
 | 2024.02.24 | [（登壇）.NETラボ 勉強会 2024年02月 - AOAI, AD, ME, .NETなど -](https://dotnetlab.connpass.com/event/309012/) |[Azure以外のクラウドではじめるdotNET](https://speakerdeck.com/ymd65536/azureyi-wai-nokurautotehasimeru-dot-net)|
 | 2024.01.27 | [（登壇）.NETラボ 勉強会 2024年01月](https://dotnetlab.connpass.com/event/305578/) |[Microsoft Playwrightで始めるブラウザテスト](https://speakerdeck.com/ymd65536/microsoft-playwrightdeshi-meruburauzatesuto)|
 
@@ -157,8 +157,7 @@
 | 2023.11.29 | [（登壇）LACO Meet up #13『 私の〇〇挑戦記 LT大会 』](https://jaguer.jp/laco20231129/) ||
 | 2023.11.28 | [（登壇）第45回 Tokyo Jazug Night 40min session](https://www.youtube.com/live/T-FnzjIVQ1w?feature=shared&t=3912) ||
 | 2023.11.02 | [（登壇）第118回 雲勉 AWS・Google Cloud 生成AI特集](https://youtu.be/msXem-glHpo?feature=shared) |[AWS・Google Cloud 生成AI特集](https://speakerdeck.com/iret/di-118hui-yun-mian-onrain-awsgoogle-cloud-sheng-cheng-aite-ji)|
-| 2023.10.28 | [（登壇）.NETラボ 勉強会 2023年10月 Azure Developer CLI の振り返りとDeep Dive](https://dotnetlab.connpass.com/event/296773/) |[Azure Developer CLIの振り返りとDeep Dive
-](https://speakerdeck.com/ymd65536/azure-developer-clinozhen-rifan-ritodeep-dive)|
+| 2023.10.28 | [（登壇）.NETラボ 勉強会 2023年10月 Azure Developer CLI の振り返りとDeep Dive](https://dotnetlab.connpass.com/event/296773/) |[Azure Developer CLIの振り返りとDeep Dive](https://speakerdeck.com/ymd65536/azure-developer-clinozhen-rifan-ritodeep-dive)|
 | 2023.10.11 | [（ハンズオン）Google製LLM「PaLM2」と対話できるLINE Botを爆速開発ハンズオン - YouTube](https://www.youtube.com/watch?v=RihQX1STpJg) |[Google製LLM PaLM2と対話できるLINE_Botを爆速開発ハンズオン](https://speakerdeck.com/ymd65536/googlezhi-llm-palm2-todui-hua-tekiruline-botwobao-su-kai-fa-hansuon)|
 | 2023.09.22 | [（登壇）インフラエンジニアBooks#37 - 30分でわかる「AWSエンジニア入門講座」 - YouTube](https://www.youtube.com/live/xn7MtnnJ1f8?feature=shared&t=1231) ||
 | 2023.09.16 | [（ショートセッション）Japan Azure User Group 13周年イベント](https://www.youtube.com/live/OJ_4UnhtJzI?feature=shared&t=14461) |[Azure Developer CLIでNotebookが動くテンプレートを作ってみた](https://speakerdeck.com/ymd65536/azuredeveloperclidenotebookgadong-kutenpuretowozuo-tutemita)|
