@@ -163,7 +163,7 @@
 | 2023.09.16 | [（ショートセッション）Japan Azure User Group 13周年イベント](https://www.youtube.com/live/OJ_4UnhtJzI?feature=shared&t=14461) |[Azure Developer CLIでNotebookが動くテンプレートを作ってみた](https://speakerdeck.com/ymd65536/azuredeveloperclidenotebookgadong-kutenpuretowozuo-tutemita)|
 | 2023.09.09 | [（登壇）　転職相談フェア『クラウド万博2023』](https://cloudpack.jp/event/cloudpack-expo-2023.html) |[転職相談フェア『クラウド万博2023』](https://irettechlabo.connpass.com/event/293347/)|
 | 2023.08.15 | [（パネルディスカッション）【社内イベント 開催レポート】Google Cloud認定資格 Associate Cloud Engineer対策講座](https://iret.media/76774) ||
-| 2023.08.05 | [（登壇）AWS資格12冠でいざ転職！オンプレはもう嫌だ！＆「心技体」はエンジニアにとって大切こと【CloudTech-LT会】ゆうすけさん、Kento.Yamadaさん – YouTube](https://www.youtube.com/watch?v=Q1GBKierk3U) ||
+| 2023.08.05 | [（登壇）AWS資格12冠でいざ転職！オンプレはもう嫌だ！＆「心技体」はエンジニアにとって大切こと【CloudTech-LT会】ゆうすけさん、Kento.Yamadaさん – YouTube](https://www.youtube.com/watch?v=Q1GBKierk3U) |[ 実務に携わる前に知っておきたいこと-エンジニアの心技体](https://speakerdeck.com/ymd65536/shi-wu-nixi-waruqian-nizhi-tuteokitaikoto-ensinianoxin-ji-ti)|
 | 2023.06.27 | [（登壇）NRUG (New Relic User Group) SRE支部 Vol.3 俺達のSREとNew Relicを読んでみた](https://nrug-sre.connpass.com/event/285748/) ||
 | 2023.06.23 | [（ハンズオン）Momentoの管理インターフェイス周りを調べてみた。(Momento CLIをハンズオン)](https://speakerdeck.com/ymd65536/momentonoguan-li-intahueisuzhou-riwodiao-betemita-momento-cliwohanzuon) ||
 | 2023.05.30 | [（登壇）AWS Summit Tokyo 2023 re:cap](https://iret.media/75352) ||
