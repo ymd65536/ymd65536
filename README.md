@@ -155,7 +155,7 @@
 | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |:---|
 | 2023.12.21 | [（登壇）第123回 雲勉 Lookerによる運用分析](https://youtu.be/BNxtT2biRm4) |[第123回 雲勉 Lookerによる運用分析](https://speakerdeck.com/iret/di-123hui-yun-mian-onrain-lookerniyoruyun-yong-fen-xi)|
 | 2023.11.29 | [（登壇）LACO Meet up #13『 私の〇〇挑戦記 LT大会 』](https://jaguer.jp/laco20231129/) ||
-| 2023.11.28 | [（登壇）第45回 Tokyo Jazug Night 40min session](https://www.youtube.com/live/T-FnzjIVQ1w?feature=shared&t=3912) ||
+| 2023.11.28 | [（登壇）第45回 Tokyo Jazug Night 40min session](https://www.youtube.com/live/T-FnzjIVQ1w?feature=shared&t=3912) |[ 個人的に注目したMicrosoftとGitHubのアップデート情報](https://speakerdeck.com/ymd65536/ge-ren-de-nizhu-mu-sitamicrosofttogithubnoatuhutetoqing-bao)|
 | 2023.11.02 | [（登壇）第118回 雲勉 AWS・Google Cloud 生成AI特集](https://youtu.be/msXem-glHpo?feature=shared) |[AWS・Google Cloud 生成AI特集](https://speakerdeck.com/iret/di-118hui-yun-mian-onrain-awsgoogle-cloud-sheng-cheng-aite-ji)|
 | 2023.10.28 | [（登壇）.NETラボ 勉強会 2023年10月 Azure Developer CLI の振り返りとDeep Dive](https://dotnetlab.connpass.com/event/296773/) |[Azure Developer CLIの振り返りとDeep Dive](https://speakerdeck.com/ymd65536/azure-developer-clinozhen-rifan-ritodeep-dive)|
 | 2023.10.11 | [（ハンズオン）Google製LLM「PaLM2」と対話できるLINE Botを爆速開発ハンズオン - YouTube](https://www.youtube.com/watch?v=RihQX1STpJg) |[Google製LLM PaLM2と対話できるLINE_Botを爆速開発ハンズオン](https://speakerdeck.com/ymd65536/googlezhi-llm-palm2-todui-hua-tekiruline-botwobao-su-kai-fa-hansuon)|
