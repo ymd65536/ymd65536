@@ -153,7 +153,7 @@
 
 | 年月日| 内容|資料|
 | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |:---|
-| 2023.12.21 | [（登壇）第123回 雲勉 Lookerによる運用分析](https://youtu.be/BNxtT2biRm4) ||
+| 2023.12.21 | [（登壇）第123回 雲勉 Lookerによる運用分析](https://youtu.be/BNxtT2biRm4) |[第123回 雲勉 Lookerによる運用分析](https://speakerdeck.com/iret/di-123hui-yun-mian-onrain-lookerniyoruyun-yong-fen-xi)|
 | 2023.11.29 | [（登壇）LACO Meet up #13『 私の〇〇挑戦記 LT大会 』](https://jaguer.jp/laco20231129/) ||
 | 2023.11.28 | [（登壇）第45回 Tokyo Jazug Night 40min session](https://www.youtube.com/live/T-FnzjIVQ1w?feature=shared&t=3912) ||
 | 2023.11.02 | [（登壇）第118回 雲勉 AWS・Google Cloud 生成AI特集](https://youtu.be/msXem-glHpo?feature=shared) ||
