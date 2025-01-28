@@ -219,6 +219,7 @@
 | 2023.07.06 | [LookerをGitHubと連携してみた - iret.media](https://iret.media/74782)|
 | 2023.06.29 | [LookerとAmazon Athenaを接続してみた - iret.media](https://iret.media/74677)|
 | 2023.03.19 | [IAM Identity Centerを使ってboto3 の検証環境を構築する - iret.media](https://iret.media/70939)|
+| 2023.01.26 | [（写真に登場）最後のクラウドエバ亀田さんが卒業イベントで残してくれたもの](https://ascii.jp/elem/000/004/122/4122040/2/) |
 | 2020.05.25 | [エンジニア認定基礎試験合格体験記 一般社団法人 Python エンジニア育成推進協会](https://www.pythonic-exam.com/archives/1453) |
 
 ## その他関連記事
