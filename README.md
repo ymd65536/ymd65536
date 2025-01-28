@@ -219,7 +219,6 @@
 | 2023.07.06 | [LookerをGitHubと連携してみた - iret.media](https://iret.media/74782)|
 | 2023.06.29 | [LookerとAmazon Athenaを接続してみた - iret.media](https://iret.media/74677)|
 | 2023.03.19 | [IAM Identity Centerを使ってboto3 の検証環境を構築する - iret.media](https://iret.media/70939)|
-| 2023.01.26 | [（写真に登場）最後のクラウドエバ亀田さんが卒業イベントで残してくれたもの](https://ascii.jp/elem/000/004/122/4122040/2/) |
 | 2020.05.25 | [エンジニア認定基礎試験合格体験記 一般社団法人 Python エンジニア育成推進協会](https://www.pythonic-exam.com/archives/1453) |
 
 ## その他関連記事
@@ -242,6 +241,7 @@
 | 2024.03.19 | [LINE Developer Communityでご活躍中の山田さん(@ymd65536)がGoogle Cloud Partner Tech Blog Challengeで受賞されました](https://note.com/linedc/n/n5c9c877338f4) |
 | 2023.09.27 | [（登壇）Google Cloud に関する取り組みを共有し合おう 秋のライトニングトーク大会](https://iret.media/83290)|
 | 2023.03.31 | [（事例公開）クラウド監視・運用保守の品質がさらに進化。AMS 適用やインシデント対応品質を高める「運用分析プラットフォーム」を短期間で構築](https://www.iret.co.jp/works/126.html) |
+| 2023.01.26 | [（写真に登場）最後のクラウドエバ亀田さんが卒業イベントで残してくれたもの](https://ascii.jp/elem/000/004/122/4122040/2/) |
 | 2022.03.16 | [（一部登場）“年収200万のブラックSIer”から”GMO主任エンジニア”に。くろかわこうへい主宰の『CloudTech』から自走できるAWSエンジニアが生まれるワケ](https://and-engineer.com/articles/YhdlgBMAACAAgDqf) |
 
 ## 現在のポジション
