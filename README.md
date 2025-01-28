@@ -119,7 +119,7 @@
 
 | 年月日     | 内容|資料|
 | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |:---|
-| 2025.01.25 | [(登壇).NET Conf 2024 .NETラボ 勉強会 2025年1月](https://dotnetlab.connpass.com/event/341044/)|[MicrosoftのOSSだけでAIによるブラウザテストを構成する](https://speakerdeck.com/ymd65536/microsoftnoossdakedeainiyoruburauzatesutowogou-cheng-suru)|
+| 2025.01.25 | [(登壇).NETラボ 勉強会 2025年1月](https://dotnetlab.connpass.com/event/341044/)|[MicrosoftのOSSだけでAIによるブラウザテストを構成する](https://speakerdeck.com/ymd65536/microsoftnoossdakedeainiyoruburauzatesutowogou-cheng-suru)|
 | 2024.12.21 | [(登壇).NET Conf 2024 .NETラボ 勉強会 2024年12月](https://dotnetlab.connpass.com/event/333400/)|[各クラウドサービスにおける.NETの対応と見解](https://speakerdeck.com/ymd65536/ge-kuraudosabisuniokeru-dot-netnodui-ying-tojian-jie)|
 | 2024.12.11 | [(運営)【Microsoft MVP監修】LINEミニアプリ×生成AI でミニゲーム開発ハンズオン](https://linedevelopercommunity.connpass.com/event/338061/)|なし|
 | 2024.11.23 | [(運営と登壇) .NETラボ 勉強会 2024年11月](https://dotnetlab.connpass.com/event/334612/)|[クラウドインフラ構築における.NETとその他IaCの比較](https://speakerdeck.com/ymd65536/kuraudoinhuragou-zhu-niokeru-dot-nettosonota-iacnobi-jiao)|
