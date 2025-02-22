@@ -111,6 +111,7 @@
 
 | 年月日     | 内容|資料|
 | :--------- | :------ |:---|
+| 2025.02.22 | [.NETラボ 勉強会 2025年2月](https://dotnetlab.connpass.com/event/344101/) | [ML.NETで始める機械学習](https://speakerdeck.com/ymd65536/ml-dot-netdeshi-meruji-jie-xue-xi) |
 | 2025.02.14 | [(登壇)Bedrock Night 2025 〜AIエージェント祭り！〜](https://jawsug.connpass.com/event/344030/)|[Amazon Bedrockでブラウザを操作するAIエージェントを作ってみた](https://speakerdeck.com/ymd65536/amazon-bedrockdeburauzawocao-zuo-suruaiezientowozuo-tutemita)|
 | 2025.02.06 | [Cloudflare×LINEミニアプリで実践！モダンな予約システムハンズオン](https://linedevelopercommunity.connpass.com/event/342961/)|なし|
 | 2025.01.25 | [(登壇).NETラボ 勉強会 2025年1月](https://dotnetlab.connpass.com/event/341044/)|[MicrosoftのOSSだけでAIによるブラウザテストを構成する](https://speakerdeck.com/ymd65536/microsoftnoossdakedeainiyoruburauzatesutowogou-cheng-suru)|
