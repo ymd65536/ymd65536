@@ -226,6 +226,7 @@
 
 | 年月日| 内容|
 |:---|:---|
+| 2025.02.22 | [【爆速レポ】.NETラボ 勉強会 2025年2月参加レポート #dotnetlab（ML.NETで始める機械学習）](https://note.com/keitafukui/n/nb61711dfea0f)|
 | 2024.12.11 | [Learn and Connect as a Community at Microsoft Developer Day in Tokyo](https://techcommunity.microsoft.com/blog/mvpawardprogramblog/learn-and-connect-as-a-community-at-microsoft-developer-day-in-tokyo/4355857?wt.mc_id=MVP_357747) |
 | 2024.12.05 | [Partner Top Engineer 2025：人材育成分科会より 26 名が選出！](https://jaguer.jp/digitalcloud-topengineer2025/) |
 | 2024.11.19 | [cloudpackにおけるLookerの活用事例](https://findy-tools.io/products/looker/7/305) |
