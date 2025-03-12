@@ -49,7 +49,7 @@
 
 | 受賞日     | 受賞名                                    |
 | :--------- | :---------------------------------------- |
-| 2025.03.05 | AWS Community Builder |
+| 2025.03.05 | [AWS Community Builder](https://community.aws/@ymd65536) |
 | 2024.11.21 | [Google Cloud Partner Top Engineer 2025 Data Analytics](https://cloud.google.com/blog/ja/topics/partners/partner-top-engineer-2025-award-winners/) |
 | 2024.07.17 | [LINE API Expert](https://developers.line.biz/ja/community/api-experts/jp-kento-yamada/) |
 | 2024.04.01 | [Microsoft MVP for Developer Technologies](https://mvp.microsoft.com/en-US/MVP/profile/3cfc1499-97c3-49f5-9114-1e8ce97d883d)|
