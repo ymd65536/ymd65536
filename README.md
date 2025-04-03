@@ -112,6 +112,7 @@
 
 | 年月日     | 内容|資料|
 | :--------- | :------ |:---|
+| 2025.04.03 |[第159回 雲勉 Amazon Bedrock でブラウザを操作する AI エージェントを作ってみた](https://www.youtube.com/watch?v=c3vdlpFceVA)| 後ほど掲載 |
 | 2025.03.24 | [（運営）【サ終】LINE Notifyフリートーク会【LINE通知は以後Messaging APIへ！】](https://linedevelopercommunity.connpass.com/event/347264/) | なし |
 | 2025.03.22 | [（運営と登壇）.NETラボ 勉強会 2025年3月(LT成分多め)](https://dotnetlab.connpass.com/event/347207/) | [Azure Developer CLIの最新アップデートを追う](https://speakerdeck.com/ymd65536/azure-developer-clinozui-xin-atupudetowozhui-u) |
 | 2025.03.11 | [（運営と登壇）Global AI BootCamp - AOAI Dev Day プレイベント](https://azureai.connpass.com/event/345154/)|[ PromptyによるAI開発入門](https://speakerdeck.com/ymd65536/promptyniyoruaikai-fa-ru-men)|
