@@ -44,6 +44,7 @@
 |はてなブログ|[やまだのBlog](https://ymd65536.hatenablog.com/)|
 |note|[ymd65536](https://note.com/ymd65536)|
 |Speaker Deck|[ymd65536](https://speakerdeck.com/ymd65536)|
+|Ready Tensor|[Ready Tensor](https://app.readytensor.ai/users/ymd65536)|
 
 ### 受賞歴
 
@@ -113,7 +114,12 @@
 | 年月日     | 内容|資料|
 | :--------- | :------ |:---|
 | 2025.07.02 | なんでもCopilot| coming soon|
-| 2025.04.26 | [（運営と登壇）.NETラボ 勉強会 2025年4月](https://dotnetlab.connpass.com/event/350190/)| GitHub Copilot for Azureを使い倒したい |
+| 2025.06.28 | [（運営と登壇）GitHub Copilot Bootcamp .NETラボ 勉強会 2025年6月](https://dotnetlab.connpass.com/event/351953/)|coming soon|
+| 2025.05.24 | [（運営と登壇）Microsoft Season of Agent .NETラボ 勉強会 2025年5月](https://dotnetlab.connpass.com/event/351459/)|coming soon|
+| 2025.05.14 | [（登壇）シネマ de LT会〜あなたのナレッジ大上映〜](https://aeon.connpass.com/event/352070/)|coming soon|
+| 2025.05.10 | [（運営と登壇）Global Azure 2025 - Part4 GitHub Copilot for Azureってなんだろう？](https://jazug.connpass.com/event/348980/)|coming soon|
+| 2025.05.10 | [（運営と登壇）Global Azure 2025 - Part3 GitHub Copilotを触ってみよう](https://jazug.connpass.com/event/348980/)|coming soon|
+| 2025.04.26 | [（運営と登壇）.NETラボ 勉強会 2025年4月](https://dotnetlab.connpass.com/event/350190/)| [GitHub Copilot for Azureを使い倒したい](https://speakerdeck.com/ymd65536/github-copilot-for-azurewoshi-idao-sitai) |
 | 2025.04.24 | [（登壇）Next × Jagu'e'r アフターイベント「Next 2025 Big Thing」](https://jaguer.connpass.com/event/347580/) | [By the way Google Cloud Next 2025に行ってみてどうだった](https://speakerdeck.com/ymd65536/tokorodegoogle-cloud-next-2025nixing-tutemitedoudatuta) |
 | 2025.04.03 |[（登壇）第159回 雲勉 Amazon Bedrock でブラウザを操作する AI エージェントを作ってみた](https://www.youtube.com/watch?v=c3vdlpFceVA)| [第159回 雲勉 Amazon Bedrock でブラウザを操作する AI エージェントを作ってみた](https://speakerdeck.com/iret/di-159hui-yun-mian-amazon-bedrock-deburauzawocao-zuo-suru-ai-ezientowozuo-tutemita) |
 | 2025.03.24 | [（運営）【サ終】LINE Notifyフリートーク会【LINE通知は以後Messaging APIへ！】](https://linedevelopercommunity.connpass.com/event/347264/) | なし |
@@ -204,10 +210,29 @@
 | 2022.08.31 | [AWS認定資格 ソリューションアーキテクトアソシエイトの教科書: 合格へ導く虎の巻 Kindle版](https://www.amazon.co.jp/dp/B0BCPNZ9GJ/ref=cm_sw_r_tw_dp_W6F2DZMND41R6CN1J412)|
 | 2022.01.14 | [AWSエンジニア入門講座――学習ロードマップで体系的に学ぶ](https://www.amazon.co.jp/dp/B09PYMQZD4/ref=cm_sw_r_tw_dp_Y89YQ76N5C6TMFEJKNWG)|
 
-### 執筆歴
+### 献本歴
+
+|年月日|タイトル|レビュー|
+|:---|:---|:---|
+|2025.05.XX|Azureの知識地図|comming soon|
+|2025.05.XX|独習Python|comming soon|
+|2024.07.14|独習ASP.NET Core|[独習ASP.NET Coreをレビュー！ - 404ニキのBlog@hatena](https://ymd65536.hatenablog.com/entry/2024/07/14/174606)|
+|2024.06.19|Amazon Bedrock 生成AIアプリ開発入門|[宇宙一早くAmazon Bedrock 生成AIアプリ開発入門の献本が届いたので 感想をしみじみ語る - Speaker Deck](https://speakerdeck.com/ymd65536/yu-zhou-zao-kuamazon-bedrock-sheng-cheng-aiapurikai-fa-ru-men-noxian-ben-gajie-itanode-gan-xiang-wosimizimiyu-ru)|
+
+### オウンドメディアおよび外部メディアへの寄稿
 
 | 年月日       | 内容                                                                                                                                                                                                          |
 | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2025.04.21 | [【Google Cloud Next ’25】Agent Development KitとDev Containerを使って簡単なチャットアプリを起動してみよう - iret.media](https://iret.media/150550) |
+| 2025.04.16 | [【Google Cloud Next ’25】Gemini Code Assist、Gemini Cloud Assist、Firebase Studioまで：Google Cloudが示す次世代開発スタイル - iret.media](https://iret.media/150057) |
+| 2025.04.14 | [【Google Cloud Next ’25】DORAが示すAI導入の課題をGemini Code Assistカスタマイズで解決！ チームの生産性を最大化する実践ガイド - iret.media](https://iret.media/149903) |
+| 2025.04.14 | [【Google Cloud Next ’25】AI時代のAPIセキュリティ最前線：Google CloudによるOWASP Top 10対策 - iret.media](https://iret.media/149273) |
+| 2025.04.14 | [【Google Cloud Next ’25】Google CloudのGPUでAI駆動開発！GeminiとGemma、Stable Diffusionをアプリケーションに組み込む - iret.media](https://iret.media/149682) |
+| 2025.04.14 | [【Google Cloud Next ’25】Cloud FunctionsがCloud Runへ統合！Eventarc Event Pipesによる次世代イベント駆動アーキテクチャも実現 - iret.media](https://iret.media/149245) |
+| 2025.04.14 | [【Google Cloud Next ’25】BigQueryの新時代！SQLで画像も音声も分析！BigQuery Object RefとGeminiで作るマルチモーダルAI活用術 - iret.media](https://iret.media/149236) |
+| 2025.04.11 | [【Google Cloud Next ’25】ソフトウェアテストの未来を垣間見た！ Gemini Code Assist agentsが開発現場にもたらす革新 - iret.media](https://iret.media/148861) |
+| 2025.04.11 | [【Google Cloud Next ’25】Google Cloudにおけるリモート開発の進化：Cloud ShellとWorkstationsの最新動向 - iret.media](https://iret.media/148567) |
+| 2025.04.10 | [【Google Cloud Next ’25】Google WorkspaceとGoogle Agentspaceで実現するデータサイロの解消とGemini活用による業務効率化 - iret.media](https://iret.media/148269) |
 | 2024.08.09 |[【Google Cloud Next Tokyo ’24】【Recap】Google Cloudにおけるベストプラクティスの インフラストラクチャ構成を復習する！](https://iret.media/113936)|
 | 2024.07.25 |[Lookerの派生テーブルをLookMLで作成するコツ](https://iret.media/108705)|
 | 2024.07.24 |[LookerスケジューラをGoogle Apps Scriptで設定する方法](https://iret.media/108782)|
