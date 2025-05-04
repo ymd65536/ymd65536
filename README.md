@@ -234,9 +234,9 @@
 | 2025.04.11 | [【Google Cloud Next ’25】Google Cloudにおけるリモート開発の進化：Cloud ShellとWorkstationsの最新動向 - iret.media](https://iret.media/148567) |
 | 2025.04.10 | [【Google Cloud Next ’25】Google WorkspaceとGoogle Agentspaceで実現するデータサイロの解消とGemini活用による業務効率化 - iret.media](https://iret.media/148269) |
 | 2024.08.09 |[【Google Cloud Next Tokyo ’24】【Recap】Google Cloudにおけるベストプラクティスの インフラストラクチャ構成を復習する！](https://iret.media/113936)|
-| 2024.07.25 |[Lookerの派生テーブルをLookMLで作成するコツ](https://iret.media/108705)|
-| 2024.07.24 |[LookerスケジューラをGoogle Apps Scriptで設定する方法](https://iret.media/108782)|
-| 2024.06.28 |[Google Apps Script(GAS)でLooker APIの実行結果をSlackに通知してみた](https://iret.media/104541)|
+| 2024.07.25 |[Lookerの派生テーブルをLookMLで作成するコツ - iret.media](https://iret.media/108705)|
+| 2024.07.24 |[LookerスケジューラをGoogle Apps Scriptで設定する方法 - iret.media](https://iret.media/108782)|
+| 2024.06.28 |[Google Apps Script(GAS)でLooker APIの実行結果をSlackに通知してみた - iret.media](https://iret.media/104541)|
 | 2024.06.21 |[Looker API Getting Started - iret.media](https://iret.media/104556)|
 | 2024.06.21 |[Lookerスケジューラを利用してMSPの運用状況をレポートとして配信する - iret.media](https://iret.media/104553)|
 | 2024.02.29 |[Gemini Pro VisionでGCS内の画像に秘匿情報が写っていないかスキャンしてみた - iret.media](https://iret.media/94023)|
@@ -246,9 +246,9 @@
 | 2023.11.17 |[[Google Cloud Next Tokyo ’23 キーワード解説] DevSecOpsとは - iret.media](https://iret.media/85312)|
 | 2023.10.06 |[クラウド実務未経験からアイレットで働き始めての一年を振り返ってみた - iret.media](https://iret.media/82112)|
 | 2023.10.05 |[【社内イベント開催レポート】 Google Cloud に関する取り組みを共有し合おう 秋のライトニングトーク大会 - iret.media](https://iret.media/83290)|
-| 2023.10.03 |[Amazon BedrockでLINE botを作ってみた！](https://iret.media/83056)|
-| 2023.09.17 |[Lookerを使い始めてから浮かぶ疑問点を整理してみた](https://iret.media/80588)|
-| 2023.09.16 |[用語を整理しながら学ぶLooker – アラート編](https://iret.media/80383)|
+| 2023.10.03 |[Amazon BedrockでLINE botを作ってみた！ - iret.media](https://iret.media/83056)|
+| 2023.09.17 |[Lookerを使い始めてから浮かぶ疑問点を整理してみた - iret.media](https://iret.media/80588)|
+| 2023.09.16 |[用語を整理しながら学ぶLooker – アラート編 - iret.media](https://iret.media/80383)|
 | 2023.08.31 | [用語を整理しながら学ぶLooker – ダッシュボード編 - iret.media](https://iret.media/78955)|
 | 2023.08.22 | [PaLMが日本語応答に対応！PaLMのAPIをJupyter Notebookから実行するハンズオン！ - iret.media](https://iret.media/78361)|
 | 2023.08.07 | [(※共同著者) PagerDuty Summit Tokyo 2023レポート - iret.media](https://iret.media/76538) |
