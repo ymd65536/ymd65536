@@ -44,6 +44,7 @@
 |はてなブログ|[やまだのBlog](https://ymd65536.hatenablog.com/)|
 |note|[ymd65536](https://note.com/ymd65536)|
 |Speaker Deck|[ymd65536](https://speakerdeck.com/ymd65536)|
+|Ready Tensor|[Ready Tensor](https://app.readytensor.ai/users/ymd65536)|
 
 ### 受賞歴
 
@@ -113,7 +114,7 @@
 | 年月日     | 内容|資料|
 | :--------- | :------ |:---|
 | 2025.07.02 | なんでもCopilot| coming soon|
-| 2025.04.26 | [（運営と登壇）.NETラボ 勉強会 2025年4月](https://dotnetlab.connpass.com/event/350190/)| GitHub Copilot for Azureを使い倒したい |
+| 2025.04.26 | [（運営と登壇）.NETラボ 勉強会 2025年4月](https://dotnetlab.connpass.com/event/350190/)| [GitHub Copilot for Azureを使い倒したい](https://speakerdeck.com/ymd65536/github-copilot-for-azurewoshi-idao-sitai) |
 | 2025.04.24 | [（登壇）Next × Jagu'e'r アフターイベント「Next 2025 Big Thing」](https://jaguer.connpass.com/event/347580/) | [By the way Google Cloud Next 2025に行ってみてどうだった](https://speakerdeck.com/ymd65536/tokorodegoogle-cloud-next-2025nixing-tutemitedoudatuta) |
 | 2025.04.03 |[（登壇）第159回 雲勉 Amazon Bedrock でブラウザを操作する AI エージェントを作ってみた](https://www.youtube.com/watch?v=c3vdlpFceVA)| [第159回 雲勉 Amazon Bedrock でブラウザを操作する AI エージェントを作ってみた](https://speakerdeck.com/iret/di-159hui-yun-mian-amazon-bedrock-deburauzawocao-zuo-suru-ai-ezientowozuo-tutemita) |
 | 2025.03.24 | [（運営）【サ終】LINE Notifyフリートーク会【LINE通知は以後Messaging APIへ！】](https://linedevelopercommunity.connpass.com/event/347264/) | なし |
