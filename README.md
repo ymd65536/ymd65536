@@ -223,6 +223,16 @@
 
 | 年月日       | 内容                                                                                                                                                                                                          |
 | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2025.04.21 | [【Google Cloud Next ’25】Agent Development KitとDev Containerを使って簡単なチャットアプリを起動してみよう - iret.media](https://iret.media/150550) |
+| 2025.04.16 | [【Google Cloud Next ’25】Gemini Code Assist、Gemini Cloud Assist、Firebase Studioまで：Google Cloudが示す次世代開発スタイル - iret.media](https://iret.media/150057) |
+| 2025.04.14 | [【Google Cloud Next ’25】DORAが示すAI導入の課題をGemini Code Assistカスタマイズで解決！ チームの生産性を最大化する実践ガイド - iret.media](https://iret.media/149903) |
+| 2025.04.14 | [【Google Cloud Next ’25】AI時代のAPIセキュリティ最前線：Google CloudによるOWASP Top 10対策 - iret.media](https://iret.media/149273) |
+| 2025.04.14 | [【Google Cloud Next ’25】Google CloudのGPUでAI駆動開発！GeminiとGemma、Stable Diffusionをアプリケーションに組み込む - iret.media](https://iret.media/149682) |
+| 2025.04.14 | [【Google Cloud Next ’25】Cloud FunctionsがCloud Runへ統合！Eventarc Event Pipesによる次世代イベント駆動アーキテクチャも実現 - iret.media](https://iret.media/149245) |
+| 2025.04.14 | [【Google Cloud Next ’25】BigQueryの新時代！SQLで画像も音声も分析！BigQuery Object RefとGeminiで作るマルチモーダルAI活用術 - iret.media](https://iret.media/149236) |
+| 2025.04.11 | [【Google Cloud Next ’25】ソフトウェアテストの未来を垣間見た！ Gemini Code Assist agentsが開発現場にもたらす革新 - iret.media](https://iret.media/148861) |
+| 2025.04.11 | [【Google Cloud Next ’25】Google Cloudにおけるリモート開発の進化：Cloud ShellとWorkstationsの最新動向 - iret.media](https://iret.media/148567) |
+| 2025.04.10 | [【Google Cloud Next ’25】Google WorkspaceとGoogle Agentspaceで実現するデータサイロの解消とGemini活用による業務効率化 - iret.media](https://iret.media/148269) |
 | 2024.08.09 |[【Google Cloud Next Tokyo ’24】【Recap】Google Cloudにおけるベストプラクティスの インフラストラクチャ構成を復習する！](https://iret.media/113936)|
 | 2024.07.25 |[Lookerの派生テーブルをLookMLで作成するコツ](https://iret.media/108705)|
 | 2024.07.24 |[LookerスケジューラをGoogle Apps Scriptで設定する方法](https://iret.media/108782)|
