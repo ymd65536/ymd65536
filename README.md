@@ -209,6 +209,8 @@
 
 |年月日|タイトル|レビュー|
 |:---|:---|:---|
+|2025.05.XX|Azureの知識地図|comming soon|
+|2025.05.XX|独習Python|comming soon|
 |2024.07.14|独習ASP.NET Core|[独習ASP.NET Coreをレビュー！ - 404ニキのBlog@hatena](https://ymd65536.hatenablog.com/entry/2024/07/14/174606)|
 |2024.06.19|Amazon Bedrock 生成AIアプリ開発入門|[宇宙一早くAmazon Bedrock 生成AIアプリ開発入門の献本が届いたので 感想をしみじみ語る - Speaker Deck](https://speakerdeck.com/ymd65536/yu-zhou-zao-kuamazon-bedrock-sheng-cheng-aiapurikai-fa-ru-men-noxian-ben-gajie-itanode-gan-xiang-wosimizimiyu-ru)|
 
