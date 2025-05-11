@@ -117,8 +117,8 @@
 | 2025.06.28 | [（運営と登壇）GitHub Copilot Bootcamp .NETラボ 勉強会 2025年6月](https://dotnetlab.connpass.com/event/351953/)|coming soon|
 | 2025.05.24 | [（運営と登壇）Microsoft Season of Agent .NETラボ 勉強会 2025年5月](https://dotnetlab.connpass.com/event/351459/)|coming soon|
 | 2025.05.14 | [（登壇）シネマ de LT会〜あなたのナレッジ大上映〜](https://aeon.connpass.com/event/352070/)|coming soon|
-| 2025.05.10 | [（運営と登壇）Global Azure 2025 - Part4 GitHub Copilot for Azureってなんだろう？](https://jazug.connpass.com/event/348980/)|coming soon|
-| 2025.05.10 | [（運営と登壇）Global Azure 2025 - Part3 GitHub Copilotを触ってみよう](https://jazug.connpass.com/event/348980/)|coming soon|
+| 2025.05.10 | [（運営と登壇）Global Azure 2025 - Part4 GitHub Copilot for Azureってなんだろう？](https://jazug.connpass.com/event/348980/)|[Part4 GitHub Copilot for Azureってなんだろう？](https://speakerdeck.com/ymd65536/github-copilot-for-azuretutenantarou)|
+| 2025.05.10 | [（運営と登壇）Global Azure 2025 - Part3 GitHub Copilotを触ってみよう](https://jazug.connpass.com/event/348980/)|[【Global Azure 2025】Gitub Copilot Hands-on Lab for Python](https://zenn.dev/ymd65536/articles/gtihub_copilot_handson)|
 | 2025.04.26 | [（運営と登壇）.NETラボ 勉強会 2025年4月](https://dotnetlab.connpass.com/event/350190/)| [GitHub Copilot for Azureを使い倒したい](https://speakerdeck.com/ymd65536/github-copilot-for-azurewoshi-idao-sitai) |
 | 2025.04.24 | [（登壇）Next × Jagu'e'r アフターイベント「Next 2025 Big Thing」](https://jaguer.connpass.com/event/347580/) | [By the way Google Cloud Next 2025に行ってみてどうだった](https://speakerdeck.com/ymd65536/tokorodegoogle-cloud-next-2025nixing-tutemitedoudatuta) |
 | 2025.04.03 |[（登壇）第159回 雲勉 Amazon Bedrock でブラウザを操作する AI エージェントを作ってみた](https://www.youtube.com/watch?v=c3vdlpFceVA)| [第159回 雲勉 Amazon Bedrock でブラウザを操作する AI エージェントを作ってみた](https://speakerdeck.com/iret/di-159hui-yun-mian-amazon-bedrock-deburauzawocao-zuo-suru-ai-ezientowozuo-tutemita) |
