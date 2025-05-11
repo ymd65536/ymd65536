@@ -262,6 +262,7 @@
 
 | 年月日| 内容|
 |:---|:---|
+| 2025.05.02 |[MVPs reach Thousands Globally with Microsoft AI Tour](https://techcommunity.microsoft.com/blog/mvp-blog/mvps-reach-thousands-globally-with-microsoft-ai-tour/4410392?wt.mc_id=MVP_357747) |
 | 2025.04.22 | [写真に登場 Why Community? Voices of Six Japanese MVPs](https://techcommunity.microsoft.com/blog/mvp-blog/why-community-voices-of-six-japanese-mvps/4406447?wt.mc_id=MVP_357747) |
 | 2025.03.04 | [「Google Cloud Partner Top Engineer 2025 振り返りイベント（次年度キックオフ）」が開催されました！](https://iret.media/140848) |
 | 2025.02.22 | [【爆速レポ】.NETラボ 勉強会 2025年2月参加レポート #dotnetlab（ML.NETで始める機械学習）](https://note.com/keitafukui/n/nb61711dfea0f)|
