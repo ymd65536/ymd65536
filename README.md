@@ -115,6 +115,7 @@
 | :--------- | :------ |:---|
 | 2025.07.02 | なんでもCopilot| coming soon|
 | 2025.06.28 | [（運営と登壇）GitHub Copilot Bootcamp .NETラボ 勉強会 2025年6月](https://dotnetlab.connpass.com/event/351953/)|coming soon|
+| 2025.06.18 | [LINE DC Generative AI Meetup #6](https://linedevelopercommunity.connpass.com/event/355879/) | Agent Development Kit (ADK) でLINE Bot作ってみた |
 | 2025.05.24 | [（運営と登壇）Microsoft Season of Agent .NETラボ 勉強会 2025年5月](https://dotnetlab.connpass.com/event/351459/)|coming soon|
 | 2025.05.14 | [（登壇）シネマ de LT会〜あなたのナレッジ大上映〜](https://aeon.connpass.com/event/352070/)|[ビカム・ア・コパイロット](https://speakerdeck.com/ymd65536/bikamuakopairotuto)|
 | 2025.05.10 | [（運営と登壇）Global Azure 2025 - Part4 GitHub Copilot for Azureってなんだろう？](https://jazug.connpass.com/event/348980/)|[Part4 GitHub Copilot for Azureってなんだろう？](https://speakerdeck.com/ymd65536/github-copilot-for-azuretutenantarou)|
