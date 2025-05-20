@@ -116,7 +116,7 @@
 | 2025.07.02 | なんでもCopilot| coming soon|
 | 2025.06.28 | [（運営と登壇）GitHub Copilot Bootcamp .NETラボ 勉強会 2025年6月](https://dotnetlab.connpass.com/event/351953/)|coming soon|
 | 2025.05.24 | [（運営と登壇）Microsoft Season of Agent .NETラボ 勉強会 2025年5月](https://dotnetlab.connpass.com/event/351459/)|coming soon|
-| 2025.05.14 | [（登壇）シネマ de LT会〜あなたのナレッジ大上映〜](https://aeon.connpass.com/event/352070/)|coming soon|
+| 2025.05.14 | [（登壇）シネマ de LT会〜あなたのナレッジ大上映〜](https://aeon.connpass.com/event/352070/)|[ビカム・ア・コパイロット](https://speakerdeck.com/ymd65536/bikamuakopairotuto)|
 | 2025.05.10 | [（運営と登壇）Global Azure 2025 - Part4 GitHub Copilot for Azureってなんだろう？](https://jazug.connpass.com/event/348980/)|[Part4 GitHub Copilot for Azureってなんだろう？](https://speakerdeck.com/ymd65536/github-copilot-for-azuretutenantarou)|
 | 2025.05.10 | [（運営と登壇）Global Azure 2025 - Part3 GitHub Copilotを触ってみよう](https://jazug.connpass.com/event/348980/)|[【Global Azure 2025】Gitub Copilot Hands-on Lab for Python](https://zenn.dev/ymd65536/articles/gtihub_copilot_handson)|
 | 2025.04.26 | [（運営と登壇）.NETラボ 勉強会 2025年4月](https://dotnetlab.connpass.com/event/350190/)| [GitHub Copilot for Azureを使い倒したい](https://speakerdeck.com/ymd65536/github-copilot-for-azurewoshi-idao-sitai) |
@@ -262,6 +262,7 @@
 
 | 年月日| 内容|
 |:---|:---|
+| 2025.05.20 | [2024年5月20日｜「AWS Community Builders」にアイレットから新たに5名が選出されました｜クラウドの活用なら cloudpack](https://cloudpack.jp/info/20240520.html) |
 | 2025.05.03 |[MVPs reach Thousands Globally with Microsoft AI Tour](https://techcommunity.microsoft.com/blog/mvp-blog/mvps-reach-thousands-globally-with-microsoft-ai-tour/4410392?wt.mc_id=MVP_357747) |
 | 2025.04.22 | [写真に登場 Why Community? Voices of Six Japanese MVPs](https://techcommunity.microsoft.com/blog/mvp-blog/why-community-voices-of-six-japanese-mvps/4406447?wt.mc_id=MVP_357747) |
 | 2025.03.04 | [「Google Cloud Partner Top Engineer 2025 振り返りイベント（次年度キックオフ）」が開催されました！](https://iret.media/140848) |
