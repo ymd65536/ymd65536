@@ -115,7 +115,8 @@
 | :--------- | :------ |:---|
 | 2025.07.02 | なんでもCopilot| coming soon|
 | 2025.06.28 | [（運営と登壇）GitHub Copilot Bootcamp .NETラボ 勉強会 2025年6月](https://dotnetlab.connpass.com/event/351953/)|coming soon|
-| 2025.05.24 | [（運営と登壇）Microsoft Season of Agent .NETラボ 勉強会 2025年5月](https://dotnetlab.connpass.com/event/351459/)|coming soon|
+| 2025.06.18 | [LINE DC Generative AI Meetup #6](https://linedevelopercommunity.connpass.com/event/355879/) | Agent Development Kit (ADK) でLINE Bot作ってみた |
+| 2025.05.24 | [（運営と登壇）Microsoft Season of Agent .NETラボ 勉強会 2025年5月](https://dotnetlab.connpass.com/event/351459/)|[(ハンズオン)【Azure】 Azure AI Foundryによるマルチモーダル モデルとエージェントの操作](https://zenn.dev/ymd65536/articles/azure_ai_foundry)|
 | 2025.05.14 | [（登壇）シネマ de LT会〜あなたのナレッジ大上映〜](https://aeon.connpass.com/event/352070/)|[ビカム・ア・コパイロット](https://speakerdeck.com/ymd65536/bikamuakopairotuto)|
 | 2025.05.10 | [（運営と登壇）Global Azure 2025 - Part4 GitHub Copilot for Azureってなんだろう？](https://jazug.connpass.com/event/348980/)|[Part4 GitHub Copilot for Azureってなんだろう？](https://speakerdeck.com/ymd65536/github-copilot-for-azuretutenantarou)|
 | 2025.05.10 | [（運営と登壇）Global Azure 2025 - Part3 GitHub Copilotを触ってみよう](https://jazug.connpass.com/event/348980/)|[【Global Azure 2025】Gitub Copilot Hands-on Lab for Python](https://zenn.dev/ymd65536/articles/gtihub_copilot_handson)|
@@ -214,8 +215,8 @@
 
 |年月日|タイトル|レビュー|
 |:---|:---|:---|
-|2025.05.XX|Azureの知識地図|comming soon|
-|2025.05.XX|独習Python|comming soon|
+|2025.05.15|独習Python|[【読書レビュー】Python入門書の決定版、独習Python 第2版](https://ymd65536.hatenablog.com/entry/2025/05/15/143300)|
+|2025.05.12|Azureの知識地図|[【読書レビュー】過去最強のAzure入門書、Azureの知識地図 〜クラウドの基礎から実装・運用管理まで](https://ymd65536.hatenablog.com/entry/2025/05/12/114334)|
 |2024.07.14|独習ASP.NET Core|[独習ASP.NET Coreをレビュー！ - 404ニキのBlog@hatena](https://ymd65536.hatenablog.com/entry/2024/07/14/174606)|
 |2024.06.19|Amazon Bedrock 生成AIアプリ開発入門|[宇宙一早くAmazon Bedrock 生成AIアプリ開発入門の献本が届いたので 感想をしみじみ語る - Speaker Deck](https://speakerdeck.com/ymd65536/yu-zhou-zao-kuamazon-bedrock-sheng-cheng-aiapurikai-fa-ru-men-noxian-ben-gajie-itanode-gan-xiang-wosimizimiyu-ru)|
 
