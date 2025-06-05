@@ -263,6 +263,7 @@
 
 | 年月日| 内容|
 |:---|:---|
+| 2025.05.30 |[AOAI Dev Day 2025（Azure OpenAI Service Dev Day 2025）](https://aoai-devday.com/)|
 | 2025.05.20 | [2024年5月20日｜「AWS Community Builders」にアイレットから新たに5名が選出されました｜クラウドの活用なら cloudpack](https://cloudpack.jp/info/20240520.html) |
 | 2025.05.03 |[MVPs reach Thousands Globally with Microsoft AI Tour](https://techcommunity.microsoft.com/blog/mvp-blog/mvps-reach-thousands-globally-with-microsoft-ai-tour/4410392?wt.mc_id=MVP_357747) |
 | 2025.04.22 | [写真に登場 Why Community? Voices of Six Japanese MVPs](https://techcommunity.microsoft.com/blog/mvp-blog/why-community-voices-of-six-japanese-mvps/4406447?wt.mc_id=MVP_357747) |
