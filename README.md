@@ -113,9 +113,9 @@
 
 | 年月日     | 内容|資料|
 | :--------- | :------ |:---|
-| 2025.07.02 | なんでもCopilot| GitHubとAzureを使って開発者になろう |
+| 2025.07.02 | （登壇）なんでもCopilot| GitHubとAzureを使って開発者になろう |
 | 2025.06.28 | [（運営と登壇）GitHub Copilot Bootcamp .NETラボ 勉強会 2025年6月](https://dotnetlab.connpass.com/event/351953/)| [GitHub Copilot and GitHub Codespaces Hands-on](https://speakerdeck.com/ymd65536/github-copilot-and-github-codespaces-hands-on) |
-| 2025.06.18 | [LINE DC Generative AI Meetup #6](https://linedevelopercommunity.connpass.com/event/355879/) | [Agent Development Kit (ADK) でLINE Bot作ってみた](https://speakerdeck.com/ymd65536/agent-development-kit-adk-deline-botzuo-tutemita) |
+| 2025.06.18 | [（登壇）LINE DC Generative AI Meetup #6](https://linedevelopercommunity.connpass.com/event/355879/) | [Agent Development Kit (ADK) でLINE Bot作ってみた](https://speakerdeck.com/ymd65536/agent-development-kit-adk-deline-botzuo-tutemita) |
 | 2025.05.24 | [（運営と登壇）Microsoft Season of Agent .NETラボ 勉強会 2025年5月](https://dotnetlab.connpass.com/event/351459/)|[(ハンズオン)【Azure】 Azure AI Foundryによるマルチモーダル モデルとエージェントの操作](https://zenn.dev/ymd65536/articles/azure_ai_foundry)|
 | 2025.05.14 | [（登壇）シネマ de LT会〜あなたのナレッジ大上映〜](https://aeon.connpass.com/event/352070/)|[ビカム・ア・コパイロット](https://speakerdeck.com/ymd65536/bikamuakopairotuto)|
 | 2025.05.10 | [（運営と登壇）Global Azure 2025 - Part4 GitHub Copilot for Azureってなんだろう？](https://jazug.connpass.com/event/348980/)|[Part4 GitHub Copilot for Azureってなんだろう？](https://speakerdeck.com/ymd65536/github-copilot-for-azuretutenantarou)|
