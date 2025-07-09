@@ -79,16 +79,16 @@
 
 ### AWS認定資格
 
-| 認定日     | AWS認定資格名                                    |
-| :--------- | :-------------------------------------------- |
-| 2024.09.17 | [AWS Certified DevOps Engineer – Professional](https://www.credly.com/badges/1fbaa7a7-4bbf-4aee-abb9-7683208fde4e/)|
-| 2024.09.09 | [AWS Certified Machine Learning – Specialty](https://www.credly.com/badges/c48c1b7b-85e6-4413-a065-061ab2ec9181/public_url)|
-| 2024.05.02 | [AWS Certified SysOps Administrator - Associate](https://www.credly.com/badges/e7a6e6c5-2b98-4d6f-9948-4a020b84258c/public_url)|
-| 2024.04.08 | [AWS Certified Cloud Practitioner](https://www.credly.com/badges/58605a66-dcb8-4a39-8314-102f4e03ad92/public_url) |
-| 2024.03.11 | [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/1c11a67f-d94c-49e3-9d1a-8e76054e3b8c/public_url) |
-| 2023.02.06 | [AWS Certified Security - Specialty (SCS-C01)](https://www.credly.com/badges/e17d69ba-0b2a-4b03-adbc-ebde60fc2e00/public_url) |
-| 2022.11.14 | [AWS Certified Developer – Associate](https://www.credly.com/badges/d43ea005-60aa-4c4d-9c3b-c60128245add/public_url) |
-| 2021.03.13 | [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/e9664f78-a8e9-4338-b12a-fc83b1447740/public_url) |
+| 認定日     | AWS認定資格名                                    | 有効期限 |
+| :--------- | :-------------------------------------------- |:---|
+| 2024.09.17 | [AWS Certified DevOps Engineer – Professional](https://www.credly.com/badges/1fbaa7a7-4bbf-4aee-abb9-7683208fde4e/)| September 17, 2027 |
+| 2024.09.09 | [AWS Certified Machine Learning – Specialty](https://www.credly.com/badges/c48c1b7b-85e6-4413-a065-061ab2ec9181/public_url)| September 09, 2027 |
+| 2024.05.02 | [AWS Certified SysOps Administrator - Associate](https://www.credly.com/badges/e7a6e6c5-2b98-4d6f-9948-4a020b84258c/public_url)| September 17, 2027 |
+| 2024.04.08 | [AWS Certified Cloud Practitioner](https://www.credly.com/badges/58605a66-dcb8-4a39-8314-102f4e03ad92/public_url) | September 17, 2027 |
+| 2024.03.11 | [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/1c11a67f-d94c-49e3-9d1a-8e76054e3b8c/public_url) | March 11, 2027 |
+| 2023.02.06 | [AWS Certified Security - Specialty (SCS-C01)](https://www.credly.com/badges/e17d69ba-0b2a-4b03-adbc-ebde60fc2e00/public_url) | February 06, 2026 |
+| 2022.11.14 | [AWS Certified Developer – Associate](https://www.credly.com/badges/d43ea005-60aa-4c4d-9c3b-c60128245add/public_url) | September 17, 2027 |
+| 2021.03.13 | [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/e9664f78-a8e9-4338-b12a-fc83b1447740/public_url) | Expires: March 11, 2027 |
 
 ### Skill Badge
 
