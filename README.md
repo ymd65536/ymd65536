@@ -46,6 +46,7 @@
 |Speaker Deck|[ymd65536](https://speakerdeck.com/ymd65536)|
 |Ready Tensor|[Ready Tensor](https://app.readytensor.ai/users/ymd65536)|
 |ReadyTensor Contributors|[ReadyTensor Contributors](https://app.readytensor.ai/contributors?sort_by=latest_published_at&sort_order=desc&name=ymd65536)|
+|Google for Developers Profile| [ymd65536](https://developers.google.com/profile/u/ymd65536)| |
 
 ### 受賞歴
 
