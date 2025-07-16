@@ -267,6 +267,7 @@
 | 年月日| 内容|
 |:---|:---|
 | 2025.07.18 | [AOAI Dev Day 2025（Azure OpenAI Service Dev Day 2025）](https://aoai-devday.com/) |
+| 2025.07.15 | [Microsoft MVP を受賞しました（更新）](https://www.iret.co.jp/news/20250715.html) |
 | 2025.07.14 | [EnterpriseZine（エンタープライズジン）にアイレット 山田 顕人の寄稿記事が掲載されました - クラウドの活用とシステム開発・Web開発ならアイレット株式会社（iret）](https://www.iret.co.jp/news/20250714.html) |
 | 2025.07.14 | [文書作成／関数／資料作成でもう悩まなくていい！統合された「Gemini」が“救世主”に (1/3) - EnterpriseZine（エンタープライズジン）](https://enterprisezine.jp/article/detail/22241) |
 | 2025.06.13 |[Google Cloud Partner Tech Influencer Challenge 2025 / Next LasVegas '25 関連コンテンツにおいて、アイレットのエンジニアによるブログが紹介されました](https://www.iret.co.jp/news/20250613-2.html)|
