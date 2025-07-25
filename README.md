@@ -116,6 +116,7 @@
 
 | 年月日     | 内容|資料|
 | :--------- | :------ |:---|
+| 2025.07.25 | [Generative AI X-Meetup Vol.1 Tokyo & Osaka](https://linedevelopercommunity.connpass.com/event/361757/) |[Google ADKを使ったメディア生成AI入門（概要） - Speaker Deck](https://speakerdeck.com/ymd65536/google-adkwoshi-tutamedeiasheng-cheng-airu-men-gai-yao)|
 | 2025.07.02 | [（登壇）なんでもCopilot](https://nandemo.connpass.com/event/360048/)| [GitHubとAzureを使って開発者になろう](https://speakerdeck.com/ymd65536/githubtoazurewoshi-tutekai-fa-zhe-ninarou) |
 | 2025.06.30 | [（登壇）クラウド×AI 勉強会 〜プロバイダー別最新動向・LINE Bot・アーキテクチャ実装事例集〜](https://linedevelopercommunity.connpass.com/event/357762/) | [Google Agent Development Kit でLINE Botを作ってみた](https://speakerdeck.com/ymd65536/google-agent-development-kit-deline-botwozuo-tutemita) |
 | 2025.06.28 | [（運営と登壇）GitHub Copilot Bootcamp .NETラボ 勉強会 2025年6月](https://dotnetlab.connpass.com/event/351953/)| [GitHub Copilot and GitHub Codespaces Hands-on](https://speakerdeck.com/ymd65536/github-copilot-and-github-codespaces-hands-on) |
