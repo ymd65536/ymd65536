@@ -115,12 +115,12 @@
 
 #### 2025年の外部発信
 
-| 年月日     | 内容|資料|
-| :--------- | :------ |:---|
-| 2025.07.26 | [（運営と登壇）.NETラボ 勉強会 2025年7月](https://dotnetlab.connpass.com/event/358430/) | [なぜ発信するのか。何を伝えるのか Qiita Tech Festa 2025の結果報告](https://speakerdeck.com/ymd65536/nazefa-xin-surunoka-he-wochuan-erunoka) |
-| 2025.07.25 | [Generative AI X-Meetup Vol.1 Tokyo & Osaka](https://linedevelopercommunity.connpass.com/event/361757/) |[Google ADKを使ったメディア生成AI入門（概要） - Speaker Deck](https://speakerdeck.com/ymd65536/google-adkwoshi-tutamedeiasheng-cheng-airu-men-gai-yao)|
+| 年月日     | 内容|資料|Docswell|
+| :--------- | :------ |:---|:----|
+| 2025.07.26 | [（運営と登壇）.NETラボ 勉強会 2025年7月](https://dotnetlab.connpass.com/event/358430/) | [なぜ発信するのか。何を伝えるのか Qiita Tech Festa 2025の結果報告](https://speakerdeck.com/ymd65536/nazefa-xin-surunoka-he-wochuan-erunoka) | [リンク](https://www.docswell.com/s/ymd65536/ZX471R-why-communicate-tech-20250726) |
+| 2025.07.25 | [Generative AI X-Meetup Vol.1 Tokyo & Osaka](https://linedevelopercommunity.connpass.com/event/361757/) |[Google ADKを使ったメディア生成AI入門（概要） - Speaker Deck](https://speakerdeck.com/ymd65536/google-adkwoshi-tutamedeiasheng-cheng-airu-men-gai-yao)| [リンク](https://www.docswell.com/s/ymd65536/57JDQ7-google-adk-genai-media-20250726) |
 | 2025.07.02 | [（登壇）なんでもCopilot](https://nandemo.connpass.com/event/360048/)| [GitHubとAzureを使って開発者になろう](https://speakerdeck.com/ymd65536/githubtoazurewoshi-tutekai-fa-zhe-ninarou) |
-| 2025.06.30 | [（登壇）クラウド×AI 勉強会 〜プロバイダー別最新動向・LINE Bot・アーキテクチャ実装事例集〜](https://linedevelopercommunity.connpass.com/event/357762/) | [Google Agent Development Kit でLINE Botを作ってみた](https://speakerdeck.com/ymd65536/google-agent-development-kit-deline-botwozuo-tutemita) |
+| 2025.06.30 | [（登壇）クラウド×AI 勉強会 〜プロバイダー別最新動向・LINE Bot・アーキテクチャ実装事例集〜](https://linedevelopercommunity.connpass.com/event/357762/) | [Google Agent Development Kit でLINE Botを作ってみた](https://speakerdeck.com/ymd65536/google-agent-development-kit-deline-botwozuo-tutemita) | [リンク](https://www.docswell.com/s/ymd65536/KJ8Y2G-google-adk-linebot-20250630) |
 | 2025.06.28 | [（運営と登壇）GitHub Copilot Bootcamp .NETラボ 勉強会 2025年6月](https://dotnetlab.connpass.com/event/351953/)| [GitHub Copilot and GitHub Codespaces Hands-on](https://speakerdeck.com/ymd65536/github-copilot-and-github-codespaces-hands-on) |
 | 2025.06.18 | [（登壇）LINE DC Generative AI Meetup #6](https://linedevelopercommunity.connpass.com/event/355879/) | [Agent Development Kit (ADK) でLINE Bot作ってみた](https://speakerdeck.com/ymd65536/agent-development-kit-adk-deline-botzuo-tutemita) |
 | 2025.05.24 | [（運営と登壇）Microsoft Season of Agent .NETラボ 勉強会 2025年5月](https://dotnetlab.connpass.com/event/351459/)|[(ハンズオン)【Azure】 Azure AI Foundryによるマルチモーダル モデルとエージェントの操作](https://zenn.dev/ymd65536/articles/azure_ai_foundry)|
