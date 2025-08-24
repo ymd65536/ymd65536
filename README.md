@@ -117,6 +117,7 @@
 
 | 年月日     | 内容|資料|Docswell|
 | :--------- | :------ |:---|:----|
+| 2025.08.23 | [（運営と登壇）.NETラボ 勉強会 2025年8月](https://dotnetlab.connpass.com/event/361507/) | [AIエージェント開発、DevOps and LLMOps](https://speakerdeck.com/ymd65536/aiezientokai-fa-devops-and-llmops) | [リンク](https://www.docswell.com/s/ymd65536/KEYJXR-ai-agent-devops-and-llmops-2025-08-23) |
 | 2025.07.26 | [（運営と登壇）.NETラボ 勉強会 2025年7月](https://dotnetlab.connpass.com/event/358430/) | [なぜ発信するのか。何を伝えるのか Qiita Tech Festa 2025の結果報告](https://speakerdeck.com/ymd65536/nazefa-xin-surunoka-he-wochuan-erunoka) | [リンク](https://www.docswell.com/s/ymd65536/ZX471R-why-communicate-tech-20250726) |
 | 2025.07.25 | [Generative AI X-Meetup Vol.1 Tokyo & Osaka](https://linedevelopercommunity.connpass.com/event/361757/) |[Google ADKを使ったメディア生成AI入門（概要） - Speaker Deck](https://speakerdeck.com/ymd65536/google-adkwoshi-tutamedeiasheng-cheng-airu-men-gai-yao)| [リンク](https://www.docswell.com/s/ymd65536/57JDQ7-google-adk-genai-media-20250726) |
 | 2025.07.02 | [（登壇）なんでもCopilot](https://nandemo.connpass.com/event/360048/)| [GitHubとAzureを使って開発者になろう](https://speakerdeck.com/ymd65536/githubtoazurewoshi-tutekai-fa-zhe-ninarou) |
