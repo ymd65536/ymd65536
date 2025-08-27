@@ -232,6 +232,8 @@
 
 | 年月日       | 内容                                                                                                                                                                                                          |
 | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2025.08.19 |[【Google Cloud Next Tokyo 2025】最新の生成 AI モデルへのアップデートに必要な LLMOps](https://iret.media/164554)|
+| 2025.08.14 |[【Google Cloud Next Tokyo 2025】AI for BI – データ活用の未来を拓く Looker 最新アップデート](https://iret.media/164562)|
 | 2025.04.21 | [【Google Cloud Next ’25】Agent Development KitとDev Containerを使って簡単なチャットアプリを起動してみよう - iret.media](https://iret.media/150550) |
 | 2025.04.16 | [【Google Cloud Next ’25】Gemini Code Assist、Gemini Cloud Assist、Firebase Studioまで：Google Cloudが示す次世代開発スタイル - iret.media](https://iret.media/150057) |
 | 2025.04.14 | [【Google Cloud Next ’25】DORAが示すAI導入の課題をGemini Code Assistカスタマイズで解決！ チームの生産性を最大化する実践ガイド - iret.media](https://iret.media/149903) |
