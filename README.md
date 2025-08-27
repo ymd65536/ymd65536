@@ -271,6 +271,7 @@
 
 | 年月日| 内容|
 |:---|:---|
+| 2025.08.27 | [Google Cloud Partner Tech Influencer Challenge 2025 / AI エージェント関連コンテンツのご紹介](https://cloud.google.com/blog/ja/topics/partners/partner-tech-influencer-challenge-2025?e=48754805&hl=ja)|
 | 2025.07.18 | [AOAI Dev Day 2025（Azure OpenAI Service Dev Day 2025）](https://aoai-devday.com/) |
 | 2025.07.15 | [Microsoft MVP を受賞しました（更新）](https://www.iret.co.jp/news/20250715.html) |
 | 2025.07.14 | [EnterpriseZine（エンタープライズジン）にアイレット 山田 顕人の寄稿記事が掲載されました - クラウドの活用とシステム開発・Web開発ならアイレット株式会社（iret）](https://www.iret.co.jp/news/20250714.html) |
