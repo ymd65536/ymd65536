@@ -274,13 +274,18 @@
 | 年月日| 内容|
 |:---|:---|
 | 2025.09.09 | [【社内イベント開催レポート】 Google Cloud に関する取り組みを共有し合おう〜2025 初秋のライトニングトーク大会〜](https://iret.media/165439) |
+| 2025.08.29 | [アイレット広報通信2025年8月号](https://iret.media/166335) |
 | 2025.08.27 | [Google Cloud Partner Tech Influencer Challenge 2025 / AI エージェント関連コンテンツのご紹介](https://cloud.google.com/blog/ja/topics/partners/partner-tech-influencer-challenge-2025?e=48754805&hl=ja)|
+| 2025.08.07 | [【Google Cloud Next Tokyo 2025】最先端の生成 AI を “探検”しよう！ブース・セッション・アイレットメンバーの活躍まで、注目トピックを一挙ご紹介](https://iret.media/162946) |
+| 2025.07.31 | [アイレット広報通信2025年7月号](https://iret.media/161359) |
 | 2025.07.18 | [AOAI Dev Day 2025（Azure OpenAI Service Dev Day 2025）](https://aoai-devday.com/) |
 | 2025.07.15 | [Microsoft MVP を受賞しました（更新）](https://www.iret.co.jp/news/20250715.html) |
 | 2025.07.14 | [EnterpriseZine（エンタープライズジン）にアイレット 山田 顕人の寄稿記事が掲載されました - クラウドの活用とシステム開発・Web開発ならアイレット株式会社（iret）](https://www.iret.co.jp/news/20250714.html) |
 | 2025.07.14 | [文書作成／関数／資料作成でもう悩まなくていい！統合された「Gemini」が“救世主”に (1/3) - EnterpriseZine（エンタープライズジン）](https://enterprisezine.jp/article/detail/22241) |
+| 2025.06.30 | [アイレット広報通信2025年6月号](https://iret.media/158973) |
 | 2025.06.13 |[Google Cloud Partner Tech Influencer Challenge 2025 / Next LasVegas '25 関連コンテンツにおいて、アイレットのエンジニアによるブログが紹介されました](https://www.iret.co.jp/news/20250613-2.html)|
 | 2025.06.13 |[Google Cloud Partner Tech Influencer Challenge 2025 / Next LasVegas '25 関連コンテンツのご紹介](https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-tech-influencer-challenge-2025/)|
+| 2025.05.30 | [アイレット広報通信2025年5月号](https://iret.media/154720) |
 | 2025.05.30 |[AOAI Dev Day 2025（Azure OpenAI Service Dev Day 2025）](https://aoai-devday.com/)|
 | 2025.05.20 | [2024年5月20日｜「AWS Community Builders」にアイレットから新たに5名が選出されました｜クラウドの活用なら cloudpack](https://cloudpack.jp/info/20240520.html) |
 | 2025.05.03 |[MVPs reach Thousands Globally with Microsoft AI Tour](https://techcommunity.microsoft.com/blog/mvp-blog/mvps-reach-thousands-globally-with-microsoft-ai-tour/4410392?wt.mc_id=MVP_357747) |
@@ -295,7 +300,7 @@
 | 2024.09.26 | [Google Cloud パートナー によるテクニカル ブログ チャレンジ Next Tokyo '24 関連記事のご紹介](https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-technical-blog-challenge-next-tokyo-24-related-articles?hl=ja)|
 | 2024.09.24 | [2024 Breakthrough Partner of the Year – Japan 受賞! アイレットにいたから分かったGoogle Cloudの「ここがイイ!」](https://news.mynavi.jp/techplus/kikaku/20240924-3026731/) |
 | 2024.09.18 | [Google Cloudに関する取り組みを共有し合おう！秋のLT大会]()|
-| 202409.045 | [写真に登場【PagerDuty on Tour TOKYO 2024開催レポート】第四弾「エンジニアセッション編」](https://www.pagerduty.co.jp/blog/pagerduty-on-tour-tokyo-2024-report04)|
+| 2024.09.05 | [写真に登場【PagerDuty on Tour TOKYO 2024開催レポート】第四弾「エンジニアセッション編」](https://www.pagerduty.co.jp/blog/pagerduty-on-tour-tokyo-2024-report04)|
 | 2024.08.06 |[Google Cloud 関連の社内勉強会を一挙ご紹介！ 〜エンジニアの技術的なスキルアップ機会が盛り沢山〜](https://iret.media/111722)|
 | 2024.07.18 | [LINE API Expert に認定されました](https://cloudpack.jp/info/20240718.html)|
 | 2024.07.17 | [LINE API Expert 新メンバー をお知らせします(2024年7月)](https://note.com/linedc/n/n3a74523ef292?sub_rt=share_pb) |
