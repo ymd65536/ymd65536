@@ -45,12 +45,16 @@
 |note|[ymd65536](https://note.com/ymd65536)|
 |Speaker Deck|[ymd65536](https://speakerdeck.com/ymd65536)|
 |Ready Tensor|[Ready Tensor](https://app.readytensor.ai/users/ymd65536)|
+|ReadyTensor Contributors|[ReadyTensor Contributors](https://app.readytensor.ai/contributors?sort_by=latest_published_at&sort_order=desc&name=ymd65536)|
+|Google for Developers Profile| [ymd65536](https://developers.google.com/profile/u/ymd65536)|
+| Docswell | [Kento Yamadaさんのプロフィール](https://www.docswell.com/user/ymd65536) |
+| EnterpriseZine Profile | [プロフィール](https://enterprisezine.jp/author/813) |
 
 ### 受賞歴
 
 | 受賞日     | 受賞名                                    |
 | :--------- | :---------------------------------------- |
-| 2025.03.05 | [AWS Community Builder](https://community.aws/@ymd65536) |
+| 2025.03.05 | [AWS Community Builder](https://builder.aws.com/community/@ymd65536) |
 | 2024.11.21 | [Google Cloud Partner Top Engineer 2025 Data Analytics](https://cloud.google.com/blog/ja/topics/partners/partner-top-engineer-2025-award-winners/) |
 | 2024.07.17 | [LINE API Expert](https://developers.line.biz/ja/community/api-experts/jp-kento-yamada/) |
 | 2024.04.01 | [Microsoft MVP for Developer Technologies](https://mvp.microsoft.com/en-US/MVP/profile/3cfc1499-97c3-49f5-9114-1e8ce97d883d)|
@@ -78,16 +82,16 @@
 
 ### AWS認定資格
 
-| 認定日     | AWS認定資格名                                    |
-| :--------- | :-------------------------------------------- |
-| 2024.09.17 | [AWS Certified DevOps Engineer – Professional](https://www.credly.com/badges/1fbaa7a7-4bbf-4aee-abb9-7683208fde4e/)|
-| 2024.09.09 | [AWS Certified Machine Learning – Specialty](https://www.credly.com/badges/c48c1b7b-85e6-4413-a065-061ab2ec9181/public_url)|
-| 2024.05.02 | [AWS Certified SysOps Administrator - Associate](https://www.credly.com/badges/e7a6e6c5-2b98-4d6f-9948-4a020b84258c/public_url)|
-| 2024.04.08 | [AWS Certified Cloud Practitioner](https://www.credly.com/badges/58605a66-dcb8-4a39-8314-102f4e03ad92/public_url) |
-| 2024.03.11 | [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/1c11a67f-d94c-49e3-9d1a-8e76054e3b8c/public_url) |
-| 2023.02.06 | [AWS Certified Security - Specialty (SCS-C01)](https://www.credly.com/badges/e17d69ba-0b2a-4b03-adbc-ebde60fc2e00/public_url) |
-| 2022.11.14 | [AWS Certified Developer – Associate](https://www.credly.com/badges/d43ea005-60aa-4c4d-9c3b-c60128245add/public_url) |
-| 2021.03.13 | [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/e9664f78-a8e9-4338-b12a-fc83b1447740/public_url) |
+| 認定日     | AWS認定資格名                                    | 有効期限 |
+| :--------- | :-------------------------------------------- |:---|
+| 2024.09.17 | [AWS Certified DevOps Engineer – Professional](https://www.credly.com/badges/1fbaa7a7-4bbf-4aee-abb9-7683208fde4e/)| September 17, 2027 |
+| 2024.09.09 | [AWS Certified Machine Learning – Specialty](https://www.credly.com/badges/c48c1b7b-85e6-4413-a065-061ab2ec9181/public_url)| September 09, 2027 |
+| 2024.05.02 | [AWS Certified SysOps Administrator - Associate](https://www.credly.com/badges/e7a6e6c5-2b98-4d6f-9948-4a020b84258c/public_url)| September 17, 2027 |
+| 2024.04.08 | [AWS Certified Cloud Practitioner](https://www.credly.com/badges/58605a66-dcb8-4a39-8314-102f4e03ad92/public_url) | September 17, 2027 |
+| 2024.03.11 | [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/1c11a67f-d94c-49e3-9d1a-8e76054e3b8c/public_url) | March 11, 2027 |
+| 2023.02.06 | [AWS Certified Security - Specialty (SCS-C01)](https://www.credly.com/badges/e17d69ba-0b2a-4b03-adbc-ebde60fc2e00/public_url) | February 06, 2026 |
+| 2022.11.14 | [AWS Certified Developer – Associate](https://www.credly.com/badges/d43ea005-60aa-4c4d-9c3b-c60128245add/public_url) | September 17, 2027 |
+| 2021.03.13 | [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/e9664f78-a8e9-4338-b12a-fc83b1447740/public_url) | March 11, 2027 |
 
 ### Skill Badge
 
@@ -111,11 +115,15 @@
 
 #### 2025年の外部発信
 
-| 年月日     | 内容|資料|
-| :--------- | :------ |:---|
-| 2025.07.02 | なんでもCopilot| coming soon|
-| 2025.06.28 | [（運営と登壇）GitHub Copilot Bootcamp .NETラボ 勉強会 2025年6月](https://dotnetlab.connpass.com/event/351953/)|coming soon|
-| 2025.06.18 | [LINE DC Generative AI Meetup #6](https://linedevelopercommunity.connpass.com/event/355879/) | Agent Development Kit (ADK) でLINE Bot作ってみた |
+| 年月日     | 内容|資料|Docswell|
+| :--------- | :------ |:---|:----|
+| 2025.08.23 | [（運営と登壇）.NETラボ 勉強会 2025年8月](https://dotnetlab.connpass.com/event/361507/) | [AIエージェント開発、DevOps and LLMOps](https://speakerdeck.com/ymd65536/aiezientokai-fa-devops-and-llmops) | [リンク](https://www.docswell.com/s/ymd65536/KEYJXR-ai-agent-devops-and-llmops-2025-08-23) |
+| 2025.07.26 | [（運営と登壇）.NETラボ 勉強会 2025年7月](https://dotnetlab.connpass.com/event/358430/) | [なぜ発信するのか。何を伝えるのか Qiita Tech Festa 2025の結果報告](https://speakerdeck.com/ymd65536/nazefa-xin-surunoka-he-wochuan-erunoka) | [リンク](https://www.docswell.com/s/ymd65536/ZX471R-why-communicate-tech-20250726) |
+| 2025.07.25 | [Generative AI X-Meetup Vol.1 Tokyo & Osaka](https://linedevelopercommunity.connpass.com/event/361757/) |[Google ADKを使ったメディア生成AI入門（概要） - Speaker Deck](https://speakerdeck.com/ymd65536/google-adkwoshi-tutamedeiasheng-cheng-airu-men-gai-yao)| [リンク](https://www.docswell.com/s/ymd65536/57JDQ7-google-adk-genai-media-20250726) |
+| 2025.07.02 | [（登壇）なんでもCopilot](https://nandemo.connpass.com/event/360048/)| [GitHubとAzureを使って開発者になろう](https://speakerdeck.com/ymd65536/githubtoazurewoshi-tutekai-fa-zhe-ninarou) |
+| 2025.06.30 | [（登壇）クラウド×AI 勉強会 〜プロバイダー別最新動向・LINE Bot・アーキテクチャ実装事例集〜](https://linedevelopercommunity.connpass.com/event/357762/) | [Google Agent Development Kit でLINE Botを作ってみた](https://speakerdeck.com/ymd65536/google-agent-development-kit-deline-botwozuo-tutemita) | [リンク](https://www.docswell.com/s/ymd65536/KJ8Y2G-google-adk-linebot-20250630) |
+| 2025.06.28 | [（運営と登壇）GitHub Copilot Bootcamp .NETラボ 勉強会 2025年6月](https://dotnetlab.connpass.com/event/351953/)| [GitHub Copilot and GitHub Codespaces Hands-on](https://speakerdeck.com/ymd65536/github-copilot-and-github-codespaces-hands-on) |
+| 2025.06.18 | [（登壇）LINE DC Generative AI Meetup #6](https://linedevelopercommunity.connpass.com/event/355879/) | [Agent Development Kit (ADK) でLINE Bot作ってみた](https://speakerdeck.com/ymd65536/agent-development-kit-adk-deline-botzuo-tutemita) |
 | 2025.05.24 | [（運営と登壇）Microsoft Season of Agent .NETラボ 勉強会 2025年5月](https://dotnetlab.connpass.com/event/351459/)|[(ハンズオン)【Azure】 Azure AI Foundryによるマルチモーダル モデルとエージェントの操作](https://zenn.dev/ymd65536/articles/azure_ai_foundry)|
 | 2025.05.14 | [（登壇）シネマ de LT会〜あなたのナレッジ大上映〜](https://aeon.connpass.com/event/352070/)|[ビカム・ア・コパイロット](https://speakerdeck.com/ymd65536/bikamuakopairotuto)|
 | 2025.05.10 | [（運営と登壇）Global Azure 2025 - Part4 GitHub Copilot for Azureってなんだろう？](https://jazug.connpass.com/event/348980/)|[Part4 GitHub Copilot for Azureってなんだろう？](https://speakerdeck.com/ymd65536/github-copilot-for-azuretutenantarou)|
@@ -128,7 +136,7 @@
 | 2025.03.18 | [（録画）PromptyによるAI開発入門 - Global AI Boot Camp 2025の登壇](https://www.youtube.com/watch?v=nnOGz5xjbpE) | [ PromptyによるAI開発入門](https://speakerdeck.com/ymd65536/promptyniyoruaikai-fa-ru-men) |
 | 2025.03.11 | [（運営と登壇）Global AI BootCamp - AOAI Dev Day プレイベント](https://azureai.connpass.com/event/345154/)|[ PromptyによるAI開発入門](https://speakerdeck.com/ymd65536/promptyniyoruaikai-fa-ru-men)|
 | 2025.03.06 | [（運営）LINE DC Generative AI Meetup #5](https://linedevelopercommunity.connpass.com/event/345069/)|なし|
-| 2025.03.04 | [（運営と登壇）【ブレイク間近】LINEミニアプリ Tech Meetup #1【LY社員登壇】](https://classmethod.connpass.com/event/345953/)|[LINEミニアプリのガイドラインとポリシーを細かく読んでみた](https://speakerdeck.com/ymd65536/lineminiahurinokaitoraintohorisiwoxi-kakudu-ntemita)|
+| 2025.03.04 | [（運営と登壇）【ブレイク間近】LINEミニアプリ Tech Meetup #1【LY社員登壇】](https://classmethod.connpass.com/event/345953/)|[LINEミニアプリのガイドラインとポリシーを細かく読んでみた](https://speakerdeck.com/ymd65536/lineminiahurinokaitoraintohorisiwoxi-kakudu-ntemita-5bed58b4-5d05-4847-a1ee-14612e14e2ed)|
 | 2025.02.22 | [(運営と登壇).NETラボ 勉強会 2025年2月](https://dotnetlab.connpass.com/event/344101/) | [ML.NETで始める機械学習](https://speakerdeck.com/ymd65536/ml-dot-netdeshi-meruji-jie-xue-xi) |
 | 2025.02.14 | [(登壇)Bedrock Night 2025 〜AIエージェント祭り！〜](https://jawsug.connpass.com/event/344030/)|[Amazon Bedrockでブラウザを操作するAIエージェントを作ってみた](https://speakerdeck.com/ymd65536/amazon-bedrockdeburauzawocao-zuo-suruaiezientowozuo-tutemita)|
 | 2025.02.06 | [(運営)Cloudflare×LINEミニアプリで実践！モダンな予約システムハンズオン](https://linedevelopercommunity.connpass.com/event/342961/)|なし|
@@ -224,6 +232,8 @@
 
 | 年月日       | 内容                                                                                                                                                                                                          |
 | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2025.08.19 |[【Google Cloud Next Tokyo 2025】最新の生成 AI モデルへのアップデートに必要な LLMOps](https://iret.media/164554)|
+| 2025.08.14 |[【Google Cloud Next Tokyo 2025】AI for BI – データ活用の未来を拓く Looker 最新アップデート](https://iret.media/164562)|
 | 2025.04.21 | [【Google Cloud Next ’25】Agent Development KitとDev Containerを使って簡単なチャットアプリを起動してみよう - iret.media](https://iret.media/150550) |
 | 2025.04.16 | [【Google Cloud Next ’25】Gemini Code Assist、Gemini Cloud Assist、Firebase Studioまで：Google Cloudが示す次世代開発スタイル - iret.media](https://iret.media/150057) |
 | 2025.04.14 | [【Google Cloud Next ’25】DORAが示すAI導入の課題をGemini Code Assistカスタマイズで解決！ チームの生産性を最大化する実践ガイド - iret.media](https://iret.media/149903) |
@@ -263,6 +273,21 @@
 
 | 年月日| 内容|
 |:---|:---|
+| 2025.09.17 | [Google Cloud Partner Tech Influencer Challenge 2025 / Google Cloud Next Tokyo 関連コンテンツのご紹介](https://cloud.google.com/blog/ja/topics/partners/partner-tech-influencer-challenge-2025-next-tokyo-related-content) |
+| 2025.09.09 | [【社内イベント開催レポート】 Google Cloud に関する取り組みを共有し合おう〜2025 初秋のライトニングトーク大会〜](https://iret.media/165439) |
+| 2025.08.29 | [アイレット広報通信2025年8月号](https://iret.media/166335) |
+| 2025.08.27 | [Google Cloud Partner Tech Influencer Challenge 2025 / AI エージェント関連コンテンツのご紹介](https://cloud.google.com/blog/ja/topics/partners/partner-tech-influencer-challenge-2025?e=48754805&hl=ja)|
+| 2025.08.07 | [【Google Cloud Next Tokyo 2025】最先端の生成 AI を “探検”しよう！ブース・セッション・アイレットメンバーの活躍まで、注目トピックを一挙ご紹介](https://iret.media/162946) |
+| 2025.07.31 | [アイレット広報通信2025年7月号](https://iret.media/161359) |
+| 2025.07.18 | [AOAI Dev Day 2025（Azure OpenAI Service Dev Day 2025）](https://aoai-devday.com/) |
+| 2025.07.15 | [Microsoft MVP を受賞しました（更新）](https://www.iret.co.jp/news/20250715.html) |
+| 2025.07.14 | [EnterpriseZine（エンタープライズジン）にアイレット 山田 顕人の寄稿記事が掲載されました - クラウドの活用とシステム開発・Web開発ならアイレット株式会社（iret）](https://www.iret.co.jp/news/20250714.html) |
+| 2025.07.14 | [文書作成／関数／資料作成でもう悩まなくていい！統合された「Gemini」が“救世主”に (1/3) - EnterpriseZine（エンタープライズジン）](https://enterprisezine.jp/article/detail/22241) |
+| 2025.06.30 | [アイレット広報通信2025年6月号](https://iret.media/158973) |
+| 2025.06.13 |[Google Cloud Partner Tech Influencer Challenge 2025 / Next LasVegas '25 関連コンテンツにおいて、アイレットのエンジニアによるブログが紹介されました](https://www.iret.co.jp/news/20250613-2.html)|
+| 2025.06.13 |[Google Cloud Partner Tech Influencer Challenge 2025 / Next LasVegas '25 関連コンテンツのご紹介](https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-tech-influencer-challenge-2025/)|
+| 2025.05.30 | [アイレット広報通信2025年5月号](https://iret.media/154720) |
+| 2025.05.30 |[AOAI Dev Day 2025（Azure OpenAI Service Dev Day 2025）](https://aoai-devday.com/)|
 | 2025.05.20 | [2024年5月20日｜「AWS Community Builders」にアイレットから新たに5名が選出されました｜クラウドの活用なら cloudpack](https://cloudpack.jp/info/20240520.html) |
 | 2025.05.03 |[MVPs reach Thousands Globally with Microsoft AI Tour](https://techcommunity.microsoft.com/blog/mvp-blog/mvps-reach-thousands-globally-with-microsoft-ai-tour/4410392?wt.mc_id=MVP_357747) |
 | 2025.04.22 | [写真に登場 Why Community? Voices of Six Japanese MVPs](https://techcommunity.microsoft.com/blog/mvp-blog/why-community-voices-of-six-japanese-mvps/4406447?wt.mc_id=MVP_357747) |
@@ -276,7 +301,7 @@
 | 2024.09.26 | [Google Cloud パートナー によるテクニカル ブログ チャレンジ Next Tokyo '24 関連記事のご紹介](https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-technical-blog-challenge-next-tokyo-24-related-articles?hl=ja)|
 | 2024.09.24 | [2024 Breakthrough Partner of the Year – Japan 受賞! アイレットにいたから分かったGoogle Cloudの「ここがイイ!」](https://news.mynavi.jp/techplus/kikaku/20240924-3026731/) |
 | 2024.09.18 | [Google Cloudに関する取り組みを共有し合おう！秋のLT大会]()|
-| 202409.045 | [写真に登場【PagerDuty on Tour TOKYO 2024開催レポート】第四弾「エンジニアセッション編」](https://www.pagerduty.co.jp/blog/pagerduty-on-tour-tokyo-2024-report04)|
+| 2024.09.05 | [写真に登場【PagerDuty on Tour TOKYO 2024開催レポート】第四弾「エンジニアセッション編」](https://www.pagerduty.co.jp/blog/pagerduty-on-tour-tokyo-2024-report04)|
 | 2024.08.06 |[Google Cloud 関連の社内勉強会を一挙ご紹介！ 〜エンジニアの技術的なスキルアップ機会が盛り沢山〜](https://iret.media/111722)|
 | 2024.07.18 | [LINE API Expert に認定されました](https://cloudpack.jp/info/20240718.html)|
 | 2024.07.17 | [LINE API Expert 新メンバー をお知らせします(2024年7月)](https://note.com/linedc/n/n3a74523ef292?sub_rt=share_pb) |
