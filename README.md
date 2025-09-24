@@ -274,6 +274,7 @@
 
 | 年月日| 内容|
 |:---|:---|
+| 2025.09.20 | [（個人スポンサーとして参加）ServerlessDays Tokyo 2025](https://serverless.connpass.com/event/362044/) |
 | 2025.09.17 | [Google Cloud Partner Tech Influencer Challenge 2025 / Google Cloud Next Tokyo 関連コンテンツのご紹介](https://cloud.google.com/blog/ja/topics/partners/partner-tech-influencer-challenge-2025-next-tokyo-related-content) |
 | 2025.09.09 | [【社内イベント開催レポート】 Google Cloud に関する取り組みを共有し合おう〜2025 初秋のライトニングトーク大会〜](https://iret.media/165439) |
 | 2025.08.29 | [アイレット広報通信2025年8月号](https://iret.media/166335) |
