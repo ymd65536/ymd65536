@@ -117,9 +117,14 @@
 
 | 年月日     | 内容|資料|Docswell|
 | :--------- | :------ |:---|:----|
+| 2025.09.27 | [（運営と登壇）.NETラボ 勉強会 2025年9月](https://dotnetlab.connpass.com/event/364907/)| [ C#および.NETに対する誤解をひも解くPart2](https://speakerdeck.com/ymd65536/c-number-oyobi-dot-netnidui-suruwu-jie-wohimojie-kupart2) |[C#および.NETに対する誤解をひも解くPart2](https://www.docswell.com/s/ymd65536/Z74DGG-csharp-gokai-part2-2025-09-27)|
+| 2025.09.27 | [（運営と登壇）.NETラボ 勉強会 2025年9月](https://dotnetlab.connpass.com/event/364907/)| [AIエージェントの開発と評価、GenAIOps(LLM Ops)](https://speakerdeck.com/ymd65536/aiezientokai-fa-toping-jia-genaiops-llm-ops) | [AIエージェントの開発と評価、GenAIOps(LLMOps) - Azure AI Evaluation SDK](https://www.docswell.com/s/ymd65536/KJQY4X-ai-agent-dev-and-eval-llmops-2025-09-27) |
+| 2025.09.26 | （登壇）Jagu'e'r データ利活用分科会 Looker User Meetup Part 4| coming soon | coming soon |
+| 2025.09.24 | [（運営）[Advanced AIBot Handson]Bedrockフル活用で一歩進んだBotを作ろう！](https://linedevelopercommunity.connpass.com/event/368343/) | なし | なし |
+| 2025.09.19 | [（運営と登壇）Gen AI Skillup by LINE Developer Community](https://linedevelopercommunity.connpass.com/event/367149/) | [Gen AI Skillup by LINE Developer Community - YouTube](https://www.youtube.com/live/9_NPWqbz9Wc?feature=shared) | coming soon |
 | 2025.08.23 | [（運営と登壇）.NETラボ 勉強会 2025年8月](https://dotnetlab.connpass.com/event/361507/) | [AIエージェント開発、DevOps and LLMOps](https://speakerdeck.com/ymd65536/aiezientokai-fa-devops-and-llmops) | [リンク](https://www.docswell.com/s/ymd65536/KEYJXR-ai-agent-devops-and-llmops-2025-08-23) |
 | 2025.07.26 | [（運営と登壇）.NETラボ 勉強会 2025年7月](https://dotnetlab.connpass.com/event/358430/) | [なぜ発信するのか。何を伝えるのか Qiita Tech Festa 2025の結果報告](https://speakerdeck.com/ymd65536/nazefa-xin-surunoka-he-wochuan-erunoka) | [リンク](https://www.docswell.com/s/ymd65536/ZX471R-why-communicate-tech-20250726) |
-| 2025.07.25 | [Generative AI X-Meetup Vol.1 Tokyo & Osaka](https://linedevelopercommunity.connpass.com/event/361757/) |[Google ADKを使ったメディア生成AI入門（概要） - Speaker Deck](https://speakerdeck.com/ymd65536/google-adkwoshi-tutamedeiasheng-cheng-airu-men-gai-yao)| [リンク](https://www.docswell.com/s/ymd65536/57JDQ7-google-adk-genai-media-20250726) |
+| 2025.07.25 | [（登壇）Generative AI X-Meetup Vol.1 Tokyo & Osaka](https://linedevelopercommunity.connpass.com/event/361757/) |[Google ADKを使ったメディア生成AI入門（概要） - Speaker Deck](https://speakerdeck.com/ymd65536/google-adkwoshi-tutamedeiasheng-cheng-airu-men-gai-yao)| [リンク](https://www.docswell.com/s/ymd65536/57JDQ7-google-adk-genai-media-20250726) |
 | 2025.07.02 | [（登壇）なんでもCopilot](https://nandemo.connpass.com/event/360048/)| [GitHubとAzureを使って開発者になろう](https://speakerdeck.com/ymd65536/githubtoazurewoshi-tutekai-fa-zhe-ninarou) |
 | 2025.06.30 | [（登壇）クラウド×AI 勉強会 〜プロバイダー別最新動向・LINE Bot・アーキテクチャ実装事例集〜](https://linedevelopercommunity.connpass.com/event/357762/) | [Google Agent Development Kit でLINE Botを作ってみた](https://speakerdeck.com/ymd65536/google-agent-development-kit-deline-botwozuo-tutemita) | [リンク](https://www.docswell.com/s/ymd65536/KJ8Y2G-google-adk-linebot-20250630) |
 | 2025.06.28 | [（運営と登壇）GitHub Copilot Bootcamp .NETラボ 勉強会 2025年6月](https://dotnetlab.connpass.com/event/351953/)| [GitHub Copilot and GitHub Codespaces Hands-on](https://speakerdeck.com/ymd65536/github-copilot-and-github-codespaces-hands-on) |
@@ -273,6 +278,7 @@
 
 | 年月日| 内容|
 |:---|:---|
+| 2025.09.20 | [（個人スポンサーとして参加）ServerlessDays Tokyo 2025](https://serverless.connpass.com/event/362044/) |
 | 2025.09.17 | [Google Cloud Partner Tech Influencer Challenge 2025 / Google Cloud Next Tokyo 関連コンテンツのご紹介](https://cloud.google.com/blog/ja/topics/partners/partner-tech-influencer-challenge-2025-next-tokyo-related-content) |
 | 2025.09.09 | [【社内イベント開催レポート】 Google Cloud に関する取り組みを共有し合おう〜2025 初秋のライトニングトーク大会〜](https://iret.media/165439) |
 | 2025.08.29 | [アイレット広報通信2025年8月号](https://iret.media/166335) |
