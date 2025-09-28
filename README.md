@@ -119,7 +119,7 @@
 | :--------- | :------ |:---|:----|
 | 2025.09.27 | [（運営と登壇）.NETラボ 勉強会 2025年9月](https://dotnetlab.connpass.com/event/364907/)| [ C#および.NETに対する誤解をひも解くPart2](https://speakerdeck.com/ymd65536/c-number-oyobi-dot-netnidui-suruwu-jie-wohimojie-kupart2) |[C#および.NETに対する誤解をひも解くPart2](https://www.docswell.com/s/ymd65536/Z74DGG-csharp-gokai-part2-2025-09-27)|
 | 2025.09.27 | [（運営と登壇）.NETラボ 勉強会 2025年9月](https://dotnetlab.connpass.com/event/364907/)| [AIエージェントの開発と評価、GenAIOps(LLM Ops)](https://speakerdeck.com/ymd65536/aiezientokai-fa-toping-jia-genaiops-llm-ops) | [AIエージェントの開発と評価、GenAIOps(LLMOps) - Azure AI Evaluation SDK](https://www.docswell.com/s/ymd65536/KJQY4X-ai-agent-dev-and-eval-llmops-2025-09-27) |
-| 2025.09.26 | （登壇）Jagu'e'r データ利活用分科会 Looker User Meetup Part 4| coming soon ||
+| 2025.09.26 | （登壇）Jagu'e'r データ利活用分科会 Looker User Meetup Part 4| なし | なし |
 | 2025.09.24 | [（運営）[Advanced AIBot Handson]Bedrockフル活用で一歩進んだBotを作ろう！](https://linedevelopercommunity.connpass.com/event/368343/) | coming soon ||
 | 2025.09.19 | [（運営と登壇）Gen AI Skillup by LINE Developer Community](https://linedevelopercommunity.connpass.com/event/367149/) | [Gen AI Skillup by LINE Developer Community - YouTube](https://www.youtube.com/live/9_NPWqbz9Wc?feature=shared) | coming soon |
 | 2025.08.23 | [（運営と登壇）.NETラボ 勉強会 2025年8月](https://dotnetlab.connpass.com/event/361507/) | [AIエージェント開発、DevOps and LLMOps](https://speakerdeck.com/ymd65536/aiezientokai-fa-devops-and-llmops) | [リンク](https://www.docswell.com/s/ymd65536/KEYJXR-ai-agent-devops-and-llmops-2025-08-23) |
