@@ -117,6 +117,8 @@
 
 | 年月日     | 内容|資料|Docswell|
 | :--------- | :------ |:---|:----|
+| 2025.10.25 | [（運営と登壇）.NETラボ 勉強会 2025年10月](https://dotnetlab.connpass.com/event/366516/)|[さまざまなAgent FrameworkとAIエージェントの評価](https://speakerdeck.com/ymd65536/samazamanaagent-frameworktoaiezientonoping-jia)|[さまざまなAgent FrameworkとAIエージェントの評価](https://www.docswell.com/s/ymd65536/5VMNWL-ms-agent-framework-eval-2025-10-25)|
+| 2025.10.20 | [（運営）LINE DC Generative AI Meetup #7](https://linedevelopercommunity.connpass.com/event/371716/) |  |  |
 | 2025.09.27 | [（運営と登壇）.NETラボ 勉強会 2025年9月](https://dotnetlab.connpass.com/event/364907/)| [ C#および.NETに対する誤解をひも解くPart2](https://speakerdeck.com/ymd65536/c-number-oyobi-dot-netnidui-suruwu-jie-wohimojie-kupart2) |[C#および.NETに対する誤解をひも解くPart2](https://www.docswell.com/s/ymd65536/Z74DGG-csharp-gokai-part2-2025-09-27)|
 | 2025.09.27 | [（運営と登壇）.NETラボ 勉強会 2025年9月](https://dotnetlab.connpass.com/event/364907/)| [AIエージェントの開発と評価、GenAIOps(LLM Ops)](https://speakerdeck.com/ymd65536/aiezientokai-fa-toping-jia-genaiops-llm-ops) | [AIエージェントの開発と評価、GenAIOps(LLMOps) - Azure AI Evaluation SDK](https://www.docswell.com/s/ymd65536/KJQY4X-ai-agent-dev-and-eval-llmops-2025-09-27) |
 | 2025.09.26 | （登壇）Jagu'e'r データ利活用分科会 Looker User Meetup Part 4| coming soon | coming soon |
