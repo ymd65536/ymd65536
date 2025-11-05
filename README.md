@@ -74,7 +74,7 @@
 | 認定日     | 認定資格名                                    |有効期限|
 | :--------- | :-------------------------------------------- |:---|
 | 2024.01.22 | [Professional Cloud DevOps](https://google.accredible.com/75652b4c-407c-4763-8dc2-8961a3586690) |2026.01.22|
-| 2023.09.21 | [Professional Data Engineer](https://google.accredible.com/7712e81e-a181-48e0-8af3-dd24014f21ad) |2025.09.19|
+| 2023.09.21 | [Professional Data Engineer](https://www.credly.com/badges/cc268f76-54fe-4bee-84eb-2a4f0da3b973/public_url) |2025.09.19|
 | 2023.09.12 | [Professional Cloud Architect](https://google.accredible.com/e308a5bc-1741-45d7-9ef8-865b3a008426) |2025.09.13|
 | 2023.08.03 | [Professional Cloud Developer](https://google.accredible.com/6707d6fc-fd85-4a3d-ae31-7313fa8d8f08) |2025.08.05|
 | 2023.06.21 | [Associate Cloud Engineer](https://www.credential.net/dbcdb8ed-cc1c-41ad-b453-a84185fb56e4) |2026.06.23|
