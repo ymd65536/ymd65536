@@ -54,6 +54,7 @@
 
 | 受賞日     | 受賞名                                    |
 | :--------- | :---------------------------------------- |
+| 2025.11.11 | [Google Cloud Partner Tech Influencer Challenge 2025 個人の部 - 特別賞 マルチメディア 賞](https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-tech-influencer-challenge-2025-winners?e=48754805&hl=ja) |
 | 2025.03.05 | [AWS Community Builder](https://builder.aws.com/community/@ymd65536) |
 | 2024.11.21 | [Google Cloud Partner Top Engineer 2025 Data Analytics](https://cloud.google.com/blog/ja/topics/partners/partner-top-engineer-2025-award-winners/) |
 | 2024.07.17 | [LINE API Expert](https://developers.line.biz/ja/community/api-experts/jp-kento-yamada/) |
