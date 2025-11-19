@@ -54,14 +54,14 @@
 
 |項番| 受賞日     | 受賞名                                    |
 |:---| :--------- | :---------------------------------------- |
-| 1 | 2025.11.19 | [Google Cloud Partner Top Engineer 2026 Serverless App Development](https://cloud.google.com/blog/ja/topics/partners/announcing-the-winners-of-the-google-cloud-partner-top-engineer-2026-award-program?e=48754805&hl=ja) |
-| 2 | 2025.11.11 | [Google Cloud Partner Tech Influencer Challenge 2025 個人の部 - 特別賞 マルチメディア 賞](https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-tech-influencer-challenge-2025-winners?e=48754805&hl=ja) |
-| 3 | 2025.03.05 | [AWS Community Builder](https://builder.aws.com/community/@ymd65536) |
-| 4 | 2024.11.21 | [Google Cloud Partner Top Engineer 2025 Data Analytics](https://cloud.google.com/blog/ja/topics/partners/partner-top-engineer-2025-award-winners/) |
-| 5 | 2024.07.17 | [LINE API Expert](https://developers.line.biz/ja/community/api-experts/jp-kento-yamada/) |
-| 6 | 2024.04.01 | [Microsoft MVP for Developer Technologies](https://mvp.microsoft.com/en-US/MVP/profile/3cfc1499-97c3-49f5-9114-1e8ce97d883d)|
-| 7 | 2024.03.04 | [LAPRAS OUTPUT AWARD 202401](https://note.lapras.com/interview/lapras-output-award-202401_kento-yamada/) |
-| 8 | 2024.02.16 | [Google Cloud Partner Tech Blog Challenge 2023 Cloud AI/ML部門](https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-tech-blog-challenge-2023-winners) |
+| 8 | 2025.11.19 | [Google Cloud Partner Top Engineer 2026 Serverless App Development](https://cloud.google.com/blog/ja/topics/partners/announcing-the-winners-of-the-google-cloud-partner-top-engineer-2026-award-program?e=48754805&hl=ja) |
+| 7 | 2025.11.11 | [Google Cloud Partner Tech Influencer Challenge 2025 個人の部 - 特別賞 マルチメディア 賞](https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-tech-influencer-challenge-2025-winners?e=48754805&hl=ja) |
+| 6 | 2025.03.05 | [AWS Community Builder](https://builder.aws.com/community/@ymd65536) |
+| 5 | 2024.11.21 | [Google Cloud Partner Top Engineer 2025 Data Analytics](https://cloud.google.com/blog/ja/topics/partners/partner-top-engineer-2025-award-winners/) |
+| 4 | 2024.07.17 | [LINE API Expert](https://developers.line.biz/ja/community/api-experts/jp-kento-yamada/) |
+| 3 | 2024.04.01 | [Microsoft MVP for Developer Technologies](https://mvp.microsoft.com/en-US/MVP/profile/3cfc1499-97c3-49f5-9114-1e8ce97d883d)|
+| 2 | 2024.03.04 | [LAPRAS OUTPUT AWARD 202401](https://note.lapras.com/interview/lapras-output-award-202401_kento-yamada/) |
+| 1 | 2024.02.16 | [Google Cloud Partner Tech Blog Challenge 2023 Cloud AI/ML部門](https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-tech-blog-challenge-2023-winners) |
 
 ### Microsoft Azure認定資格
 
