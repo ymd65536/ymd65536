@@ -120,9 +120,9 @@
 
 | 年月日     | 内容|資料|Docswell|
 | :--------- | :------ |:---|:----|
-| 2025.12.20 | [（運営と登壇）.NET Conf 2025 Tokyo Osaka Fukuoka（運営）.NET Conf 2025 Tokyo Osaka Fukuoka（運営））.NET | なし |[Google Cloud上の.NETでA2A環境を構築できる説](https://www.docswell.com/s/ymd65536/58WXV2-google-ai-dotnet-2025-12-20)| 
-| 2025.12.03 | [（運営）AI運用勉強会#1（運営）AI運用勉強会#1（うんえ）AI運用勉強会#1（うん）AI運用勉強会#1（うｎ）AI | なし | なし |
-| 2025.12.02 | [（運営）Replit Meetup Japan #1（運営）Replit Meetup Japan #1（運営））Replit Mee | なし | なし |
+| 2025.12.20 | [（運営と登壇）.NET Conf 2025 Tokyo Osaka Fukuoka](https://dotnetlab.connpass.com/event/371159/)| なし |[Google Cloud上の.NETでA2A環境を構築できる説](https://www.docswell.com/s/ymd65536/58WXV2-google-ai-dotnet-2025-12-20)| 
+| 2025.12.03 | [（運営）AI運用勉強会#1](https://aisysops.connpass.com/event/376375/) | なし | なし |
+| 2025.12.02 | [（運営）Replit Meetup Japan #1](https://aid.connpass.com/event/375340/) | なし | なし |
 | 2025.11.09 | [（登壇）挫折から学ぶLT大会 #2 ～ありがとう、過去の自分！～](https://minna-no-monogatari.connpass.com/event/371580/) |[現場を渡り歩く中で技術者として大事なことを学んだ話](https://speakerdeck.com/ymd65536/xian-chang-wodu-ribu-kuzhong-teji-shu-zhe-tositeda-shi-nakotowoxue-ntahua) | [現場を渡り歩く中で技術者として大事なことを学んだ話](https://www.docswell.com/s/ymd65536/ZDWX9R-engineer-zasetu-lt-2025-11-09) |
 | 2025.10.25 | [（運営と登壇）.NETラボ 勉強会 2025年10月](https://dotnetlab.connpass.com/event/366516/)|[さまざまなAgent FrameworkとAIエージェントの評価](https://speakerdeck.com/ymd65536/samazamanaagent-frameworktoaiezientonoping-jia)|[さまざまなAgent FrameworkとAIエージェントの評価](https://www.docswell.com/s/ymd65536/5VMNWL-ms-agent-framework-eval-2025-10-25)|
 | 2025.10.20 | [（運営）LINE DC Generative AI Meetup #7](https://linedevelopercommunity.connpass.com/event/371716/) | なし | なし |
