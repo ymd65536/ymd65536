@@ -54,6 +54,7 @@
 
 |項番| 受賞日     | 受賞名                                    |
 |:---| :--------- | :---------------------------------------- |
+| 9 | 2026.01.20 | [初代 PagerDutyアンバサダー（PagerDutyアンバサダープログラム）](https://www.pagerduty.co.jp/reccomend/7840/) |
 | 8 | 2025.11.19 | [Google Cloud Partner Top Engineer 2026 Serverless App Development](https://cloud.google.com/blog/ja/topics/partners/announcing-the-winners-of-the-google-cloud-partner-top-engineer-2026-award-program?e=48754805&hl=ja) |
 | 7 | 2025.11.11 | [Google Cloud Partner Tech Influencer Challenge 2025 個人の部 - 特別賞 マルチメディア 賞](https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-tech-influencer-challenge-2025-winners?e=48754805&hl=ja) |
 | 6 | 2025.03.05 | [AWS Community Builder](https://builder.aws.com/community/@ymd65536) |
