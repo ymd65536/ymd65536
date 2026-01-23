@@ -248,6 +248,10 @@
 
 | 年月日       | 内容                                                                                                                                                                                                          |
 | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2025.11.26 | [【GitHub Universe Recap Tokyo】GitHub Universe Recap Tokyo 2025 イベントレポート](https://iret.media/177231) |
+| 2025.10.07 | [Looker User Meetup に登壇！運用分析におけるセマンティックレイヤーの構築](https://iret.media/170648) |
+| 2025.10.03 | [【TiDB User Day 2025】Scale intelligently in the era of AI 基調講演レポート](https://iret.media/170147) |
+| 2025.09.08 | [運用分析プラットフォームでバイブスを上げろ！LookerによるVibe Analytics](https://iret.media/167444) |
 | 2025.08.19 |[【Google Cloud Next Tokyo 2025】最新の生成 AI モデルへのアップデートに必要な LLMOps](https://iret.media/164554)|
 | 2025.08.14 |[【Google Cloud Next Tokyo 2025】AI for BI – データ活用の未来を拓く Looker 最新アップデート](https://iret.media/164562)|
 | 2025.04.21 | [【Google Cloud Next ’25】Agent Development KitとDev Containerを使って簡単なチャットアプリを起動してみよう - iret.media](https://iret.media/150550) |
