@@ -289,6 +289,7 @@
 
 | 年月日| 内容|
 |:---|:---|
+| 2026.01.19 | [「PagerDutyアンバサダープログラム」を始動 —— デジタルオペレーションの未来を拓くリーダーたちとともに](https://www.pagerduty.co.jp/reccomend/7840/)|
 | 2025.11.19 | [アイレットから33名が Google Cloud Partner Top Engineer 2026 に選出](https://cloudpack.jp/info/20251119.html) |
 | 2025.11.11 | [Google Cloud Partner Tech Influencer Challenge 2025 にて、特別賞を受賞しました](https://cloudpack.jp/info/20251111-2.html) |
 | 2025.09.20 | [（個人スポンサーとして参加）ServerlessDays Tokyo 2025](https://serverless.connpass.com/event/362044/) |
