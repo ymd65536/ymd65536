@@ -117,6 +117,12 @@
 
 ### 外部発信
 
+#### 2026年の外部発信
+
+| 年月日     | 内容|資料|Docswell|
+| :--------- | :------ |:---|:----|
+| 2026.01.24 | [（運営と登壇）.NETラボ 勉強会 2026年1月](https://dotnetlab.connpass.com/event/374748/) |[.NETとA2Aプロトコルの現在地](https://speakerdeck.com/ymd65536/dot-nettoa2apurotokorunoxian-zai-di)|[.NETとA2Aプロトコルの現在地](https://www.docswell.com/s/ymd65536/ZN9W3W-2026-01-24)|
+
 #### 2025年の外部発信
 
 | 年月日     | 内容|資料|Docswell|
