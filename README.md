@@ -121,6 +121,7 @@
 
 | 年月日     | 内容|資料|Docswell|
 | :--------- | :------ |:---|:----|
+| 2026.02.04 | [（運営と登壇）AI運用勉強会](https://aisysops.connpass.com/event/380839/) | クラウド運用とAIエージェント |[クラウド運用とAIエージェント](https://aisysops.connpass.com/event/380839/presentation/) |
 | 2026.01.24 | [（運営と登壇）.NETラボ 勉強会 2026年1月](https://dotnetlab.connpass.com/event/374748/) |[.NETとA2Aプロトコルの現在地](https://speakerdeck.com/ymd65536/dot-nettoa2apurotokorunoxian-zai-di)|[.NETとA2Aプロトコルの現在地](https://www.docswell.com/s/ymd65536/ZN9W3W-2026-01-24)|
 
 #### 2025年の外部発信
@@ -299,6 +300,7 @@
 
 | 年月日| 内容|
 |:---|:---|
+| 2026.02.04 | [生成AI × セマンティックレイヤーは「鬼に金棒」？ Looker User Meetup #4 参加レポート](https://note.com/nikkei_r_datapro/n/n9a6b515b9e15)|
 | 2026.01.19 | [「PagerDutyアンバサダープログラム」を始動 —— デジタルオペレーションの未来を拓くリーダーたちとともに](https://www.pagerduty.co.jp/reccomend/7840/)|
 | 2025.11.19 | [アイレットから33名が Google Cloud Partner Top Engineer 2026 に選出](https://cloudpack.jp/info/20251119.html) |
 | 2025.11.11 | [Google Cloud Partner Tech Influencer Challenge 2025 にて、特別賞を受賞しました](https://cloudpack.jp/info/20251111-2.html) |
