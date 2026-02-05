@@ -121,6 +121,8 @@
 
 | 年月日     | 内容|資料|Docswell|
 | :--------- | :------ |:---|:----|
+| 2026.02.20 | （予定）Jagu'e'rイベント | - | - |
+| 2026.02.16 | （予定）LINE Developer イベント Agent to Agent Protocol関連 | - | - |
 | 2026.02.04 | [（運営と登壇）AI運用勉強会](https://aisysops.connpass.com/event/380839/) | クラウド運用とAIエージェント |[クラウド運用とAIエージェント](https://aisysops.connpass.com/event/380839/presentation/) |
 | 2026.01.24 | [（運営と登壇）.NETラボ 勉強会 2026年1月](https://dotnetlab.connpass.com/event/374748/) |[.NETとA2Aプロトコルの現在地](https://speakerdeck.com/ymd65536/dot-nettoa2apurotokorunoxian-zai-di)|[.NETとA2Aプロトコルの現在地](https://www.docswell.com/s/ymd65536/ZN9W3W-2026-01-24)|
 
