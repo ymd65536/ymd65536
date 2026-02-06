@@ -49,6 +49,7 @@
 |Google for Developers Profile| [ymd65536](https://developers.google.com/profile/u/ymd65536)|
 | Docswell | [Kento Yamadaさんのプロフィール](https://www.docswell.com/user/ymd65536) |
 | EnterpriseZine Profile | [プロフィール](https://enterprisezine.jp/author/813) |
+| iret 公式プロフィール | [トップエンジニア クラウドの活用とシステム開発・Web開発ならアイレット株式会社（iret）](https://www.iret.co.jp/topengineer/member/yamada/?award=google-cloud-partner-top-engineer) |
 
 ### 受賞歴
 
