@@ -125,7 +125,7 @@
 | :--------- | :------ |:---|:----|
 | 2026.04.XX | comming soon | - | - |
 | 2026.04.02 | comming soon | - | - |
-| 2026.03.20 | [（運営と登壇）.NETラボ 勉強会 2026年3月](https://dotnetlab.connpass.com/event/378930/)| - | - |
+| 2026.03.20 | [（運営と登壇）.NETラボ 勉強会 2026年3月](https://dotnetlab.connpass.com/event/378930/)| - | [MCPとA2Aプロトコルによるマルチエージェントシステムの開発](https://www.docswell.com/s/ymd65536/KWR1VY-2026-03-20) |
 | 2026.03.12 | [（登壇）AI Agent Builders Meetup #2](https://aibuilders.connpass.com/event/385164/)| - | [AIエージェントをAzureにホイっとデリバリーできるMicrosoft Foundryの魔法があることを君たちはまだ知らない](https://www.docswell.com/s/ymd65536/ZMQWNG-2026-03-12) |
 | 2026.02.28 | [（運営と登壇）.NETラボ 勉強会 2026年2月](https://dotnetlab.connpass.com/event/378424/) | - | [A2Aとマルチエージェントシステムの設計](https://www.docswell.com/s/ymd65536/5YVYPV-2026-02-28) |
 | 2026.02.20 | （登壇）Next PTE is You. Partner Top Engineer 2026 受賞者が語るリアルと未来 歴代Rookieも乱入！？受賞者だらけの裏話 | [AWSのプロがひしめく環境でどう生き残る？ アイレットで挑んだGoogle Cloud PTE（B方式）受賞の裏側](https://iret.media/186772) | - |
