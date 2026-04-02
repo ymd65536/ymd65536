@@ -123,7 +123,7 @@
 
 | 年月日     | 内容|資料|Docswell|
 | :--------- | :------ |:---|:----|
-| 2026.04.25 | [GitHub Copilot Dev Days Tokyo- .NETラボ 勉強会 2026年4月](https://dotnetlab.connpass.com/event/383200/) | - | - |
+| 2026.04.25 | [（運営と登壇）GitHub Copilot Dev Days Tokyo- .NETラボ 勉強会 2026年4月](https://dotnetlab.connpass.com/event/383200/) | - | - |
 | 2026.04.23 | [（運営と登壇）【事例から学ぶ！】データ定義が9割—AI分析を正しく動かすための「データの整え方」](https://wake-career.connpass.com/event/387581/) | - | - |
 | 2026.04.08 | [（運営と登壇）AI運用勉強会#3 - Age of Agentic Ops](https://aisysops.connpass.com/event/388512/) | - | 祝AWS DevOps Agent GA |
 | 2026.04.02 | [（登壇）第190回 雲勉 Agent2Agent(A2A)によるマルチエージェントシステムの設計](https://youtu.be/ZtX5posULv4?si=CUYnuYU9Yl4kE05f)|[第190回 雲勉 Agent2Agent(A2A)によるマルチエージェントシステムの設計](https://www.docswell.com/s/kumoben_iret/59NV17-2026-04-02-164418)|
