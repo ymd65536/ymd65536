@@ -131,7 +131,7 @@
 | 2026.03.12 | [（登壇）AI Agent Builders Meetup #2](https://aibuilders.connpass.com/event/385164/)| - | [AIエージェントをAzureにホイっとデリバリーできるMicrosoft Foundryの魔法があることを君たちはまだ知らない](https://www.docswell.com/s/ymd65536/ZMQWNG-2026-03-12) |
 | 2026.02.28 | [（運営と登壇）.NETラボ 勉強会 2026年2月](https://dotnetlab.connpass.com/event/378424/) | - | [A2Aとマルチエージェントシステムの設計](https://www.docswell.com/s/ymd65536/5YVYPV-2026-02-28) |
 | 2026.02.20 | （登壇）Next PTE is You. Partner Top Engineer 2026 受賞者が語るリアルと未来 歴代Rookieも乱入！？受賞者だらけの裏話 | [AWSのプロがひしめく環境でどう生き残る？ アイレットで挑んだGoogle Cloud PTE（B方式）受賞の裏側](https://iret.media/186772) | - |
-| 2026.02.16 | （登壇）AIエージェント × お買い物 入門 ─ AIがあなたの代わりに買い物する仕組みを学ぼう | - | [Agent Payments Protocol（AP2）の解説](https://www.docswell.com/s/ymd65536/K747J1-2026-02-16) |
+| 2026.02.16 | [（登壇）AIエージェント × お買い物 入門 ─ AIがあなたの代わりに買い物する仕組みを学ぼう](https://linedevelopercommunity.connpass.com/event/383437/) | - | [Agent Payments Protocol（AP2）の解説](https://www.docswell.com/s/ymd65536/K747J1-2026-02-16) |
 | 2026.02.04 | [（運営と登壇）AI運用勉強会](https://aisysops.connpass.com/event/380839/) | クラウド運用とAIエージェント |[クラウド運用とAIエージェント](https://aisysops.connpass.com/event/380839/presentation/) |
 | 2026.01.24 | [（運営と登壇）.NETラボ 勉強会 2026年1月](https://dotnetlab.connpass.com/event/374748/) |[.NETとA2Aプロトコルの現在地](https://speakerdeck.com/ymd65536/dot-nettoa2apurotokorunoxian-zai-di)|[.NETとA2Aプロトコルの現在地](https://www.docswell.com/s/ymd65536/ZN9W3W-2026-01-24)|
 
