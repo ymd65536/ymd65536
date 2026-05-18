@@ -42,6 +42,7 @@
 | zenn    | [ymd65536](https://zenn.dev/ymd65536)     |
 |YouTube|[Kento.Yamada](https://www.youtube.com/channel/UCAvF68W9-pBcME8uGHFKuLg)|
 |はてなブログ|[やまだのBlog](https://ymd65536.hatenablog.com/)|
+| LinkedIn | [ymd65536](https://www.linkedin.com/in/ymd65536/)|
 |note|[ymd65536](https://note.com/ymd65536)|
 |Speaker Deck|[ymd65536](https://speakerdeck.com/ymd65536)|
 |Ready Tensor|[Ready Tensor](https://app.readytensor.ai/users/ymd65536)|
