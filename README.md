@@ -271,6 +271,11 @@
 
 | 年月日       | 内容                                                                                                                                                                                                          |
 | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2026.05.21 | [ハンズオン！Gemini Enterprise Agent PlatformでAIエージェントを開発しよう！](https://iret.media/197219)|
+| 2026.04.28 | [運用分析のためのレイクハウス：PagerDuty ＋ Databricks ＋ Lookerで始めるデータ活用検証](https://iret.media/195771)|
+| 2026.04.17 | [【PagerDuty Tech Day 2026】AIエージェントが導くインシデント解決の最前線](https://iret.media/193920)|
+| 2026.02.18 | [AWSのプロがひしめく環境でどう生き残る？ アイレットで挑んだGoogle Cloud PTE（B方式）受賞の裏側](https://iret.media/186772)|
+| 2026.02.09 | [「AI運用勉強会#2」登壇レポート：AMSとAIエージェントが切り拓くクラウド運用の未来](https://iret.media/185536)|
 | 2025.11.26 | [【GitHub Universe Recap Tokyo】GitHub Universe Recap Tokyo 2025 イベントレポート](https://iret.media/177231) |
 | 2025.10.07 | [Looker User Meetup に登壇！運用分析におけるセマンティックレイヤーの構築](https://iret.media/170648) |
 | 2025.10.03 | [【TiDB User Day 2025】Scale intelligently in the era of AI 基調講演レポート](https://iret.media/170147) |
@@ -317,7 +322,6 @@
 | 年月日| 内容|
 |:---|:---|
 | 2026.05.29 | [Google Cloud Partner Tech Influencer Challenge 2026 / Google Cloud Next ’26 関連コンテンツのご紹介](https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-tech-influencer-challenge-2026-next-26-related-content?e=48754805&hl=ja)|
-| 2026.05.21 | [ハンズオン！Gemini Enterprise Agent PlatformでAIエージェントを開発しよう！](https://iret.media/197219)|
 | 2026.02.04 | [生成AI × セマンティックレイヤーは「鬼に金棒」？ Looker User Meetup #4 参加レポート](https://note.com/nikkei_r_datapro/n/n9a6b515b9e15)|
 | 2026.01.19 | [「PagerDutyアンバサダープログラム」を始動 —— デジタルオペレーションの未来を拓くリーダーたちとともに](https://www.pagerduty.co.jp/reccomend/7840/)|
 | 2025.11.19 | [アイレットから33名が Google Cloud Partner Top Engineer 2026 に選出](https://cloudpack.jp/info/20251119.html) |
