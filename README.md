@@ -316,6 +316,8 @@
 
 | 年月日| 内容|
 |:---|:---|
+| 2026.05.29 | [Google Cloud Partner Tech Influencer Challenge 2026 / Google Cloud Next ’26 関連コンテンツのご紹介](https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-tech-influencer-challenge-2026-next-26-related-content?e=48754805&hl=ja)|
+| 2026.05.21 | [ハンズオン！Gemini Enterprise Agent PlatformでAIエージェントを開発しよう！](https://iret.media/197219)|
 | 2026.02.04 | [生成AI × セマンティックレイヤーは「鬼に金棒」？ Looker User Meetup #4 参加レポート](https://note.com/nikkei_r_datapro/n/n9a6b515b9e15)|
 | 2026.01.19 | [「PagerDutyアンバサダープログラム」を始動 —— デジタルオペレーションの未来を拓くリーダーたちとともに](https://www.pagerduty.co.jp/reccomend/7840/)|
 | 2025.11.19 | [アイレットから33名が Google Cloud Partner Top Engineer 2026 に選出](https://cloudpack.jp/info/20251119.html) |
