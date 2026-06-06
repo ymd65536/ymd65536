@@ -125,8 +125,9 @@
 
 | 年月日     | 内容|資料|Docswell|
 | :--------- | :------ |:---|:----|
-| 2026.05.25 | [GitHub Copilot CLI を装備せよ 〜実践テクニック共有会 LT Night〜](https://findy.connpass.com/event/391200/) | - | [GitHub Copilot CLIとSDKで複数のCopilotを起動してA2Aプロトコルで接続する方法](https://www.docswell.com/s/ymd65536/59NRNM-2026-05-25) |
-| 2026.05.23 | [.NETラボ 勉強会 2026年5月](https://dotnetlab.connpass.com/event/386362/) | - | [AIエージェントによるシステム運用の理想と現実](https://www.docswell.com/s/ymd65536/Z1QX28-2026-05-23) |
+| 2026.06.05 | [（登壇）Jagu'e'r - 中部分科会](https://jaguer.jp/chubu_lp/) | AIデータ分析に必要なデータモデリング | - |
+| 2026.05.25 | [（登壇）GitHub Copilot CLI を装備せよ 〜実践テクニック共有会 LT Night〜](https://findy.connpass.com/event/391200/) | - | [GitHub Copilot CLIとSDKで複数のCopilotを起動してA2Aプロトコルで接続する方法](https://www.docswell.com/s/ymd65536/59NRNM-2026-05-25) |
+| 2026.05.23 | [（運営と登壇）.NETラボ 勉強会 2026年5月](https://dotnetlab.connpass.com/event/386362/) | - | [AIエージェントによるシステム運用の理想と現実](https://www.docswell.com/s/ymd65536/Z1QX28-2026-05-23) |
 | 2026.04.25 | [（運営と登壇）GitHub Copilot Dev Days Tokyo- .NETラボ 勉強会 2026年4月](https://dotnetlab.connpass.com/event/383200/) | - | [GitHub Copilot SDKによるマルチコーディングエージェントシステムの開発](https://www.docswell.com/s/ymd65536/ZJW913-2026-04-25) |
 | 2026.04.23 | [（登壇）【事例から学ぶ！】データ定義が9割—AI分析を正しく動かすための「データの整え方」](https://wake-career.connpass.com/event/387581/) | [アーカイブ配信中【事例から学ぶ！】データ定義が9割—AI分析を正しく動かすための「データの整え方」](https://wake-career.jp/community/events/7d034711-c3d7-473d-9f69-6cb439078c29) | - |
 | 2026.04.18 | [（登壇）Global Azure 2026 @ Tokyo](https://jazug.connpass.com/event/386399/) | - | [AIエージェントの評価、上から見るか？下から見るか？](https://www.docswell.com/s/ymd65536/53JM6M-2026-04-18) |
