@@ -125,7 +125,8 @@
 
 | 年月日     | 内容|資料|Docswell|
 | :--------- | :------ |:---|:----|
-| 2026.06.27 | [（運営と登壇）.NETラボ 勉強会 2026年6月](https://dotnetlab.connpass.com/event/390843/) | - | AzureサービスとAIエージェントによるシステム運用の現実解 |
+| 2026.06.27 | [（運営と登壇）.NETラボ 勉強会 2026年6月](https://dotnetlab.connpass.com/event/390843/) | - | [AIがあるのになぜ人はブログを書くのか - Qiita Tech Festa 2026中間報告](https://www.docswell.com/s/ymd65536/5DMM9L-2026-06-27) |
+| 2026.06.27 | [（運営と登壇）.NETラボ 勉強会 2026年6月](https://dotnetlab.connpass.com/event/390843/) | - | [AzureサービスとAIエージェントによるシステム運用の現実解](https://www.docswell.com/s/ymd65536/5MQQGG-2026-06-27) |
 | 2026.06.17 | [Google Cloud CCoE Summit'26](https://cloudonair.withgoogle.com/events/ccoe-summit26) | [「親会社 ✕ 情報子会社」の阿吽（あうん）。 〜忖度を乗り越えるチューニング〜](https://cloudonair.withgoogle.com/events/ccoe-summit26?talk=session07) | - |
 | 2026.06.05 | [（登壇）Jagu'e'r - 中部分科会](https://jaguer.jp/chubu_lp/) | AIによるデータ分析に必要なデータモデリング | - |
 | 2026.05.25 | [（登壇）GitHub Copilot CLI を装備せよ 〜実践テクニック共有会 LT Night〜](https://findy.connpass.com/event/391200/) | - | [GitHub Copilot CLIとSDKで複数のCopilotを起動してA2Aプロトコルで接続する方法](https://www.docswell.com/s/ymd65536/59NRNM-2026-05-25) |
