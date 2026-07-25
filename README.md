@@ -125,6 +125,8 @@
 
 | 年月日     | 内容|資料|Docswell|
 | :--------- | :------ |:---|:----|
+| 2026.07.25 |（運営と登壇）[.NETラボ 勉強会 2026年7月](https://dotnetlab.connpass.com/event/393450/) | - | [Azureや.NET、Microsoft製品で学んだことや気づいたことを共有しよう](https://www.docswell.com/s/ymd65536/ZMQYLN-2026-07-25-2) |
+| 2026.07.25 |（運営と登壇）[.NETラボ 勉強会 2026年7月](https://dotnetlab.connpass.com/event/393450/) | - | [Azure AIエージェントによるシステム運用の実践と検証](https://www.docswell.com/s/ymd65536/ZQ2LM7-2026-07-25) |
 | 2026.07.17 | [（登壇）その深夜のデータベースメンテナンス、本当に必要ですか？](https://oceanbase.connpass.com/event/398914/)| - | [実際に触って分かったOceanBaseとSeekDBのリアル](https://www.docswell.com/s/ymd65536/ZDM9XG-2026-07-16) |
 | 2026.06.27 | [（運営と登壇）.NETラボ 勉強会 2026年6月](https://dotnetlab.connpass.com/event/390843/) | - | [AIがあるのになぜ人はブログを書くのか - Qiita Tech Festa 2026中間報告](https://www.docswell.com/s/ymd65536/5DMM9L-2026-06-27) |
 | 2026.06.27 | [（運営と登壇）.NETラボ 勉強会 2026年6月](https://dotnetlab.connpass.com/event/390843/) | - | [AzureサービスとAIエージェントによるシステム運用の現実解](https://www.docswell.com/s/ymd65536/5MQQGG-2026-06-27) |
