@@ -125,7 +125,8 @@
 
 | 年月日     | 内容|資料|Docswell|
 | :--------- | :------ |:---|:----|
-| 2026.08.22 | [（運営と登壇）.NETラボ 勉強会 2026年8月](https://dotnetlab.connpass.com/event/396232/)| [Azure AIエージェントによる自律型運用の実践](https://www.docswell.com/s/ymd65536/ZL3ND8-2026-08-22) |
+| 2026.08.22 | [（運営と登壇）.NETラボ 勉強会 2026年8月](https://dotnetlab.connpass.com/event/396232/)| [【Hardware DevOps】GitHubで始めるManufacturing as Code](https://qiita.com/ymd65536/items/523e87d0d9e92d2a67b3) | - |
+| 2026.08.22 | [（運営と登壇）.NETラボ 勉強会 2026年8月](https://dotnetlab.connpass.com/event/396232/)| - | [Azure AIエージェントによる自律型運用の実践](https://www.docswell.com/s/ymd65536/ZL3ND8-2026-08-22) |
 | 2026.07.25 |[（運営と登壇）.NETラボ 勉強会 2026年7月](https://dotnetlab.connpass.com/event/393450/) | - | [Azureや.NET、Microsoft製品で学んだことや気づいたことを共有しよう](https://www.docswell.com/s/ymd65536/ZMQYLN-2026-07-25-2) |
 | 2026.07.25 |[（運営と登壇）.NETラボ 勉強会 2026年7月](https://dotnetlab.connpass.com/event/393450/) | - | [Azure AIエージェントによるシステム運用の実践と検証](https://www.docswell.com/s/ymd65536/ZQ2LM7-2026-07-25) |
 | 2026.07.17 | [（登壇）その深夜のデータベースメンテナンス、本当に必要ですか？](https://oceanbase.connpass.com/event/398914/)| - | [実際に触って分かったOceanBaseとSeekDBのリアル](https://www.docswell.com/s/ymd65536/ZDM9XG-2026-07-16) |
