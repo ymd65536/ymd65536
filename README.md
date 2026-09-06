@@ -125,6 +125,7 @@
 
 | 年月日     | 内容|資料|Docswell|
 | :--------- | :------ |:---|:----|
+| 2026.09.05 | [（登壇）Dev Days Tokyo - GitHub Copilot appに入門！](https://azure-waigaya.connpass.com/event/405261/) | [たまに機械語でデレる隣のAIさん](https://github.com/ymd65536/TamaMachineAI) | - |
 | 2026.08.22 | [（運営と登壇）.NETラボ 勉強会 2026年8月](https://dotnetlab.connpass.com/event/396232/)| [【Hardware DevOps】GitHubで始めるManufacturing as Code](https://qiita.com/ymd65536/items/523e87d0d9e92d2a67b3) | - |
 | 2026.08.22 | [（運営と登壇）.NETラボ 勉強会 2026年8月](https://dotnetlab.connpass.com/event/396232/)| - | [Azure AIエージェントによる自律型運用の実践](https://www.docswell.com/s/ymd65536/ZL3ND8-2026-08-22) |
 | 2026.07.25 |[（運営と登壇）.NETラボ 勉強会 2026年7月](https://dotnetlab.connpass.com/event/393450/) | - | [Azureや.NET、Microsoft製品で学んだことや気づいたことを共有しよう](https://www.docswell.com/s/ymd65536/ZMQYLN-2026-07-25-2) |
