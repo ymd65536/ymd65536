@@ -272,6 +272,7 @@
 
 |年月日|タイトル|レビュー|
 |:---|:---|:---|
+|2026.09.12|AIエージェント開発の知識地図|[【読書レビュー】AI時代の道しるべ、AIエージェント開発の知識地図 〜仕組みから開発、運用、ガバナンスまで〜](https://ymd65536.hatenablog.com/entry/2026/09/12/122042)|
 |2025.05.15|独習Python|[【読書レビュー】Python入門書の決定版、独習Python 第2版](https://ymd65536.hatenablog.com/entry/2025/05/15/143300)|
 |2025.05.12|Azureの知識地図|[【読書レビュー】過去最強のAzure入門書、Azureの知識地図 〜クラウドの基礎から実装・運用管理まで](https://ymd65536.hatenablog.com/entry/2025/05/12/114334)|
 |2024.07.14|独習ASP.NET Core|[独習ASP.NET Coreをレビュー！ - 404ニキのBlog@hatena](https://ymd65536.hatenablog.com/entry/2024/07/14/174606)|
