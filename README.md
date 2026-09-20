@@ -40,7 +40,7 @@
 | Qiita   | [ymd65536](https://qiita.com/ymd65536)    |
 | Qiita(ms) | [ymd65536-ms](https://qiita.com/ymd65536-ms) |
 | zenn    | [ymd65536](https://zenn.dev/ymd65536)     |
-|YouTube|[Kento.Yamada](https://www.youtube.com/channel/UCAvF68W9-pBcME8uGHFKuLg)|
+|YouTube|[HuskyCode](https://youtube.com/@ymd65536?si=bmh4JLNQnkhITORo)|
 |はてなブログ|[やまだのBlog](https://ymd65536.hatenablog.com/)|
 | LinkedIn | [ymd65536](https://www.linkedin.com/in/ymd65536/)|
 |note|[ymd65536](https://note.com/ymd65536)|
