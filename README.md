@@ -1,4 +1,4 @@
-
+v
 # プロフィール
 
 - [プロフィール](#プロフィール)
@@ -80,9 +80,9 @@
 
 | 認定日     | 認定資格名                                    |有効期限|
 | :--------- | :-------------------------------------------- |:---|
-| 2025.11.10 | [Professional Machine Learning Engineer](https://www.credly.com/badges/ed3b175a-7ff1-4cf8-a63d-049b9f3a564f/public_url)| 2027.11.10 |
-| 2024.01.22 | [Professional Cloud DevOps](https://google.accredible.com/75652b4c-407c-4763-8dc2-8961a3586690) |2026.01.22|
-| 2023.09.21 | [Professional Data Engineer](https://www.credly.com/badges/cc268f76-54fe-4bee-84eb-2a4f0da3b973/public_url) |2027.10.20|
+| 2025.11.10 | [Professional Machine Learning Engineer](https://www.credly.com/badges/ed3b175a-7ff1-4cf8-a63d-049b9f3a564f)| 2027.11.10 |
+| 2024.01.22 | [Professional Cloud DevOps](https://www.credly.com/badges/7dcb4398-8799-440a-bb75-f79449f976d9) |2028.09.25|
+| 2023.09.21 | [Professional Data Engineer](https://www.credly.com/badges/cc268f76-54fe-4bee-84eb-2a4f0da3b973) |2027.10.20|
 | 2023.09.12 | [Professional Cloud Architect](https://google.accredible.com/e308a5bc-1741-45d7-9ef8-865b3a008426) |2025.09.13|
 | 2023.08.03 | [Professional Cloud Developer](https://google.accredible.com/6707d6fc-fd85-4a3d-ae31-7313fa8d8f08) |2025.08.05|
 | 2023.06.21 | [Associate Cloud Engineer](https://www.credential.net/dbcdb8ed-cc1c-41ad-b453-a84185fb56e4) |2026.06.23|
@@ -125,6 +125,7 @@
 
 | 年月日     | 内容|資料|Docswell|
 | :--------- | :------ |:---|:----|
+| 2026.09.19 | [（運営）C# Kaigi 2026](https://csharpkaigi.connpass.com/event/394163/)| - | - |
 | 2026.09.05 | [（登壇）Dev Days Tokyo - GitHub Copilot appに入門！](https://azure-waigaya.connpass.com/event/405261/) | [たまに機械語でデレる隣のAIさん](https://github.com/ymd65536/TamaMachineAI) | - |
 | 2026.08.22 | [（運営と登壇）.NETラボ 勉強会 2026年8月](https://dotnetlab.connpass.com/event/396232/)| [【Hardware DevOps】GitHubで始めるManufacturing as Code](https://qiita.com/ymd65536/items/523e87d0d9e92d2a67b3) | - |
 | 2026.08.22 | [（運営と登壇）.NETラボ 勉強会 2026年8月](https://dotnetlab.connpass.com/event/396232/)| - | [Azure AIエージェントによる自律型運用の実践](https://www.docswell.com/s/ymd65536/ZL3ND8-2026-08-22) |
