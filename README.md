@@ -124,6 +124,8 @@
 
 | 年月日     | 内容|資料|Docswell|
 | :--------- | :------ |:---|:----|
+| 2026.09.26 | [（運営と登壇）.NETラボ 勉強会 2026年9月](https://dotnetlab.connpass.com/event/399503/) | - | [C# Kaigiの振り返り](https://www.docswell.com/s/ymd65536/KR873R-2026-09-26) |
+| 2026.09.26 | [（運営と登壇）.NETラボ 勉強会 2026年9月](https://dotnetlab.connpass.com/event/399503/) | - | [Azure AIによるエージェント型運用の実験管理](https://www.docswell.com/s/ymd65536/5Y86NE-2026-09-26) |
 | 2026.09.19 | [（運営）C# Kaigi 2026](https://csharpkaigi.connpass.com/event/394163/)| - | - |
 | 2026.09.05 | [（登壇）Dev Days Tokyo - GitHub Copilot appに入門！](https://azure-waigaya.connpass.com/event/405261/) | [たまに機械語でデレる隣のAIさん](https://github.com/ymd65536/TamaMachineAI) | - |
 | 2026.08.22 | [（運営と登壇）.NETラボ 勉強会 2026年8月](https://dotnetlab.connpass.com/event/396232/)| [【Hardware DevOps】GitHubで始めるManufacturing as Code](https://qiita.com/ymd65536/items/523e87d0d9e92d2a67b3) | - |
