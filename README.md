@@ -39,6 +39,7 @@
 | Qiita   | [ymd65536](https://qiita.com/ymd65536)    |
 | Qiita(ms) | [ymd65536-ms](https://qiita.com/ymd65536-ms) |
 | zenn    | [ymd65536](https://zenn.dev/ymd65536)     |
+| iret.media | [ke-yamada](https://iret.media/author/ke-yamada) |
 |YouTube|[HuskyCode](https://youtube.com/@ymd65536?si=bmh4JLNQnkhITORo)|
 |はてなブログ|[やまだのBlog](https://ymd65536.hatenablog.com/)|
 | LinkedIn | [ymd65536](https://www.linkedin.com/in/ymd65536/)|
@@ -287,6 +288,9 @@
 
 | 年月日       | 内容                                                                                                                                                                                                          |
 | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2026.10.15 | [Lookerによる運用分析を通して学んだこと](https://iret.media/209842)|
+| 2026.09.18 | [3度目の受賞、Microsoft MVPの活動を振り返って考えたこれまでとこれから](https://iret.media/208325) |
+| 2026.09.08 | [Google Cloudで考えるエージェント型システム運用と自律型運用の課題](https://iret.media/207680) |
 | 2026.05.21 | [ハンズオン！Gemini Enterprise Agent PlatformでAIエージェントを開発しよう！](https://iret.media/197219)|
 | 2026.04.28 | [運用分析のためのレイクハウス：PagerDuty ＋ Databricks ＋ Lookerで始めるデータ活用検証](https://iret.media/195771)|
 | 2026.04.17 | [【PagerDuty Tech Day 2026】AIエージェントが導くインシデント解決の最前線](https://iret.media/193920)|
