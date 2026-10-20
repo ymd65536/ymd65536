@@ -124,6 +124,7 @@
 
 | 年月日     | 内容|資料|Docswell|
 | :--------- | :------ |:---|:----|
+| 2026.10.24 | [（運営と登壇）.NETラボ 勉強会 2026年10月](https://dotnetlab.connpass.com/event/400124/) | - |
 | 2026.10.22 | [（登壇）Copilot CLI × DevOps - Avanade Japan](https://avanadejapantech.connpass.com/event/406658/) | - |
 | 2026.09.26 | [（運営と登壇）.NETラボ 勉強会 2026年9月](https://dotnetlab.connpass.com/event/399503/) | - | [C# Kaigiの振り返り](https://www.docswell.com/s/ymd65536/KR873R-2026-09-26) |
 | 2026.09.26 | [（運営と登壇）.NETラボ 勉強会 2026年9月](https://dotnetlab.connpass.com/event/399503/) | - | [Azure AIによるエージェント型運用の実験管理](https://www.docswell.com/s/ymd65536/5Y86NE-2026-09-26) |
