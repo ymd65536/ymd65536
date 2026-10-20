@@ -30,6 +30,44 @@
     - [某社教育サービスの制作協力(2022年3月)](#某社教育サービスの制作協力2022年3月)
     - [リリース中のアプリケーション](#リリース中のアプリケーション)
 
+## Engineering Philosophy
+
+システムは開発して終わりではなく、運用を通じて継続的に改善していくものだと考えています。
+開発と運用を分断せず、システムの振る舞いを観測し、得られた情報を設計や実装に還元することを重視しています。
+AIエージェントによる自動化も単に人間の作業を置き換えるのではなく、運用のあり方そのものを再検討するための技術として捉えています。
+
+## Current Focus
+
+Multi-Cloud Backend Engineer / Cloud Architecture / DevSecOps
+クラウドネイティブなアプリケーション開発、システム運用の自動化、AIエージェントの開発に取り組んでいるバックエンドエンジニアです。AWS、Google Cloud、Microsoft Azureを中心に、クラウドサービスを活用したシステム開発から運用設計、可観測性、DevSecOpsまで幅広い領域で活動しています。エンタープライズ領域のクラウドシステム開発に従事しています。
+技術コミュニティでの登壇、OSSの検証、技術記事の執筆を通じて、実装から得られた知見を継続的に発信しています。
+
+特に関心を持って取り組んでいる技術領域は以下のとおりです。
+
+| Area | Focus |
+|---|---|
+| Cloud Native | AWS、Azure、Google Cloudを利用したサーバレスアプリケーション開発 |
+| Backend Development | C# / .NET、Pythonを中心としたバックエンド開発 |
+| Agentic Operations | AIエージェントによるシステム運用の自動化と高度化 |
+| AI Agent Engineering | GitHub Copilot SDK、MCP、A2Aを利用したエージェントシステム開発 |
+| Observability | OpenTelemetryによるアプリケーションとAIエージェントの可観測性 |
+| DevSecOps | GitHub Actions、IaC、セキュリティと運用の自動化 |
+| Data Engineering | BigQuery、Looker、LookMLによるデータモデリングと運用分析 |
+
+### Cloud Native & Backend Engineering
+
+AWS Lambda、Azure Functions、Google Cloudのサーバレス技術を中心に、バックエンドアーキテクチャの設計と実装を検証しています。特に.NET / C#によるマルチクラウド開発、クラウドサービスの特性比較、実行環境の選択に関心があります。
+
+## Career
+
+| Period | Role |
+|---|---|
+| 2016–2022 | ネットワークセキュリティ、社内システム開発、エンジニアリングマネジメント |
+| 2022–2026.09 | MSP向けシステム開発、クラウド運用自動化、運用分析 |
+| 2026.10–Present | エンタープライズ領域のクラウドシステム開発 |
+
+これまでネットワークセキュリティ、バックエンド開発、システム運用、データ分析、クラウドアーキテクチャといった複数の領域を経験してきました。現在はDeveloperとしての実装経験を基盤に、システム全体の設計と運用を考慮したアーキテクチャに取り組んでいます。
+
 ## 基本情報
 
 | key     | value                                     |
@@ -388,251 +426,8 @@
 | 2023.01.26 | [（写真に登場）最後のクラウドエバ亀田さんが卒業イベントで残してくれたもの](https://ascii.jp/elem/000/004/122/4122040/2/) |
 | 2022.03.16 | [（一部登場）“年収200万のブラックSIer”から”GMO主任エンジニア”に。くろかわこうへい主宰の『CloudTech』から自走できるAWSエンジニアが生まれるワケ](https://and-engineer.com/articles/YhdlgBMAACAAgDqf) |
 
-## 現在のポジション
-
-一般/Webアプリケーションエンジニア
-
-## 活かせる経験スキル
-
-多角的な視点で社内外にある課題や問題を技術をもって解決することが一番の武器です。
-
-具体的には
-
-- 社内独自のパッケージを作成
-- 社内業務を見直して非効率な部分を特定
-- 社内業務改善に向けての要件定義・設計・実装・テスト・納品の全工程を担当
-- 社内向けツール開発
-- 社内向けツール改修
-
-## 主な業務経歴
-
-### 要約
-
-- 2016年4月にエンジニアとして通信キャリアの子会社に新卒のエンジニア（ITスペシャリスト）として入社
-- 2016年 ~ 2017年9月末、オンプレミス環境のインフラエンジニア（ネットワーク、セキュリティ、サーバ）として従事
-- 2017年10月 ~ 2022年9月末、オンプレミス環境の開発エンジニアとして従事
-- 2022年10月 ~ 現在、MSP向け内製システムの開発とクラウドの運用分析を担当
-  - 在籍中に多くのベンダー資格と称号を取得、書籍の執筆、登壇、外部発信を行っている
-
-## 得意な技術スタック
-
-※2022年10月時点の実績で記載
-
-### 実務経験あり
-
-実務において利用経験があり、その中でも経験が濃く、知見が深いものをリストアップしています。
-
-- OS  
-  - Windows 7
-  - Windows 10  
-  - macOS
-  - Ubuntu
-
-- データベース
-  - PostgreSQL
-  - SQLite3
-
-- 言語
-  - C#
-  - Python3
-  - PHP
-  - PowerShell
-  - Bash
-  - SQL
-
-- フレームワーク
-  - dotNET Framework4.8
-  - dotNET Core5.0
-  - dotNET6.0
-
-- SaaS/PaaaS
-  - GitHub
-
-- Microsoft
-  - Excel
-  - Access
-  - Visual Studio Code
-
-- ツール
-  - JupyterNotebook
-  - Git
-
-- BIおよびDWH  
-  - DOMO
-  - Redash
-
-- 構成管理ツール  
-  - Docker
-
-- ソフトウェア特有の命令言語
-  - TeraTerm Language(TeraTerm Macro)
-  - UWSC
-  - VBA(Excel Access Word Outlook)
-
-- AWS
-  - Amazon Ahtena
-  - AWS Glue
-  - AWS Glue DataBrew
-  - Amazon RDS
-  - Amazon ECS Fargate
-  - Amazon ECR
-  - Amazon Elastic Container Service
-  - Amazon Elastic Compute Cloud
-  - Amazon Elastic Block Store
-  - Amazon Virtual Private Cloud
-  - Amazon Simple Storage Service（Amazon S3）
-  - Amazon Cloud Front
-  - Amazon Route 53
-  - Amazon Elastic Load Balancing
-  - AWS Lambda
-  - AWS SDK for Python
-
-- Google Cloud
-  - Looker
-
-- その他
-  - WebDriver
-
-### 無理なく扱える技術
-
-実務において利用経験があるものの、得意とも不得意とも言えないものをリストアップしています。
-※やろうと思えば、使えるレベルの技術を列挙しています。
-
-- 言語
-  - HTML
-  - CSS
-  - JavaScript(Vanilla JS)
-  - Perl
-
-- フレームワーク
-  - JQuery
-  - Vue.js
-
-- RPA
-  - UiPath
-
-- AWS
-  - Amazon Sagemaker Studio
-
-- Google Cloud（検証で利用）
-  - BigQuery
-  - Vertex AI
-  - Cloud Storage
-
-### 実務利用なし、学習済の技術
-
-実務において利用経験がないものの、個人で学習したことがあるものをリストアップしています。
-
-- OS  
-  - CentOS  
-
-- データベース
-  - MySQL
-
-- 言語
-  - C
-  - C++
-  - R
-  - Rust
-  - TypeScript
-  - Node.js
-
-- その他
-  - Apache HTTP Server
-  - LINE Messaging API
-  - LINE Notify
-  - Virtual Box
-
-- 構成管理ツール  
-  - Terraform
-
 ## Most Used Language
 
 GitHub上における言語の割合は以下の通りです。
 
 ![利用言語の割合](https://github-readme-stats.vercel.app/api/top-langs/?username=ymd65536&layout=compact)
-
-## 個人活動
-
-本業以外（所属企業が関与しない）の取り組みについて記載します。
-
-### スタートアップ企業の支援(2022年5月)
-
-- 利用技術
-  - 言語
-    - Python
-  - クラウド
-    - Amazon ECS Fargate
-    - Amazon ECR
-    - Amazon Elastic Container Service
-    - Amazon Elastic Compute Cloud
-    - Amazon Elastic Block Store
-    - Amazon Virtual Private Cloud
-    - Amazon Simple Storage Service
-    - AWS Lambda
-    - Amazon AppFlow
-    - AWS Glue
-    - AWS Glue DataBrew
-    - Amazon Sagemaker Studio
-  - 構成管理ツール
-    - Terraform
-    - docker
-    - AWS CDK
-  - ツール
-    - JupyterNotebook
-
-- 課題・背景
-
-スタートアップ企業様向けクラウド構築支援が主な業務
-
-具体的には以下の業務
-
-- サービスのローンチが遅れている為、そのヘルプに入ること
-- セキュリティインシデントの調査を実行すること
-- クラウド環境におけるセキュリティログの調査
-  - マイニングツール（XMRig）によるマイニング被害の分析作業
-- JupyterHub環境の構築
-  - Fargate Spawnerを利用した柔軟性の高いJupyterHub環境の検証、設計、構築
-  - Docker Spawner（ARM64のDockerイメージ）を利用したJupyterHub環境の検証、設計、構築
-  - Amazon WorkSpaces用Radiusサーバの設計、構築
-- 社内の技術的な質問対応および教育
-  - オブジェクト指向プログラミングの指導
-  - 社内社員の要望と相談受付
-    - 実現したいことをまとめて、手段や実現方法の概略を提供するなどのアドバイザのような役割
-  - Dockerfileの作成指導
-  - AWSサービスの解説指導
-  - インフラ構築の要件定義・提案・設計・レビュー対応
-- データ分析基盤の構築
-  - Amazon Sagemaker Studioのセットアップ
-  - Glueおよび　Glue DataBrewによるETL
-  - Amazon AppFlowによるAWSとSalesforceの連携
-
-### 某社教育サービスの制作協力(2022年3月)
-
-- 利用技術
-  - 言語
-    - Python
-    - Node.js
-  - クラウド
-    - AWS Lambda
-    - Amazon DynamoDB
-    - Amazon DynamoDB Accelerator (DAX)
-    - Amazon CloudWatch Logs
-
-- 課題・背景
-
-  エンジニア志望者向けの動画制作  
-  DynamoDBおよびLambdaの解説動画の制作  
-  DynamoDBおよびLambdaの検証
-
-### リリース中のアプリケーション
-
-- [LegacyBrowser](https://github.com/ymd65536/LegacyBrowser/releases/tag/Browser)  
-WebBrowserコントロールベース、IE互換のレガシーブラウザです。  
-Microsoft Edgeなどのモダンブラウザを一部の社内システムで利用できないケースで利用できます。  
-また、既存のVBA資産を活かしつつ、社内システムも利用できるようにする為に開発しました。  
-
-Windowsフォーム上でWebBrowserを利用している為、C# によるDOM操作が可能  
-VBAのDOM操作をC#のDOM操作にリプレイスできるアプリケーションとして機能する為  
-VBAによるWebオートメーションをC#によるWebオートメーションにリプレイス可能となる。  
-※レガシーコードの段階的なアップデートをサポートすることも目的
