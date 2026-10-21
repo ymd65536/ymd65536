@@ -136,6 +136,7 @@ AWS Lambda、Azure Functions、Google Cloudのサーバレス技術を中心に�
 | 2026.10.24 | [（運営と登壇）.NETラボ 勉強会 2026年10月](https://dotnetlab.connpass.com/event/400124/) | - |
 | 2026.10.22 | [（登壇）Copilot CLI × DevOps - Avanade Japan](https://avanadejapantech.connpass.com/event/406658/) | - |
 | 2026.10.17 | [（運営）【開催レポート】熱気と本音が交差する！ 『生成 AI × クラウド万博2026』ハイブリッド開催を徹底レポート！](https://iret.media/210167) | - |
+| 2026.09.29 | （運営）PagerDuty Tech Hub 2026 | [PagerDuty初の体験型技術カンファレンス「PagerDuty Tech Hub 2026」を開催](https://www.pagerduty.co.jp/topics/9476/) | |
 | 2026.09.26 | [（運営と登壇）.NETラボ 勉強会 2026年9月](https://dotnetlab.connpass.com/event/399503/) | - | [C# Kaigiの振り返り](https://www.docswell.com/s/ymd65536/KR873R-2026-09-26) |
 | 2026.09.26 | [（運営と登壇）.NETラボ 勉強会 2026年9月](https://dotnetlab.connpass.com/event/399503/) | - | [Azure AIによるエージェント型運用の実験管理](https://www.docswell.com/s/ymd65536/5Y86NE-2026-09-26) |
 | 2026.09.19 | [（運営）C# Kaigi 2026](https://csharpkaigi.connpass.com/event/394163/)| - | - |
