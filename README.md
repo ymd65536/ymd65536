@@ -133,6 +133,7 @@ AWS Lambda、Azure Functions、Google Cloudのサーバレス技術を中心に�
 
 | 年月日     | 内容|資料|Docswell|
 | :--------- | :------ |:---|:----|
+| 2026.11.05 | [（登壇）【After Party】db tech showcase 2026 登壇者と語る、分散DBのリアル](https://oceanbase.connpass.com/event/407887/)| - |[データベースを統合すれば、運用は楽になるのか](https://www.docswell.com/s/ymd65536/53JV1P-2026-11-08)|
 | 2026.10.24 | [（運営と登壇）.NETラボ 勉強会 2026年10月](https://dotnetlab.connpass.com/event/400124/) | - |
 | 2026.10.22 | [（登壇）Copilot CLI × DevOps - Avanade Japan](https://avanadejapantech.connpass.com/event/406658/) | - |
 | 2026.10.17 | [（運営）【開催レポート】熱気と本音が交差する！ 『生成 AI × クラウド万博2026』ハイブリッド開催を徹底レポート！](https://iret.media/210167) | - |
