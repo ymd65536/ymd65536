@@ -64,6 +64,7 @@ AWS Lambda、Azure Functions、Google Cloudのサーバレス技術を中心に�
 
 |項番| 受賞日     | 受賞名                                    |
 |:---| :--------- | :---------------------------------------- |
+| 12 | 2026.11.25 | [Google Cloud Partner Top Engineer 2027 Cloud AI/ML](https://cloud.google.com/blog/ja/topics/partners/announcing-the-winners-of-the-google-cloud-partner-top-engineer-2027-award-program?hl=ja)|
 | 11 | 2026.05.25 | [記事投稿コンテスト「GitHub Copilot 活用選手権」 - Zenn GitHub Copilot SDK賞](https://zenn.dev/ymd65536/articles/a2a_on_kubernetes)|
 | 10 | 2026.01.20 | [初代 PagerDutyアンバサダー（PagerDutyアンバサダープログラム）](https://www.pagerduty.co.jp/reccomend/7840/) |
 | 9 | 2026.01.14 | [iret Top Engineer](https://www.iret.co.jp/topengineer/member/yamada/?award=google-cloud-partner-top-engineer) |
