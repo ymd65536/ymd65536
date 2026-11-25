@@ -353,6 +353,7 @@ AWS Lambda、Azure Functions、Google Cloudのサーバレス技術を中心に�
 
 | 年月日| 内容|
 |:---|:---|
+| 2026.11.25 | [KDDIアイレットから過去最多44名が Google Cloud Partner Top Engineer 2027 に選出 - Fellow 兼 Google Cloud Ambassador に2名、Rookie of the Year を初受賞](https://cloudpack.jp/info/20261125.html)|
 | 2026.11.20 | [日本から参加した3人が注目するGitHubの新機能は？ GitHub Universe 2026の会場で聞いた現場の本音](https://codezine.jp/article/detail/30218)|
 | 2026.05.29 | [Google Cloud Partner Tech Influencer Challenge 2026 / Google Cloud Next ’26 関連コンテンツのご紹介](https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-tech-influencer-challenge-2026-next-26-related-content?e=48754805&hl=ja)|
 | 2026.02.04 | [生成AI × セマンティックレイヤーは「鬼に金棒」？ Looker User Meetup #4 参加レポート](https://note.com/nikkei_r_datapro/n/n9a6b515b9e15)|
